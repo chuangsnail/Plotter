@@ -182,7 +182,7 @@ public:
 	void WriteIn( const string& option );
 	
 	//for plots or some applicatin
-	void GetObjs( string& file_name, string& option );
+	void GetObjs( const string& file_name, const string& option );
 
 	void FillHist( const string&, const int&, const string&, const double&, const double&, const double& );
 	//how many cut, k(which sample), channel name, hadmass, lepmass, weight
@@ -470,7 +470,7 @@ Hists_Acp::WriteIn()
 
 }
 
-void Hists::GetObjs( string& file_name, string& option )
+void Hists::GetObjs( const string& file_name, const string& option )
 {
 	TFile* f = new TFile( (char*)file_name.c_str() );
 	

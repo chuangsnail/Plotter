@@ -2,6 +2,8 @@
 #include "plot_bbsep_real_no.h"
 #include "mva_cut.h"
 #include "plot_bbsep_leptop.h"
+#include "draw_bbsep_eff_chi2.h"
+
 
 using namespace std;
 
@@ -33,16 +35,39 @@ void exe()
 	//bbsep_all("cor_bbsep_p03_MLP_200102_1609.root","p03_MLP");
 	//bbsep_all("cor_bbsep_p03_BDTG_200102_1625.root","p03_BDTG");
 	//bbsep_all("corbb_p05_0-2_MLP_200107_1710.root","p05_MLP");
-	bbsep_all("corbb_p05_all_MLP_200121_1007.root","p05_all_MLP");
+	//bbsep_all("corbb_p05_all_MLP_200121_1007.root","p05_all_MLP");
 	//mva_cut("p05_all_MLP_CRshape","","_MLP_eff.root");
+
+	//t13
+	bbsep_all("cor_bbsep_t13_BDTG_200723_0350.root","t13_BDTG");
+	bbsep_all("cor_bbsep_t13_BDT_200723_0349.root","t13_BDT");
+	bbsep_all("cor_bbsep_t13_MLP_200723_0330.root","t13_MLP");
+
+	//a04
+
+	bbsep_all("cor_bbsep_a04_BDT_200717_0453.root","a04_BDT");
+	bbsep_all("cor_bbsep_a04_BDTG_200717_0508.root","a04_BDTG");
+	bbsep_all("cor_bbsep_a04_MLP_200717_0453.root","a04_MLP");
+
+	//a05
 	
+	bbsep_all("cor_bbsep_a05_BDT_200717_0342.root","a05_BDT");
+	bbsep_all("cor_bbsep_a05_BDTG_200717_0337.root","a05_BDTG");
+	bbsep_all("cor_bbsep_a05_MLP_200717_0323.root","a05_MLP");
+
+	//bbsep_all("bbsep_chi2_191025_0539.root","chi2");
+
 }
 
 
 void bbsep_all( const string& filename, const string& newfile_name )
 {
-	draw_eff( filename, newfile_name );
-	plot_bbsep_real_no( filename, newfile_name );
-	plot_bbsep_lt( filename, newfile_name );
+	//draw_eff( filename, newfile_name );
+	//plot_bbsep_real_no( filename, newfile_name );
+	//plot_bbsep_lt( filename, newfile_name );
+	plot_bbsep_mva( filename, newfile_name );
+
+	//plot_bbsep_chi2( filename, newfile_name );
+	//draw_eff_chi2( filename, newfile_name );
 }
 

@@ -4,6 +4,20 @@ a01 BDTG : -0.45
 
 p01 MLP : 0.24
 p01 BDTG : -0.5
+P01 BDT : -0.08
 
 p03 MLP : 0.22
 p03 BDTG : -0.51
+
+t13 MLP : 0.16
+T13 BDTG : -0.28
+T13 BDT : -0.1
+
+A05 MLP : 0.22
+A05 BDTG : -0.5
+A05 BDT : -0.1
+
+A04 MLP : 0.2
+A04 BDTG : -0.57
+A04 BDT : -0.21
+

@@ -11,35 +11,143 @@
 using namespace std;
 //std::to_string()
 //Drawing
-							    
-TPad* GetBotPad()
+
+class Plotter
 {
-    TPad* bot = new TPad( "botpad", "", 0, 0.00, 1, 0.3 );
+public:
+	
+
+	vector<int> color_set;
+
+	double BOTPAD_MARGIN_TOP;
+	double BOTPAD_MARGIN_BOT;
+	double BOTPAD_MARGIN_RIGHT;
+	double BOTPAD_MARGIN_LEFT;
+
+	double TOPPAD_MARGIN_TOP;
+	double TOPPAD_MARGIN_BOT;
+	double TOPPAD_MARGIN_RIGHT;
+	double TOPPAD_MARGIN_LEFT;
+
+	double LEG_TOP;
+	double LEG_BOT;
+	double LEG_LEFT;
+	double LEG_RIGHT;
+
+	double range_min;
+	double range_max;
+
+	double CANVAS_X;
+	double CANVAS_Y;
+
+	string x_title_set;
+
+	string opt_tx;
+
+	Plotter()
+	{
+		color_set.push_back(kRed-4);
+		color_set.push_back(kYellow-9);
+		color_set.push_back(kBlue-7);
+		color_set.push_back(kCyan-3);
+		color_set.push_back(kGray+2);
+		color_set.push_back(kMagenta);
+
+		BOTPAD_MARGIN_TOP = 0.025;
+		BOTPAD_MARGIN_BOT = 0.105/0.3;
+		BOTPAD_MARGIN_RIGHT = 0.05;
+		BOTPAD_MARGIN_LEFT = 0.13;
+
+		TOPPAD_MARGIN_TOP = 0.1/0.7;
+		TOPPAD_MARGIN_BOT = 0.05;
+		TOPPAD_MARGIN_RIGHT = 0.05;
+		TOPPAD_MARGIN_LEFT = 0.13;
+
+		LEG_TOP = 0.6/0.7-0.05;
+		LEG_BOT = 0.4;
+		LEG_LEFT = 0.54;
+		LEG_RIGHT = 0.95-0.05;
+
+		range_min = 0.;
+		range_max = 0.;
+
+		CANVAS_X = 700.;
+		CANVAS_Y = 600.;
+
+		opt_tx = "preliminary";
+		x_title_set = "";
+	}
+
+	void SetXRange( const double m, const double& M )
+	{
+		range_max = M;
+		range_min = m;
+	}
+
+	void SetLegXRange( const double m, const double& M )
+	{
+		LEG_LEFT = m;
+		LEG_RIGHT = M;
+	}
+
+	void SetLegYRange( const double m, const double& M )
+	{
+		LEG_BOT = m;
+		LEG_TOP = M;
+	}
+
+	void SetCanvasRatio( const double x, const double& y )
+	{
+		CANVAS_X = x;
+		CANVAS_Y = y;
+	}
+
+	void SetXTitle(const string& t)
+	{
+		x_title_set = t;
+	}
+
+	TPad* GetBotPad();
+	TPad* GetTopPad();
+	TLegend* GetLegend();
+	void SaveToPDF(TCanvas* c,const string& filename);
+	TCanvas* Plot_DataMC(TCanvas* c, TH1F* h_data ,vector<TH1F*>& h_mcs ,const vector<string>& histo_names,vector<string>& text);
+	void Plot_Stack( const string& fname, vector<TH1F*>& h_mu, vector<TH1F*>& h_el );
+
+};
+
+							    
+TPad* 
+Plotter::GetBotPad()
+{
+    TPad* bot = new TPad( "botpad", "", 0., 0., 1., 0.3 );
 	bot->SetTicks( 1, 1 );
-	bot->SetTopMargin( 0.025 );
-	bot->SetLeftMargin( 0.13 );
-	bot->SetRightMargin( 0.05 );
-	bot->SetBottomMargin( 0.105/0.3 );
+	bot->SetTopMargin( BOTPAD_MARGIN_TOP );
+	bot->SetLeftMargin( BOTPAD_MARGIN_LEFT );
+	bot->SetRightMargin( BOTPAD_MARGIN_RIGHT );
+	bot->SetBottomMargin( BOTPAD_MARGIN_BOT );
 
 	return bot;
 }
 
-TPad* GetTopPad()
+TPad* 
+Plotter::GetTopPad()
 {
 	TPad* top = new TPad( "toppad", "" , 0, 0.3 , 1., 1.0 );//(x_low,y_low,x_up,y_up)
 	top->SetTicks( 1, 1 );
-	top->SetBottomMargin( 0.05 );
-	top->SetLeftMargin( 0.13 );
-	top->SetRightMargin( 0.05 );
-	top->SetTopMargin( 0.1/0.7 );
+	top->SetBottomMargin( TOPPAD_MARGIN_BOT );
+	top->SetLeftMargin( TOPPAD_MARGIN_LEFT );
+	top->SetRightMargin( TOPPAD_MARGIN_RIGHT );
+	top->SetTopMargin( TOPPAD_MARGIN_TOP );
 
 	return top;
 }
 
-TLegend* GetLegend()
+TLegend* 
+Plotter::GetLegend()
 {
 	//auto legend = new TLegend(0.54,0.4,0.95,0.6/0.7);		//the (0.95,0.6/0.7) is to match the toppad's margin (0.05,0.1/0.7)
-	auto legend = new TLegend(0.54,0.4,0.95-0.05,0.6/0.7-0.05);		//the (0.95,0.6/0.7) is to match the toppad's margin (0.05,0.1/0.7)
+	auto legend = new TLegend(LEG_LEFT,LEG_BOT,LEG_RIGHT,LEG_TOP);		//the (0.95,0.6/0.7) is to match the toppad's margin (0.05,0.1/0.7)
 	//auto legend = new TLegend(0.2,0.4,0.5,0.6/0.7-0.05);
 	legend->SetTextFont( 43 );
 	legend->SetTextSize( 16 );
@@ -49,36 +157,42 @@ TLegend* GetLegend()
 	return legend;
 }
 
-void SaveToPDF(TCanvas* c,const string& filename)
-{	c->SaveAs( filename.c_str() );	}
+void 
+Plotter::SaveToPDF(TCanvas* c,const string& filename)
+{	
+	c->Print( filename.c_str() );
+}
 
 TCanvas* 
-Plot_DataMC(TCanvas* c, TH1F* h_data ,vector<TH1F*>& h_mcs ,const vector<string>& histo_names,vector<string>& text)
+Plotter::Plot_DataMC(TCanvas* c, TH1F* h_data ,vector<TH1F*>& h_mcs ,const vector<string>& histo_names,vector<string>& text)
 //histo_names need to be {data_name , MC1_name , MC2_name , ......}
 {
 	//Setting and declaring
 	//string stack_cons = title + ";" + " " + ";Events(No.)";	//if we want title, use this!
 	
-	string stack_cons = " ; ;Events(No.)";
-
+	string stack_cons = ";;Events(No.)";
+		
 	THStack* stack_MC = new THStack(" ",stack_cons.c_str());
 	
-	for(int i=0;i<(int)h_mcs.size();i++){
-		h_mcs[i]->GetXaxis()->SetRangeUser(50.,300.);
+	if( range_min == 0. && range_max == 0. )
+	{
 	}
-	h_data->GetXaxis()->SetRangeUser(50.,300.);
+	else
+	{
+		for(int i=0;i<(int)h_mcs.size();i++){
+			h_mcs[i]->GetXaxis()->SetRangeUser(range_min,range_max);
+		}
+		h_data->GetXaxis()->SetRangeUser(range_min,range_max);
+	}
 
 	for(int i=0;i<(int)h_mcs.size();i++){
 		stack_MC->Add(h_mcs[i]);
 	}
-	//stack_MC->GetXaxis()->SetRangeUser(0.,300.);
 	
-
 	h_data->SetMarkerColor(1);
 	h_data->SetMarkerSize(1);
 	h_data->SetMarkerStyle(21);
 
-	vector<int> color_set = { kRed-4 , kYellow-9 , kBlue-7 , kCyan-3 , kGray+2 , kMagenta  };
 	
 	for(int i=0;i<(int)h_mcs.size();i++){
 		h_mcs[i]->SetMarkerColor(color_set[i]);
@@ -97,13 +211,13 @@ Plot_DataMC(TCanvas* c, TH1F* h_data ,vector<TH1F*>& h_mcs ,const vector<string>
 	}
 	legend->AddEntry( (TObject*)0, " " , "" );	
 	legend->AddEntry( h_data , histo_names[0].c_str() );
-	//legend->AddEntry( h_data , Data_name.c_str() );
 	for(int i=0;i<(int)h_mcs.size();i++){
-		//legend->AddEntry( h_mcs[i] , MC_names[i].c_str() , "F" );
 		legend->AddEntry( h_mcs[i] , histo_names[i+1].c_str() , "F" );
 	}
 
 	//Start Drawing
+
+	TGaxis::SetMaxDigits(3);
 	
 	c->cd();
 
@@ -111,9 +225,17 @@ Plot_DataMC(TCanvas* c, TH1F* h_data ,vector<TH1F*>& h_mcs ,const vector<string>
 	top->Draw();
 	top->cd();
 
+	TLatex tl;
+	tl.SetNDC(true);
+	tl.SetTextFont(43);
+	tl.SetTextSize(22);
+	tl.SetTextAlign(13);
+
 	stack_MC->SetMaximum( 1.5 * stack_MC->GetMaximum() );
 	h_data->SetMaximum( 1.5 * h_data->GetMaximum() );
 	h_data->SetStats(false);
+
+	string x_title = string(h_data->GetXaxis()->GetTitle());
 	h_data->GetXaxis()->SetTitle("");
 
 	h_data->SetMarkerSize( 0.75 );
@@ -123,7 +245,13 @@ Plot_DataMC(TCanvas* c, TH1F* h_data ,vector<TH1F*>& h_mcs ,const vector<string>
 	h_data->Draw("P E same");
 	h_data->Draw("axis same");
 	legend->Draw("same");
-	
+
+	tl.DrawLatex(0.13+0.04,0.9-0.1,"#bf{CMS}");
+
+	if( opt_tx == "preliminary" )
+		tl.DrawLatex(0.13+0.04,0.9-0.1-33./600.,"#it{Preliminary}");
+	else if( opt_tx == "simulation" )
+		tl.DrawLatex(0.13+0.04,0.9-0.1-33./600.,"#it{Simulation}");
 	
 	stack_MC->GetYaxis()->SetTitleOffset( 1.7 );	//to put yaxis title left a little
 	//stack_MC->GetYaxis()->TGaxis::SetMaxDigits(4);
@@ -134,12 +262,20 @@ Plot_DataMC(TCanvas* c, TH1F* h_data ,vector<TH1F*>& h_mcs ,const vector<string>
 	bot->Draw();
 	bot->cd();
 
-	double xmin = h_data->GetXaxis()->GetXmin();
-	double xmax = h_data->GetXaxis()->GetXmax();										    
+	//double xmin = h_data->GetXaxis()->GetXmin();
+	//double xmax = h_data->GetXaxis()->GetXmax();
+	
+	double xmin = range_min;
+	double xmax = range_max;
+	if( range_min == 0. && range_max == 0. )
+	{
+		xmin = h_mcs.at(0)->GetXaxis()->GetXmin();
+		xmin = h_mcs.at(0)->GetXaxis()->GetXmax();
+	}
+	
 	TLine* line       = new TLine( xmin, 1.0, xmax, 1.0 );
 	TLine* upper_line = new TLine( xmin, 1.5, xmax, 1.5 );
 	TLine* lower_line = new TLine( xmin, 0.5, xmax, 0.5 );
-
 	
 	//Make the TH1 to store the stacked MC information (because the THStack cannot be divide by TH1,so change it to TH1)
 	int XbinsNo = h_data->GetXaxis()->GetNbins();
@@ -170,7 +306,7 @@ Plot_DataMC(TCanvas* c, TH1F* h_data ,vector<TH1F*>& h_mcs ,const vector<string>
 	result->SetMaximum( 1.6 );
 	result->SetMinimum( 0.4 );
 	result->GetYaxis()->SetTitle( "Data/MC" );
-	result->GetXaxis()->SetTitle( h_data->GetXaxis()->GetTitle() );
+	
 
 	result->GetXaxis()->SetLabelFont( 43 );
 	result->GetXaxis()->SetTitleFont( 43 );
@@ -185,18 +321,26 @@ Plot_DataMC(TCanvas* c, TH1F* h_data ,vector<TH1F*>& h_mcs ,const vector<string>
 	result->GetXaxis()->SetTitleOffset( 4.0 );
 	result->GetYaxis()->SetTitleOffset( 1.2 );
 
+	if( x_title_set != "" )
+	{
+		x_title = x_title_set;
+	}
+
+	result->GetXaxis()->SetTitle( x_title.c_str() );
+
 	result->SetStats( kFALSE );		//make default right upper block off
 
 	return c;
 }
 
 //h_mu is { h_MC1_mu, h_MC2_mu, ... , h_Data_mu }
-void Plot_Stack( const string& fname, vector<TH1F*>& h_mu, vector<TH1F*>& h_el )
+void 
+Plotter::Plot_Stack( const string& fname, vector<TH1F*>& h_mu, vector<TH1F*>& h_el )
 {
-	TCanvas* c = new TCanvas("c","",700,600);
 
+	TCanvas* c = new TCanvas("c","",CANVAS_X,CANVAS_Y);
 	
-	string filename = fname + "_" + ".pdf";
+	string filename = fname;
 	
 	vector<string> hist_name;
 	hist_name.push_back("Data");			hist_name.push_back("t#bar{t}");
@@ -226,17 +370,16 @@ void Plot_Stack( const string& fname, vector<TH1F*>& h_mu, vector<TH1F*>& h_el )
 	
 	c = Plot_DataMC( c, h_mu.at( (int)h_mu.size()-1 ), h_MCs_mu, hist_name, text_mu );
 	
-	string filename1 = filename + "(";
+	string filename1 = "pdfFile/" + filename + "_mu.pdf";
 	c->Print( filename1.c_str() , "Title:Muon Channel" );
 
 	c->cd();
 
 	c = Plot_DataMC( c, h_el.at( (int)h_el.size()-1 ), h_MCs_el, hist_name, text_el );
 
-	string filename2 = filename + ")";
+	string filename2 = "pdfFile/" + filename + "_el.pdf";
 	c->Print( filename2.c_str(), "Title:Electron Channel" );
 	
 }
-
 
 #endif

@@ -4,7 +4,7 @@
 #include <fstream>
 #include <iomanip>
 
-#define YBound 3.0		//if want to see artificial Acp , tune it to be 5.0
+#define YBound 1.0		//if want to see artificial Acp , tune it to be 5.0
 
 using namespace std;
 
@@ -191,7 +191,9 @@ void exe()
 	PlotAcp("TP_gen_Acp_semi_MSSM_SLHA2_1j","t");
 	PlotAcp("TP_gen_Acp_semi_CEDM2_1j","t");
 */
-	PlotAcp("TP_semilep_genAcp_10_6-semi_CEDM5_1j","t");
+	//PlotAcp("TP_semilep_genAcp_10_6-semi_CEDM5_1j","t");
+
+	PlotAcp("TP_semilep_genAcp_NoSel_test-semi_2HDM_LO_test2","t");
 	
 }
 

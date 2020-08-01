@@ -44,7 +44,9 @@ void exe()
     //plot_cp("/Users/chen-yuchuang/Desktop/ttbar/t11_MLP/SR_t11_MLP_all_191108_1612.root","/Users/chen-yuchuang/Desktop/ttbar/t11_MLP/CR_t11_MLP_all_191110_1825.root","t11");
     //plot_cp("/Users/chen-yuchuang/Desktop/ttbar/new chi2/SR_chi2_all_191112_0246.root","/Users/chen-yuchuang/Desktop/ttbar/new chi2/CR_chi2_all_191111_1206.root","chi2");
 	//plot_cp("SR_t20_10_191128_1545.root","CR_t20_10_191129_1154.root","t20_MLP");
-	plot_cp("SR_t19_MLP_191129_1347.root","CR_t19_MLP_191129_1347.root","t19_MLP");	
+	//plot_cp("SR_t19_MLP_191129_1347.root","CR_t19_MLP_191129_1347.root","t19_MLP");
+	//plot_cp("../fit_yields/rootFile/a04_all_MLP_SRmass_200521_2007.root","../fit_yields/rootFile/a04_all_MLP_CRmass_200521_1958.root","a04_MLP");	
+	plot_cp("../fit_yields/rootFile/a05_all_MLP_SRmass_200521_2050.root","../fit_yields/rootFile/a05_all_MLP_CRmass_200521_2028.root","a05_MLP");	
 }
 
 

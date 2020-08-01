@@ -1,6 +1,3 @@
-#ifndef DRAW_BBSEP_EFF
-#define DRAW_BBSEP_EFF
-
 #include <iostream>
 #include <vector>
 #include <string>
@@ -9,19 +6,16 @@
 #include <string.h>
 #include <map>
 #include <iterator>
-#include <math.h>
-
-#define XaxisName "MVA value"
-#define YaxisName "Ratio"
 
 using namespace std;
 
-void draw_eff( const string& filename, string newfile_name )
+void draw_eff_chi2( const string& filename, string newfile_name )
 {
 
-    string post_newfile_name = newfile_name + "_eff.pdf";
 
-	TFile* f = new TFile( (string("rootFile/") + filename).c_str() );
+    newfile_name = newfile_name + "_eff.pdf";
+
+	TFile* f = new TFile(  (string("rootFile/") + filename).c_str() );
 
     //Get histograms from rootfile
 
@@ -178,10 +172,10 @@ void draw_eff( const string& filename, string newfile_name )
                 no_mist +=  h_mistag[channel]->GetBinContent(r);// * binW;
             }
             */
-            no_total =  total_evt[channel] - (no_cor + no_cmis + no_mist);
-            r_cor = (cor_evt[channel] - no_cor)/no_total;
-            r_cmis = (cmis_evt[channel] - no_cmis)/no_total;
-            r_mist = (mist_evt[channel] - no_mist)/no_total;
+            no_total = (no_cor + no_cmis + no_mist);
+            r_cor = (no_cor)/no_total;
+            r_cmis = (no_cmis)/no_total;
+            r_mist = (no_mist)/no_total;
                 
             if(channel == "t"){
                 cout << "cut(bin) : " << cut << endl;
@@ -195,16 +189,11 @@ void draw_eff( const string& filename, string newfile_name )
                 cout << "r_mist : " << r_mist << endl;
                 cout << "events Eff : " << no_total/total_evt[channel] << endl;
             }
-
-            if(isnan(r_cor) || isnan(r_cmis) || isnan(r_mist))
-            {	break;	}
                 
             h_eff_events[channel]->SetBinContent(k,no_total/total_evt[channel]);
             h_eff_cor[channel]->SetBinContent(k,r_cor);
             h_eff_cmis[channel]->SetBinContent(k,r_cmis);
             h_eff_mist[channel]->SetBinContent(k,r_mist);
-            
-
                 
         }
     }
@@ -237,88 +226,74 @@ void draw_eff( const string& filename, string newfile_name )
         h_eff_events[channel]->SetStats(false);
         
     }
-
-    //for 
-
-    double l_x_m = 0.65;
-    double l_x_M = 0.8;
-    double l_y_m = 0.58;
-    double l_y_M = 0.75;
-
-    //for a04
+    
 /*
-    double l_x_m = 0.65;
-    double l_x_M = 0.8;
-    double l_y_m = 0.72;
-    double l_y_M = 0.87;
-*/
-    //TLegend* l1 = new TLegend(0.65,0.72,0.84,0.9);
-    TLegend* l1 = new TLegend(l_x_m,l_y_m,l_x_M,l_y_M);
+    //for t11
+
+    TLegend* l1 = new TLegend(0.65,0.72,0.84,0.9);
     l1->SetBorderSize(0);
-    l1->SetTextFont( 43 );
-    l1->SetTextSize( 13 );
     l1->AddEntry(h_eff_events_mu,"Event Efficiency");
     l1->AddEntry(h_eff_cor_mu,"Correct Matching");
-    l1->AddEntry(h_eff_cmis_mu,"b#bar{b} Misidentified");
+    l1->AddEntry(h_eff_cmis_mu,"Charge Misidentified");
     l1->AddEntry(h_eff_mist_mu,"Mistag");
     
-    //TLegend* l2 = new TLegend(0.65,0.72,0.84,0.9);
-    TLegend* l2 = new TLegend(l_x_m,l_y_m,l_x_M,l_y_M);
+    TLegend* l2 = new TLegend(0.65,0.72,0.84,0.9);
     l2->SetBorderSize(0);
-    l2->SetTextFont( 43 );
-    l2->SetTextSize( 13 );
     l2->AddEntry(h_eff_events_el,"Event Efficiency");
     l2->AddEntry(h_eff_cor_el,"Correct Matching");
-    l2->AddEntry(h_eff_cmis_el,"b#bar{b} Misidentified");
+    l2->AddEntry(h_eff_cmis_el,"Charge Misidentified");
     l2->AddEntry(h_eff_mist_el,"Mistag");
 
-    //TLegend* l3 = new TLegend(0.65,0.72,0.84,0.9);
-    TLegend* l3 = new TLegend(l_x_m,l_y_m,l_x_M,l_y_M);
+    TLegend* l3 = new TLegend(0.65,0.72,0.84,0.9);
     l3->SetBorderSize(0);
-    l3->SetTextFont( 43 );
-    l3->SetTextSize( 13 );
     l3->AddEntry(h_eff_events_t,"Event Efficiency");
     l3->AddEntry(h_eff_cor_t,"Correct Matching");
-    l3->AddEntry(h_eff_cmis_t,"b#bar{b} Misidentified");
+    l3->AddEntry(h_eff_cmis_t,"Charge Misidentified");
     l3->AddEntry(h_eff_mist_t,"Mistag");
-
+*/
 
     //for t13
-/*
 
-    TLegend* l1 = new TLegend(0.65,0.55,0.8,0.74);
+
+    double l_x_m = 0.65;
+    double l_x_M = 0.8;
+    double l_y_m = 0.61;
+    double l_y_M = 0.78;
+
+    TLegend* l1 = new TLegend(l_x_m,l_y_m,l_x_M,l_y_M);
     l1->SetBorderSize(0);
     l1->AddEntry(h_eff_events_mu,"Event Efficiency");
     l1->AddEntry(h_eff_cor_mu,"Correct Matching");
     l1->AddEntry(h_eff_cmis_mu,"b#bar{b} Misidentified");
     l1->AddEntry(h_eff_mist_mu,"Mistag");
     
-    TLegend* l2 = new TLegend(0.65,0.55,0.8,0.74);
+    TLegend* l2 = new TLegend(l_x_m,l_y_m,l_x_M,l_y_M);
     l2->SetBorderSize(0);
     l2->AddEntry(h_eff_events_el,"Event Efficiency");
     l2->AddEntry(h_eff_cor_el,"Correct Matching");
     l2->AddEntry(h_eff_cmis_el,"b#bar{b} Misidentified");
     l2->AddEntry(h_eff_mist_el,"Mistag");
 
-    TLegend* l3 = new TLegend(0.65,0.55,0.8,0.74);
+    TLegend* l3 = new TLegend(l_x_m,l_y_m,l_x_M,l_y_M);
     l3->SetBorderSize(0);
     l3->AddEntry(h_eff_events_t,"Event Efficiency");
     l3->AddEntry(h_eff_cor_t,"Correct Matching");
     l3->AddEntry(h_eff_cmis_t,"b#bar{b} Misidentified");
     l3->AddEntry(h_eff_mist_t,"Mistag");
-*/
 
+    
+    
     TCanvas* c = new TCanvas("c");
     
     c->SetGrid();                     //To set grid on the pad
     
-    h_eff_events_t->GetXaxis()->SetTitle(XaxisName);
+    h_eff_events_t->GetXaxis()->SetTitle("#chi^{2}_{min} value");
     h_eff_events_t->GetYaxis()->SetTitle("Ratio");
 
-    h_eff_events_mu->GetXaxis()->SetTitle(XaxisName);
+    h_eff_events_mu->GetXaxis()->SetTitle("#chi^{2}_{min} value");
     h_eff_events_mu->GetYaxis()->SetTitle("Ratio");
     
-    h_eff_events_el->GetXaxis()->SetTitle(XaxisName);
+    h_eff_events_el->GetXaxis()->SetTitle("#chi^{2}_{min} value");
     h_eff_events_el->GetYaxis()->SetTitle("Ratio");
     
 
@@ -331,7 +306,7 @@ void draw_eff( const string& filename, string newfile_name )
     h_eff_events_t->SetMaximum(1.);
     h_eff_events_t->SetMinimum(0.);
 
-    string name1 = post_newfile_name + "(";
+    string name1 = newfile_name + "(";
     c->Print(name1.c_str(),"Title:Total");
 
     h_eff_events_mu->Draw("C");       //"C" means drawing a histogram in a curve way
@@ -343,7 +318,7 @@ void draw_eff( const string& filename, string newfile_name )
     h_eff_events_mu->SetMaximum(1.);
     h_eff_events_mu->SetMinimum(0.);
     
-    string name2 = post_newfile_name;
+    string name2 = newfile_name;
     c->Print(name2.c_str(),"Title:Muon Channel");
     
     h_eff_events_el->Draw("C");
@@ -354,21 +329,12 @@ void draw_eff( const string& filename, string newfile_name )
     h_eff_events_el->SetMaximum(1.);
     h_eff_events_el->SetMinimum(0.);
 
-    string name3 = post_newfile_name + ")";
+    string name3 = newfile_name + ")";
     c->Print(name3.c_str(),"Title:Electron Channel");
 
 
-	string rootfile_name = newfile_name + "_eff.root";
-    TFile* f_out = new TFile( (char*)rootfile_name.c_str(),"recreate" );
-	
-	h_eff_events_t->Write();
-	h_eff_events_mu->Write();
-	h_eff_events_el->Write();
-
-	f_out->Close();
-
-
     f->Close();
+    delete f;
 
     
     
@@ -386,5 +352,3 @@ void draw_eff( const string& filename, string newfile_name )
     
     
 }
-
-#endif 	//DRAW_BBSEP_EFF

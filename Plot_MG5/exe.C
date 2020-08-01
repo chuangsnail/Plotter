@@ -1,5 +1,5 @@
 #include "plot_Acp_lib.h"
-#define N_Obs 11
+#define N_Obs 2
 
 using namespace std;
 
@@ -73,6 +73,49 @@ void exe()
 	double m[N_Obs] = {-0.00150021,0.00134679,0.000026559,-0.00502809,-0.00110201,-0.00192436,-0.00157218,-0.000999336,-0.0000428728,-0.0012934,0.000259282};
 	double s[N_Obs] = {0.00234225,0.00233925,0.00232549,0.00231116,0.00228934,0.00226814,0.00224249,0.0022169,0.00219314,0.0021658,0.00213929};
 */
+
+/*
+	//V//
+	string filename = "OptmizedLepAsym_NoSel";
+	string name[N_Obs] = { "SM", "2HDM-d", "2HDM-A", "2HDM-B" };
+	double m[N_Obs] = {-0.001548,0.000516,0.000986,0.000986};
+	double s[N_Obs] = {0.001,0.001,0.001,0.001};
+*/
+
+/*
+	//V//
+	string filename = "2HDM_default_OptLepAsym_NoSel";
+	string name[N_Obs] = { "SM", "2HDM-d" };
+	double m[N_Obs] = {-3.86e-05,-0.0003366};
+	double s[N_Obs] = {0.000316228,0.000316228};
+*/
+
+/*
+	//V//
+	string filename = "2HDM_default_B1993_A2_NoSel";
+	string name[N_Obs] = { "SM", "2HDM-d" };
+	double m[N_Obs] = {0.000113106,0.000136589};
+	double s[N_Obs] = {0.000316228,0.000316228};
+*/
+/*
+	//V//
+	string filename = "2HDM_default_B1998_Q1_NoSel";
+	string name[N_Obs] = { "SM", "2HDM-d" };
+	double m[N_Obs] = {-0.000763,-0.000403};
+	double s[N_Obs] = {0.000316228,0.000316228};
+*/
+/*
+	//V//
+	string filename = "2HDM_default_B1998_O1_NoSel";
+	string name[N_Obs] = { "SM", "2HDM-d" };
+	double m[N_Obs] = {-0.000138615,-0.000192809};
+	double s[N_Obs] = {0.000570469,0.000570597};
+*/
+	//V//
+	string filename = "2HDM_default_B1993_A1_NoSel";
+	string name[N_Obs] = { "SM", "2HDM-d" };
+	double m[N_Obs] = {-0.00007090,-0.000471581};
+	double s[N_Obs] = {0.000316228,0.000316228};
 
 
 	//string name[N_Obs] = { "SM", "CEDM0.5", "CEDM1", "CEDM1.5", "CEDM2", "CEDM2.5", "CEDM3", "CEDM3.5", "CEDM4", "CEDM4.5", "CEDM5" };
