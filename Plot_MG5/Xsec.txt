@@ -1,0 +1,32 @@
+semi_SM_0j/Events/run_01_banner.txt : 1.36297E+02
+
+semi_CEDM0pt5_0j/Events/run_01_banner.txt : 1.26154E+02
+0.925581
+
+semi_CEDM1_0j/Events/run_01_banner.txt : 1.30795E+02
+0.959632
+
+semi_CEDM1pt5_0j/Events/run_01_banner.txt : 1.38602E+02
+1.016911
+
+semi_CEDM2_0j/Events/run_01_banner.txt : 1.49697E+02
+1.098314
+
+semi_CEDM2pt5_0j/Events/run_01_banner.txt : 1.64184E+02
+1.204604
+
+semi_CEDM3_0j/Events/run_01_banner.txt : 1.82289E+02
+1.337439
+
+semi_CEDM3pt5_0j/Events/run_01_banner.txt : 2.04226E+02
+1.498389
+
+semi_CEDM4_0j/Events/run_01_banner.txt : 2.30245E+02
+1.689288
+
+semi_CEDM4pt5_0j/Events/run_01_banner.txt : 2.60703E+02
+1.912756
+
+semi_CEDM5_0j/Events/run_01_banner.txt : 2.95909E+02
+2.171060
+

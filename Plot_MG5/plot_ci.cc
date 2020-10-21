@@ -3,6 +3,9 @@
 #include <iomanip>
 #include "string.h"
 
+//NOTE O6 O14 times negative
+
+
 void exe()
 {
 

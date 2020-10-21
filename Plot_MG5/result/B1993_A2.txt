@@ -1,0 +1,729 @@
+time : 200427_0547
+dataset : 10_7-semi_SM_1j
+M_A2 : 11.8742
+SD_A2 : 152508
+signal-to-noise ratio : 7.78596e-05
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_0548
+dataset : 10_7-semi_CEDM0pt5_1j
+M_A2 : -nan
+SD_A2 : -nan
+signal-to-noise ratio : -nan
+
+1/sqrt(N of events) : inf
+numberOfEntries : 0
+numberOfPassSelection : 0
+=====================================
+
+time : 200427_0548
+dataset : 10_7-semi_CEDM1_1j
+M_A2 : -47.2874
+SD_A2 : 151564
+signal-to-noise ratio : -0.000311997
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_0548
+dataset : 10_7-semi_CEDM1pt5_1j
+M_A2 : -nan
+SD_A2 : -nan
+signal-to-noise ratio : -nan
+
+1/sqrt(N of events) : inf
+numberOfEntries : 0
+numberOfPassSelection : 0
+=====================================
+
+time : 200427_0549
+dataset : 10_7-semi_CEDM2_1j
+M_A2 : 51.8403
+SD_A2 : 151957
+signal-to-noise ratio : 0.000341151
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_0549
+dataset : 10_7-semi_CEDM2pt5_1j
+M_A2 : -nan
+SD_A2 : -nan
+signal-to-noise ratio : -nan
+
+1/sqrt(N of events) : inf
+numberOfEntries : 0
+numberOfPassSelection : 0
+=====================================
+
+time : 200427_0550
+dataset : 10_7-semi_CEDM3_1j
+M_A2 : 0.134856
+SD_A2 : 153806
+signal-to-noise ratio : 8.76793e-07
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_0550
+dataset : 10_7-semi_CEDM3pt5_1j
+M_A2 : -nan
+SD_A2 : -nan
+signal-to-noise ratio : -nan
+
+1/sqrt(N of events) : inf
+numberOfEntries : 0
+numberOfPassSelection : 0
+=====================================
+
+time : 200427_0550
+dataset : 10_7-semi_CEDM4_1j
+M_A2 : -90.1948
+SD_A2 : 156618
+signal-to-noise ratio : -0.000575891
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_0551
+dataset : 10_7-semi_CEDM4pt5_1j
+M_A2 : -nan
+SD_A2 : -nan
+signal-to-noise ratio : -nan
+
+1/sqrt(N of events) : inf
+numberOfEntries : 0
+numberOfPassSelection : 0
+=====================================
+
+time : 200427_0551
+dataset : 10_7-semi_CEDM5_1j
+M_A2 : -nan
+SD_A2 : -nan
+signal-to-noise ratio : -nan
+
+1/sqrt(N of events) : inf
+numberOfEntries : 0
+numberOfPassSelection : 0
+=====================================
+
+time : 200427_0551
+dataset : 10_7-semi_SM_1j
+M_A2 : 11.8742
+SD_A2 : 152508
+signal-to-noise ratio : 7.78596e-05
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_0551
+dataset : 10_7-semi_CEDM0pt5_1j
+M_A2 : -nan
+SD_A2 : -nan
+signal-to-noise ratio : -nan
+
+1/sqrt(N of events) : inf
+numberOfEntries : 0
+numberOfPassSelection : 0
+=====================================
+
+time : 200427_0552
+dataset : 10_7-semi_CEDM1_1j
+M_A2 : -47.2874
+SD_A2 : 151564
+signal-to-noise ratio : -0.000311997
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_0552
+dataset : 10_7-semi_CEDM1pt5_1j
+M_A2 : -nan
+SD_A2 : -nan
+signal-to-noise ratio : -nan
+
+1/sqrt(N of events) : inf
+numberOfEntries : 0
+numberOfPassSelection : 0
+=====================================
+
+time : 200427_0552
+dataset : 10_7-semi_CEDM2_1j
+M_A2 : 51.8403
+SD_A2 : 151957
+signal-to-noise ratio : 0.000341151
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_0552
+dataset : 10_7-semi_CEDM2pt5_1j
+M_A2 : -nan
+SD_A2 : -nan
+signal-to-noise ratio : -nan
+
+1/sqrt(N of events) : inf
+numberOfEntries : 0
+numberOfPassSelection : 0
+=====================================
+
+time : 200427_0553
+dataset : 10_7-semi_CEDM3_1j
+M_A2 : 0.134856
+SD_A2 : 153806
+signal-to-noise ratio : 8.76793e-07
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_0553
+dataset : 10_7-semi_CEDM3pt5_1j
+M_A2 : -nan
+SD_A2 : -nan
+signal-to-noise ratio : -nan
+
+1/sqrt(N of events) : inf
+numberOfEntries : 0
+numberOfPassSelection : 0
+=====================================
+
+time : 200427_0553
+dataset : 10_7-semi_CEDM4_1j
+M_A2 : -90.1948
+SD_A2 : 156618
+signal-to-noise ratio : -0.000575891
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_0553
+dataset : 10_7-semi_CEDM4pt5_1j
+M_A2 : -nan
+SD_A2 : -nan
+signal-to-noise ratio : -nan
+
+1/sqrt(N of events) : inf
+numberOfEntries : 0
+numberOfPassSelection : 0
+=====================================
+
+time : 200427_0553
+dataset : 10_7-semi_CEDM5_1j
+M_A2 : -nan
+SD_A2 : -nan
+signal-to-noise ratio : -nan
+
+1/sqrt(N of events) : inf
+numberOfEntries : 0
+numberOfPassSelection : 0
+=====================================
+
+#
+time : 200427_1530
+dataset : 10_7-semi_SM_0j
+M_A2 : 18.5784
+SD_A2 : 164256
+signal-to-noise ratio : 0.000113106
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_1530
+dataset : 10_7-semi_CEDM0pt5_0j
+M_A2 : 25.2774
+SD_A2 : 163548
+signal-to-noise ratio : 0.000154556
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_1531
+dataset : 10_7-semi_CEDM1_0j
+M_A2 : -12.1171
+SD_A2 : 163089
+signal-to-noise ratio : -7.42974e-05
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_1531
+dataset : 10_7-semi_CEDM1pt5_0j
+M_A2 : 27.1685
+SD_A2 : 162803
+signal-to-noise ratio : 0.00016688
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_1532
+dataset : 10_7-semi_CEDM2_0j
+M_A2 : -5.78939
+SD_A2 : 162463
+signal-to-noise ratio : -3.56352e-05
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_1532
+dataset : 10_7-semi_CEDM2pt5_0j
+M_A2 : 5.4881
+SD_A2 : 161872
+signal-to-noise ratio : 3.3904e-05
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_1533
+dataset : 10_7-semi_CEDM3_0j
+M_A2 : -30.355
+SD_A2 : 161662
+signal-to-noise ratio : -0.000187768
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_1533
+dataset : 10_7-semi_CEDM3pt5_0j
+M_A2 : 28.4686
+SD_A2 : 161719
+signal-to-noise ratio : 0.000176037
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_1534
+dataset : 10_7-semi_CEDM4_0j
+M_A2 : -18.4902
+SD_A2 : 161433
+signal-to-noise ratio : -0.000114538
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_1534
+dataset : 10_7-semi_CEDM4pt5_0j
+M_A2 : -79.8715
+SD_A2 : 162034
+signal-to-noise ratio : -0.000492929
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_1535
+dataset : 10_7-semi_CEDM5_0j
+M_A2 : -47.114
+SD_A2 : 162929
+signal-to-noise ratio : -0.000289169
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_1535
+dataset : 10_7-semi_SM_0j
+M_A2 : 18.5784
+SD_A2 : 164256
+signal-to-noise ratio : 0.000113106
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_1536
+dataset : 10_7-semi_CEDM0pt5_0j
+M_A2 : 25.2774
+SD_A2 : 163548
+signal-to-noise ratio : 0.000154556
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_1536
+dataset : 10_7-semi_CEDM1_0j
+M_A2 : -12.1171
+SD_A2 : 163089
+signal-to-noise ratio : -7.42974e-05
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_1537
+dataset : 10_7-semi_CEDM1pt5_0j
+M_A2 : 27.1685
+SD_A2 : 162803
+signal-to-noise ratio : 0.00016688
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_1537
+dataset : 10_7-semi_CEDM2_0j
+M_A2 : -5.78939
+SD_A2 : 162463
+signal-to-noise ratio : -3.56352e-05
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_1538
+dataset : 10_7-semi_CEDM2pt5_0j
+M_A2 : 5.4881
+SD_A2 : 161872
+signal-to-noise ratio : 3.3904e-05
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_1538
+dataset : 10_7-semi_CEDM3_0j
+M_A2 : -30.355
+SD_A2 : 161662
+signal-to-noise ratio : -0.000187768
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_1538
+dataset : 10_7-semi_CEDM3pt5_0j
+M_A2 : 28.4686
+SD_A2 : 161719
+signal-to-noise ratio : 0.000176037
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_1539
+dataset : 10_7-semi_CEDM4_0j
+M_A2 : -18.4902
+SD_A2 : 161433
+signal-to-noise ratio : -0.000114538
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_1539
+dataset : 10_7-semi_CEDM4pt5_0j
+M_A2 : -79.8715
+SD_A2 : 162034
+signal-to-noise ratio : -0.000492929
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_1540
+dataset : 10_7-semi_CEDM5_0j
+M_A2 : -47.114
+SD_A2 : 162929
+signal-to-noise ratio : -0.000289169
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+
+##200427
+time : 200427_1719
+dataset : 10_7-semi_SM_0j
+M_A2 : 18.5784
+SD_A2 : 164256
+signal-to-noise ratio : 0.000113106
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_1720
+dataset : 10_7-semi_CEDM0pt5_0j
+M_A2 : 25.2774
+SD_A2 : 163548
+signal-to-noise ratio : 0.000154556
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_1720
+dataset : 10_7-semi_CEDM1_0j
+M_A2 : -12.1171
+SD_A2 : 163089
+signal-to-noise ratio : -7.42974e-05
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_1721
+dataset : 10_7-semi_CEDM1pt5_0j
+M_A2 : 27.1685
+SD_A2 : 162803
+signal-to-noise ratio : 0.00016688
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_1721
+dataset : 10_7-semi_CEDM2_0j
+M_A2 : -5.78939
+SD_A2 : 162463
+signal-to-noise ratio : -3.56352e-05
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_1722
+dataset : 10_7-semi_CEDM2pt5_0j
+M_A2 : 5.4881
+SD_A2 : 161872
+signal-to-noise ratio : 3.3904e-05
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_1722
+dataset : 10_7-semi_CEDM3_0j
+M_A2 : -30.355
+SD_A2 : 161662
+signal-to-noise ratio : -0.000187768
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_1723
+dataset : 10_7-semi_CEDM3pt5_0j
+M_A2 : 28.4686
+SD_A2 : 161719
+signal-to-noise ratio : 0.000176037
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_1723
+dataset : 10_7-semi_CEDM4_0j
+M_A2 : -18.4902
+SD_A2 : 161433
+signal-to-noise ratio : -0.000114538
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_1724
+dataset : 10_7-semi_CEDM4pt5_0j
+M_A2 : -79.8715
+SD_A2 : 162034
+signal-to-noise ratio : -0.000492929
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_1724
+dataset : 10_7-semi_CEDM5_0j
+M_A2 : -47.114
+SD_A2 : 162929
+signal-to-noise ratio : -0.000289169
+
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200427_1725
+dataset : 10_7-semi_SM_0j
+M_A2 : -32.9859
+SD_A2 : 58933.2
+signal-to-noise ratio : -0.000559717
+
+1/sqrt(N of events) : 0.000609477
+numberOfEntries : 10000000
+numberOfPassSelection : 2692068
+=====================================
+
+time : 200427_1726
+dataset : 10_7-semi_CEDM0pt5_0j
+M_A2 : -7.89959
+SD_A2 : 59561.2
+signal-to-noise ratio : -0.00013263
+
+1/sqrt(N of events) : 0.000609299
+numberOfEntries : 10000000
+numberOfPassSelection : 2693639
+=====================================
+
+time : 200427_1727
+dataset : 10_7-semi_CEDM1_0j
+M_A2 : -85.4988
+SD_A2 : 60074.1
+signal-to-noise ratio : -0.00142322
+
+1/sqrt(N of events) : 0.00060863
+numberOfEntries : 10000000
+numberOfPassSelection : 2699558
+=====================================
+
+time : 200427_1728
+dataset : 10_7-semi_CEDM1pt5_0j
+M_A2 : 36.11
+SD_A2 : 61625.1
+signal-to-noise ratio : 0.000585962
+
+1/sqrt(N of events) : 0.000606856
+numberOfEntries : 10000000
+numberOfPassSelection : 2715366
+=====================================
+
+time : 200427_1728
+dataset : 10_7-semi_CEDM2_0j
+M_A2 : 8.55236
+SD_A2 : 63111.4
+signal-to-noise ratio : 0.000135512
+
+1/sqrt(N of events) : 0.000604739
+numberOfEntries : 10000000
+numberOfPassSelection : 2734416
+=====================================
+
+time : 200427_1729
+dataset : 10_7-semi_CEDM2pt5_0j
+M_A2 : -59.783
+SD_A2 : 64727.2
+signal-to-noise ratio : -0.000923615
+
+1/sqrt(N of events) : 0.000602716
+numberOfEntries : 10000000
+numberOfPassSelection : 2752800
+=====================================
+
+time : 200427_1730
+dataset : 10_7-semi_CEDM3_0j
+M_A2 : 37.0231
+SD_A2 : 66882.1
+signal-to-noise ratio : 0.000553558
+
+1/sqrt(N of events) : 0.000600391
+numberOfEntries : 10000000
+numberOfPassSelection : 2774157
+=====================================
+
+time : 200427_1731
+dataset : 10_7-semi_CEDM3pt5_0j
+M_A2 : -118.485
+SD_A2 : 68892.6
+signal-to-noise ratio : -0.00171985
+
+1/sqrt(N of events) : 0.000598525
+numberOfEntries : 10000000
+numberOfPassSelection : 2791488
+=====================================
+
+time : 200427_1732
+dataset : 10_7-semi_CEDM4_0j
+M_A2 : 10.2332
+SD_A2 : 70301.8
+signal-to-noise ratio : 0.000145561
+
+1/sqrt(N of events) : 0.000596031
+numberOfEntries : 10000000
+numberOfPassSelection : 2814895
+=====================================
+
+time : 200427_1733
+dataset : 10_7-semi_CEDM4pt5_0j
+M_A2 : 49.6669
+SD_A2 : 72122.2
+signal-to-noise ratio : 0.000688649
+
+1/sqrt(N of events) : 0.00059461
+numberOfEntries : 10000000
+numberOfPassSelection : 2828370
+=====================================
+
+time : 200427_1733
+dataset : 10_7-semi_CEDM5_0j
+M_A2 : 54.8422
+SD_A2 : 73999.4
+signal-to-noise ratio : 0.000741117
+
+1/sqrt(N of events) : 0.000592818
+numberOfEntries : 10000000
+numberOfPassSelection : 2845490
+=====================================
+

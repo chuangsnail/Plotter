@@ -1,0 +1,3135 @@
+time : 200423_2137
+t_entries 1000000
+SetName : 10_6-semi_SM_1j ,pass_sel : 1000000 ,total_entries : 1000000
+Obs3
+O3 : -0.001922 +- 0.000999998
+Obs6
+O6 : -5.2e-05 +- 0.001
+selection : NoSel
+selection eff : 1
+============================================
+time : 200423_2137
+t_entries 1000000
+SetName : 10_6-semi_CEDM0pt5_1j ,pass_sel : 1000000 ,total_entries : 1000000
+Obs3
+O3 : -0.005204 +- 0.000999986
+Obs6
+O6 : -0.003162 +- 0.000999995
+selection : NoSel
+selection eff : 1
+============================================
+time : 200423_2137
+t_entries 1000000
+SetName : 10_6-semi_CEDM1_1j ,pass_sel : 1000000 ,total_entries : 1000000
+Obs3
+O3 : -0.012994 +- 0.000999916
+Obs6
+O6 : -0.006754 +- 0.000999977
+selection : NoSel
+selection eff : 1
+============================================
+time : 200423_2137
+t_entries 1000000
+SetName : 10_6-semi_CEDM1pt5_1j ,pass_sel : 1000000 ,total_entries : 1000000
+Obs3
+O3 : -0.019442 +- 0.000999811
+Obs6
+O6 : -0.013034 +- 0.000999915
+selection : NoSel
+selection eff : 1
+============================================
+time : 200423_2137
+t_entries 1000000
+SetName : 10_6-semi_CEDM2_1j ,pass_sel : 1000000 ,total_entries : 1000000
+Obs3
+O3 : -0.02117 +- 0.000999776
+Obs6
+O6 : -0.014232 +- 0.000999899
+selection : NoSel
+selection eff : 1
+============================================
+time : 200423_2137
+t_entries 1000000
+SetName : 10_6-semi_CEDM2pt5_1j ,pass_sel : 1000000 ,total_entries : 1000000
+Obs3
+O3 : -0.026346 +- 0.000999653
+Obs6
+O6 : -0.017228 +- 0.000999852
+selection : NoSel
+selection eff : 1
+============================================
+time : 200423_2137
+t_entries 1000000
+SetName : 10_6-semi_CEDM3_1j ,pass_sel : 1000000 ,total_entries : 1000000
+Obs3
+O3 : -0.02644 +- 0.00099965
+Obs6
+O6 : -0.017788 +- 0.000999842
+selection : NoSel
+selection eff : 1
+============================================
+time : 200423_2138
+t_entries 1000000
+SetName : 10_6-semi_CEDM3pt5_1j ,pass_sel : 1000000 ,total_entries : 1000000
+Obs3
+O3 : -0.028068 +- 0.000999606
+Obs6
+O6 : -0.018138 +- 0.000999835
+selection : NoSel
+selection eff : 1
+============================================
+time : 200423_2138
+t_entries 1000000
+SetName : 10_6-semi_CEDM4_1j ,pass_sel : 1000000 ,total_entries : 1000000
+Obs3
+O3 : -0.027288 +- 0.000999628
+Obs6
+O6 : -0.015754 +- 0.000999876
+selection : NoSel
+selection eff : 1
+============================================
+time : 200423_2138
+t_entries 1000000
+SetName : 10_6-semi_CEDM4pt5_1j ,pass_sel : 1000000 ,total_entries : 1000000
+Obs3
+O3 : -0.027712 +- 0.000999616
+Obs6
+O6 : -0.018058 +- 0.000999837
+selection : NoSel
+selection eff : 1
+============================================
+time : 200423_2138
+t_entries 1000000
+SetName : 10_6-semi_CEDM5_1j ,pass_sel : 1000000 ,total_entries : 1000000
+Obs3
+O3 : -0.024806 +- 0.000999692
+Obs6
+O6 : -0.0153 +- 0.000999883
+selection : NoSel
+selection eff : 1
+============================================
+time : 200423_2138
+t_entries 1000000
+SetName : 10_6-semi_SM_1j ,pass_sel : 367604 ,total_entries : 1000000
+Obs3
+O3 : -0.00234491 +- 0.00164933
+Obs6
+O6 : -0.00111533 +- 0.00164934
+selection : GVSel
+selection eff : 0.367604
+============================================
+time : 200423_2138
+t_entries 1000000
+SetName : 10_6-semi_CEDM0pt5_1j ,pass_sel : 365956 ,total_entries : 1000000
+Obs3
+O3 : -0.00477653 +- 0.00165303
+Obs6
+O6 : -0.00309327 +- 0.00165304
+selection : GVSel
+selection eff : 0.365956
+============================================
+time : 200423_2138
+t_entries 1000000
+SetName : 10_6-semi_CEDM1_1j ,pass_sel : 367116 ,total_entries : 1000000
+Obs3
+O3 : -0.015412 +- 0.00165024
+Obs6
+O6 : -0.00822628 +- 0.00165038
+selection : GVSel
+selection eff : 0.367116
+============================================
+time : 200423_2139
+t_entries 1000000
+SetName : 10_6-semi_CEDM1pt5_1j ,pass_sel : 366850 ,total_entries : 1000000
+Obs3
+O3 : -0.0236391 +- 0.00165057
+Obs6
+O6 : -0.0146545 +- 0.00165086
+selection : GVSel
+selection eff : 0.36685
+============================================
+time : 200423_2139
+t_entries 1000000
+SetName : 10_6-semi_CEDM2_1j ,pass_sel : 366837 ,total_entries : 1000000
+Obs3
+O3 : -0.0251092 +- 0.00165054
+Obs6
+O6 : -0.0163097 +- 0.00165084
+selection : GVSel
+selection eff : 0.366837
+============================================
+time : 200423_2139
+t_entries 1000000
+SetName : 10_6-semi_CEDM2pt5_1j ,pass_sel : 366550 ,total_entries : 1000000
+Obs3
+O3 : -0.0294148 +- 0.00165099
+Obs6
+O6 : -0.019288 +- 0.0016514
+selection : GVSel
+selection eff : 0.36655
+============================================
+time : 200423_2139
+t_entries 1000000
+SetName : 10_6-semi_CEDM3_1j ,pass_sel : 366679 ,total_entries : 1000000
+Obs3
+O3 : -0.0297781 +- 0.00165069
+Obs6
+O6 : -0.0182912 +- 0.00165114
+selection : GVSel
+selection eff : 0.366679
+============================================
+time : 200423_2139
+t_entries 1000000
+SetName : 10_6-semi_CEDM3pt5_1j ,pass_sel : 366127 ,total_entries : 1000000
+Obs3
+O3 : -0.0329585 +- 0.00165176
+Obs6
+O6 : -0.0225523 +- 0.00165224
+selection : GVSel
+selection eff : 0.366127
+============================================
+time : 200423_2139
+t_entries 1000000
+SetName : 10_6-semi_CEDM4_1j ,pass_sel : 365100 ,total_entries : 1000000
+Obs3
+O3 : -0.0317666 +- 0.00165415
+Obs6
+O6 : -0.017891 +- 0.00165472
+selection : GVSel
+selection eff : 0.3651
+============================================
+time : 200423_2139
+t_entries 1000000
+SetName : 10_6-semi_CEDM4pt5_1j ,pass_sel : 364626 ,total_entries : 1000000
+Obs3
+O3 : -0.0318628 +- 0.00165522
+Obs6
+O6 : -0.020218 +- 0.00165572
+selection : GVSel
+selection eff : 0.364626
+============================================
+time : 200423_2139
+t_entries 1000000
+SetName : 10_6-semi_CEDM5_1j ,pass_sel : 364267 ,total_entries : 1000000
+Obs3
+O3 : -0.026379 +- 0.0016563
+Obs6
+O6 : -0.0178797 +- 0.00165661
+selection : GVSel
+selection eff : 0.364267
+============================================
+time : 200423_2140
+t_entries 10000000
+SetName : 10_7-semi_SM_1j ,pass_sel : 10000000 ,total_entries : 10000000
+Obs3
+O3 : 0.0001938 +- 0.000316228
+Obs6
+O6 : -0.0002072 +- 0.000316228
+selection : NoSel
+selection eff : 1
+============================================
+time : 200423_2141
+t_entries 10000000
+SetName : 10_7-semi_SM_1j ,pass_sel : 3671809 ,total_entries : 10000000
+Obs3
+O3 : 0.000226319 +- 0.000521867
+Obs6
+O6 : -0.000177297 +- 0.000521867
+selection : GVSel
+selection eff : 0.367181
+============================================
+
+
+
+#with just tt -> semi + 0j (exclude 1j case)
+
+time : 200424_0155
+t_entries 1000000
+SetName : 10_6-semi_SM_1j ,pass_sel : 468334 ,total_entries : 1000000
+Obs3
+O3 : -0.000687544 +- 0.00146124
+Obs6
+O6 : 0.000960853 +- 0.00146124
+selection : NoSel
+selection eff : 0.468334
+============================================
+time : 200424_0155
+t_entries 1000000
+SetName : 10_6-semi_CEDM0pt5_1j ,pass_sel : 462833 ,total_entries : 1000000
+Obs3
+O3 : -0.0052049 +- 0.00146988
+Obs6
+O6 : -0.00259921 +- 0.0014699
+selection : NoSel
+selection eff : 0.462833
+============================================
+time : 200424_0155
+t_entries 1000000
+SetName : 10_6-semi_CEDM1_1j ,pass_sel : 462736 ,total_entries : 1000000
+Obs3
+O3 : -0.011834 +- 0.00146995
+Obs6
+O6 : -0.00730006 +- 0.00147002
+selection : NoSel
+selection eff : 0.462736
+============================================
+time : 200424_0155
+t_entries 1000000
+SetName : 10_6-semi_CEDM1pt5_1j ,pass_sel : 458512 ,total_entries : 1000000
+Obs3
+O3 : -0.0173256 +- 0.00147659
+Obs6
+O6 : -0.0126758 +- 0.00147669
+selection : NoSel
+selection eff : 0.458512
+============================================
+time : 200424_0155
+t_entries 1000000
+SetName : 10_6-semi_CEDM2_1j ,pass_sel : 450209 ,total_entries : 1000000
+Obs3
+O3 : -0.020295 +- 0.00149006
+Obs6
+O6 : -0.0127208 +- 0.00149025
+selection : NoSel
+selection eff : 0.450209
+============================================
+time : 200424_0155
+t_entries 1000000
+SetName : 10_6-semi_CEDM2pt5_1j ,pass_sel : 448504 ,total_entries : 1000000
+Obs3
+O3 : -0.0255293 +- 0.00149271
+Obs6
+O6 : -0.0184302 +- 0.00149294
+selection : NoSel
+selection eff : 0.448504
+============================================
+time : 200424_0156
+t_entries 1000000
+SetName : 10_6-semi_CEDM3_1j ,pass_sel : 441087 ,total_entries : 1000000
+Obs3
+O3 : -0.0255029 +- 0.00150521
+Obs6
+O6 : -0.0168198 +- 0.00150548
+selection : NoSel
+selection eff : 0.441087
+============================================
+time : 200424_0156
+t_entries 1000000
+SetName : 10_6-semi_CEDM3pt5_1j ,pass_sel : 439609 ,total_entries : 1000000
+Obs3
+O3 : -0.0296013 +- 0.00150757
+Obs6
+O6 : -0.0210392 +- 0.00150789
+selection : NoSel
+selection eff : 0.439609
+============================================
+time : 200424_0156
+t_entries 1000000
+SetName : 10_6-semi_CEDM4_1j ,pass_sel : 433786 ,total_entries : 1000000
+Obs3
+O3 : -0.0273499 +- 0.00151775
+Obs6
+O6 : -0.0182486 +- 0.00151806
+selection : NoSel
+selection eff : 0.433786
+============================================
+time : 200424_0156
+t_entries 1000000
+SetName : 10_6-semi_CEDM4pt5_1j ,pass_sel : 429172 ,total_entries : 1000000
+Obs3
+O3 : -0.0298109 +- 0.00152578
+Obs6
+O6 : -0.019498 +- 0.00152617
+selection : NoSel
+selection eff : 0.429172
+============================================
+time : 200424_0156
+t_entries 1000000
+SetName : 10_6-semi_CEDM5_1j ,pass_sel : 422844 ,total_entries : 1000000
+Obs3
+O3 : -0.0262603 +- 0.00153731
+Obs6
+O6 : -0.01427 +- 0.00153768
+selection : NoSel
+selection eff : 0.422844
+============================================
+time : 200424_0156
+t_entries 1000000
+SetName : 10_6-semi_SM_1j ,pass_sel : 172661 ,total_entries : 1000000
+Obs3
+O3 : -0.00127996 +- 0.00240659
+Obs6
+O6 : 4.05419e-05 +- 0.00240659
+selection : GVSel
+selection eff : 0.172661
+============================================
+time : 200424_0156
+t_entries 1000000
+SetName : 10_6-semi_CEDM0pt5_1j ,pass_sel : 169937 ,total_entries : 1000000
+Obs3
+O3 : -0.00647887 +- 0.00242575
+Obs6
+O6 : -0.00247739 +- 0.0024258
+selection : GVSel
+selection eff : 0.169937
+============================================
+time : 200424_0156
+t_entries 1000000
+SetName : 10_6-semi_CEDM1_1j ,pass_sel : 170397 ,total_entries : 1000000
+Obs3
+O3 : -0.0115788 +- 0.00242237
+Obs6
+O6 : -0.00728299 +- 0.00242246
+selection : GVSel
+selection eff : 0.170397
+============================================
+time : 200424_0156
+t_entries 1000000
+SetName : 10_6-semi_CEDM1pt5_1j ,pass_sel : 168812 ,total_entries : 1000000
+Obs3
+O3 : -0.022759 +- 0.00243324
+Obs6
+O6 : -0.0154017 +- 0.00243359
+selection : GVSel
+selection eff : 0.168812
+============================================
+time : 200424_0157
+t_entries 1000000
+SetName : 10_6-semi_CEDM2_1j ,pass_sel : 165952 ,total_entries : 1000000
+Obs3
+O3 : -0.0214881 +- 0.00245419
+Obs6
+O6 : -0.0114732 +- 0.0024546
+selection : GVSel
+selection eff : 0.165952
+============================================
+time : 200424_0157
+t_entries 1000000
+SetName : 10_6-semi_CEDM2pt5_1j ,pass_sel : 164897 ,total_entries : 1000000
+Obs3
+O3 : -0.0273322 +- 0.00246168
+Obs6
+O6 : -0.0197275 +- 0.00246212
+selection : GVSel
+selection eff : 0.164897
+============================================
+time : 200424_0157
+t_entries 1000000
+SetName : 10_6-semi_CEDM3_1j ,pass_sel : 162421 ,total_entries : 1000000
+Obs3
+O3 : -0.0277612 +- 0.00248034
+Obs6
+O6 : -0.0165065 +- 0.00248096
+selection : GVSel
+selection eff : 0.162421
+============================================
+time : 200424_0157
+t_entries 1000000
+SetName : 10_6-semi_CEDM3pt5_1j ,pass_sel : 161095 ,total_entries : 1000000
+Obs3
+O3 : -0.0340979 +- 0.00249004
+Obs6
+O6 : -0.0255067 +- 0.00249068
+selection : GVSel
+selection eff : 0.161095
+============================================
+time : 200424_0157
+t_entries 1000000
+SetName : 10_6-semi_CEDM4_1j ,pass_sel : 158759 ,total_entries : 1000000
+Obs3
+O3 : -0.0304802 +- 0.00250859
+Obs6
+O6 : -0.0204272 +- 0.00250923
+selection : GVSel
+selection eff : 0.158759
+============================================
+time : 200424_0157
+t_entries 1000000
+SetName : 10_6-semi_CEDM4pt5_1j ,pass_sel : 157486 ,total_entries : 1000000
+Obs3
+O3 : -0.0335903 +- 0.00251845
+Obs6
+O6 : -0.0221607 +- 0.00251926
+selection : GVSel
+selection eff : 0.157486
+============================================
+time : 200424_0157
+t_entries 1000000
+SetName : 10_6-semi_CEDM5_1j ,pass_sel : 154875 ,total_entries : 1000000
+Obs3
+O3 : -0.0308184 +- 0.00253982
+Obs6
+O6 : -0.0171429 +- 0.00254065
+selection : GVSel
+selection eff : 0.154875
+============================================
+time : 200424_0158
+t_entries 10000000
+SetName : 10_7-semi_SM_1j ,pass_sel : 4684073 ,total_entries : 10000000
+Obs3
+O3 : 1.38768e-05 +- 0.000462049
+Obs6
+O6 : -0.000534364 +- 0.000462049
+selection : NoSel
+selection eff : 0.468407
+============================================
+time : 200424_0159
+t_entries 10000000
+SetName : 10_7-semi_SM_1j ,pass_sel : 1721844 ,total_entries : 10000000
+Obs3
+O3 : 1.62616e-05 +- 0.000762084
+Obs6
+O6 : -0.000671373 +- 0.000762084
+selection : GVSel
+selection eff : 0.172184
+============================================
+
+# exclude OBs == 0.
+
+
+time : 200424_0207
+t_entries 1000000
+SetName : 10_6-semi_SM_1j ,pass_sel : 1000000 ,total_entries : 1000000
+Obs3
+O3 : -0.001922 +- 0.000999998
+Obs6
+O6 : -5.2e-05 +- 0.001
+selection : NoSel
+selection eff : 1
+============================================
+time : 200424_0207
+t_entries 1000000
+SetName : 10_6-semi_CEDM0pt5_1j ,pass_sel : 1000000 ,total_entries : 1000000
+Obs3
+O3 : -0.005204 +- 0.000999986
+Obs6
+O6 : -0.003162 +- 0.000999995
+selection : NoSel
+selection eff : 1
+============================================
+time : 200424_0207
+t_entries 1000000
+SetName : 10_6-semi_CEDM1_1j ,pass_sel : 1000000 ,total_entries : 1000000
+Obs3
+O3 : -0.012994 +- 0.000999916
+Obs6
+O6 : -0.006754 +- 0.000999977
+selection : NoSel
+selection eff : 1
+============================================
+time : 200424_0207
+t_entries 1000000
+SetName : 10_6-semi_CEDM1pt5_1j ,pass_sel : 1000000 ,total_entries : 1000000
+Obs3
+O3 : -0.019442 +- 0.000999811
+Obs6
+O6 : -0.013034 +- 0.000999915
+selection : NoSel
+selection eff : 1
+============================================
+time : 200424_0207
+t_entries 1000000
+SetName : 10_6-semi_CEDM2_1j ,pass_sel : 1000000 ,total_entries : 1000000
+Obs3
+O3 : -0.02117 +- 0.000999776
+Obs6
+O6 : -0.014232 +- 0.000999899
+selection : NoSel
+selection eff : 1
+============================================
+time : 200424_0207
+t_entries 1000000
+SetName : 10_6-semi_CEDM2pt5_1j ,pass_sel : 1000000 ,total_entries : 1000000
+Obs3
+O3 : -0.026346 +- 0.000999653
+Obs6
+O6 : -0.017228 +- 0.000999852
+selection : NoSel
+selection eff : 1
+============================================
+time : 200424_0207
+t_entries 1000000
+SetName : 10_6-semi_CEDM3_1j ,pass_sel : 1000000 ,total_entries : 1000000
+Obs3
+O3 : -0.02644 +- 0.00099965
+Obs6
+O6 : -0.017788 +- 0.000999842
+selection : NoSel
+selection eff : 1
+============================================
+time : 200424_0208
+t_entries 1000000
+SetName : 10_6-semi_CEDM3pt5_1j ,pass_sel : 1000000 ,total_entries : 1000000
+Obs3
+O3 : -0.028068 +- 0.000999606
+Obs6
+O6 : -0.018138 +- 0.000999835
+selection : NoSel
+selection eff : 1
+============================================
+time : 200424_0208
+t_entries 1000000
+SetName : 10_6-semi_CEDM4_1j ,pass_sel : 1000000 ,total_entries : 1000000
+Obs3
+O3 : -0.027288 +- 0.000999628
+Obs6
+O6 : -0.015754 +- 0.000999876
+selection : NoSel
+selection eff : 1
+============================================
+time : 200424_0208
+t_entries 1000000
+SetName : 10_6-semi_CEDM4pt5_1j ,pass_sel : 1000000 ,total_entries : 1000000
+Obs3
+O3 : -0.027712 +- 0.000999616
+Obs6
+O6 : -0.018058 +- 0.000999837
+selection : NoSel
+selection eff : 1
+============================================
+time : 200424_0208
+t_entries 1000000
+SetName : 10_6-semi_CEDM5_1j ,pass_sel : 1000000 ,total_entries : 1000000
+Obs3
+O3 : -0.024806 +- 0.000999692
+Obs6
+O6 : -0.0153 +- 0.000999883
+selection : NoSel
+selection eff : 1
+============================================
+time : 200424_0208
+t_entries 1000000
+SetName : 10_6-semi_SM_1j ,pass_sel : 367604 ,total_entries : 1000000
+Obs3
+O3 : -0.00234491 +- 0.00164933
+Obs6
+O6 : -0.00111533 +- 0.00164934
+selection : GVSel
+selection eff : 0.367604
+============================================
+time : 200424_0208
+t_entries 1000000
+SetName : 10_6-semi_CEDM0pt5_1j ,pass_sel : 365956 ,total_entries : 1000000
+Obs3
+O3 : -0.00477653 +- 0.00165303
+Obs6
+O6 : -0.00309327 +- 0.00165304
+selection : GVSel
+selection eff : 0.365956
+============================================
+time : 200424_0208
+t_entries 1000000
+SetName : 10_6-semi_CEDM1_1j ,pass_sel : 367116 ,total_entries : 1000000
+Obs3
+O3 : -0.015412 +- 0.00165024
+Obs6
+O6 : -0.00822628 +- 0.00165038
+selection : GVSel
+selection eff : 0.367116
+============================================
+time : 200424_0209
+t_entries 1000000
+SetName : 10_6-semi_CEDM1pt5_1j ,pass_sel : 366850 ,total_entries : 1000000
+Obs3
+O3 : -0.0236391 +- 0.00165057
+Obs6
+O6 : -0.0146545 +- 0.00165086
+selection : GVSel
+selection eff : 0.36685
+============================================
+time : 200424_0209
+t_entries 1000000
+SetName : 10_6-semi_CEDM2_1j ,pass_sel : 366837 ,total_entries : 1000000
+Obs3
+O3 : -0.0251092 +- 0.00165054
+Obs6
+O6 : -0.0163097 +- 0.00165084
+selection : GVSel
+selection eff : 0.366837
+============================================
+time : 200424_0209
+t_entries 1000000
+SetName : 10_6-semi_CEDM2pt5_1j ,pass_sel : 366550 ,total_entries : 1000000
+Obs3
+O3 : -0.0294148 +- 0.00165099
+Obs6
+O6 : -0.019288 +- 0.0016514
+selection : GVSel
+selection eff : 0.36655
+============================================
+time : 200424_0209
+t_entries 1000000
+SetName : 10_6-semi_CEDM3_1j ,pass_sel : 366679 ,total_entries : 1000000
+Obs3
+O3 : -0.0297781 +- 0.00165069
+Obs6
+O6 : -0.0182912 +- 0.00165114
+selection : GVSel
+selection eff : 0.366679
+============================================
+time : 200424_0209
+t_entries 1000000
+SetName : 10_6-semi_CEDM3pt5_1j ,pass_sel : 366127 ,total_entries : 1000000
+Obs3
+O3 : -0.0329585 +- 0.00165176
+Obs6
+O6 : -0.0225523 +- 0.00165224
+selection : GVSel
+selection eff : 0.366127
+============================================
+time : 200424_0209
+t_entries 1000000
+SetName : 10_6-semi_CEDM4_1j ,pass_sel : 365100 ,total_entries : 1000000
+Obs3
+O3 : -0.0317666 +- 0.00165415
+Obs6
+O6 : -0.017891 +- 0.00165472
+selection : GVSel
+selection eff : 0.3651
+============================================
+time : 200424_0209
+t_entries 1000000
+SetName : 10_6-semi_CEDM4pt5_1j ,pass_sel : 364626 ,total_entries : 1000000
+Obs3
+O3 : -0.0318628 +- 0.00165522
+Obs6
+O6 : -0.020218 +- 0.00165572
+selection : GVSel
+selection eff : 0.364626
+============================================
+time : 200424_0210
+t_entries 1000000
+SetName : 10_6-semi_CEDM5_1j ,pass_sel : 364267 ,total_entries : 1000000
+Obs3
+O3 : -0.026379 +- 0.0016563
+Obs6
+O6 : -0.0178797 +- 0.00165661
+selection : GVSel
+selection eff : 0.364267
+============================================
+time : 200424_0211
+t_entries 10000000
+SetName : 10_7-semi_SM_1j ,pass_sel : 10000000 ,total_entries : 10000000
+Obs3
+O3 : 0.0001938 +- 0.000316228
+Obs6
+O6 : -0.0002072 +- 0.000316228
+selection : NoSel
+selection eff : 1
+============================================
+time : 200424_0212
+t_entries 10000000
+SetName : 10_7-semi_SM_1j ,pass_sel : 3671809 ,total_entries : 10000000
+Obs3
+O3 : 0.000226319 +- 0.000521867
+Obs6
+O6 : -0.000177297 +- 0.000521867
+selection : GVSel
+selection eff : 0.367181
+============================================
+
+
+
+#modify the Selection
+
+time : 200424_0307
+t_entries 1000000
+SetName : 10_6-semi_SM_1j ,pass_sel : 276022 ,total_entries : 1000000
+Obs3
+O3 : -0.00210128 +- 0.00190339
+Obs6
+O6 : -0.000398519 +- 0.00190339
+selection : GVSel
+selection eff : 0.276022
+============================================
+time : 200424_0307
+t_entries 1000000
+SetName : 10_6-semi_CEDM0pt5_1j ,pass_sel : 275368 ,total_entries : 1000000
+Obs3
+O3 : -0.00297057 +- 0.00190564
+Obs6
+O6 : -0.00269458 +- 0.00190564
+selection : GVSel
+selection eff : 0.275368
+============================================
+time : 200424_0307
+t_entries 1000000
+SetName : 10_6-semi_CEDM1_1j ,pass_sel : 277229 ,total_entries : 1000000
+Obs3
+O3 : -0.0172168 +- 0.00189896
+Obs6
+O6 : -0.00987992 +- 0.00189915
+selection : GVSel
+selection eff : 0.277229
+============================================
+time : 200424_0307
+t_entries 1000000
+SetName : 10_6-semi_CEDM1pt5_1j ,pass_sel : 278894 ,total_entries : 1000000
+Obs3
+O3 : -0.0236577 +- 0.00189304
+Obs6
+O6 : -0.0142276 +- 0.00189337
+selection : GVSel
+selection eff : 0.278894
+============================================
+time : 200424_0307
+t_entries 1000000
+SetName : 10_6-semi_CEDM2_1j ,pass_sel : 280731 ,total_entries : 1000000
+Obs3
+O3 : -0.0254585 +- 0.00188675
+Obs6
+O6 : -0.0161543 +- 0.00188711
+selection : GVSel
+selection eff : 0.280731
+============================================
+time : 200424_0307
+t_entries 1000000
+SetName : 10_6-semi_CEDM2pt5_1j ,pass_sel : 282305 ,total_entries : 1000000
+Obs3
+O3 : -0.0291706 +- 0.00188129
+Obs6
+O6 : -0.0177857 +- 0.00188179
+selection : GVSel
+selection eff : 0.282305
+============================================
+time : 200424_0307
+t_entries 1000000
+SetName : 10_6-semi_CEDM3_1j ,pass_sel : 284209 ,total_entries : 1000000
+Obs3
+O3 : -0.0297633 +- 0.00187495
+Obs6
+O6 : -0.0181099 +- 0.00187547
+selection : GVSel
+selection eff : 0.284209
+============================================
+time : 200424_0308
+t_entries 1000000
+SetName : 10_6-semi_CEDM3pt5_1j ,pass_sel : 286670 ,total_entries : 1000000
+Obs3
+O3 : -0.0323159 +- 0.00186673
+Obs6
+O6 : -0.0229323 +- 0.00186722
+selection : GVSel
+selection eff : 0.28667
+============================================
+time : 200424_0308
+t_entries 1000000
+SetName : 10_6-semi_CEDM4_1j ,pass_sel : 287266 ,total_entries : 1000000
+Obs3
+O3 : -0.0310583 +- 0.00186487
+Obs6
+O6 : -0.0174403 +- 0.00186549
+selection : GVSel
+selection eff : 0.287266
+============================================
+time : 200424_0308
+t_entries 1000000
+SetName : 10_6-semi_CEDM4pt5_1j ,pass_sel : 288406 ,total_entries : 1000000
+Obs3
+O3 : -0.0307969 +- 0.00186119
+Obs6
+O6 : -0.0189316 +- 0.00186174
+selection : GVSel
+selection eff : 0.288406
+============================================
+time : 200424_0308
+t_entries 1000000
+SetName : 10_6-semi_CEDM5_1j ,pass_sel : 290016 ,total_entries : 1000000
+Obs3
+O3 : -0.0253503 +- 0.00185631
+Obs6
+O6 : -0.0172197 +- 0.00185663
+selection : GVSel
+selection eff : 0.290016
+============================================
+time : 200424_0310
+t_entries 10000000
+SetName : 10_7-semi_SM_1j ,pass_sel : 2758544 ,total_entries : 10000000
+Obs3
+O3 : 0.000105853 +- 0.000602088
+Obs6
+O6 : -0.000115278 +- 0.000602088
+selection : GVSel
+selection eff : 0.275854
+============================================
+
+# selction + no 1j( just 0j )
+
+
+time : 200424_0328
+t_entries 1000000
+SetName : 10_6-semi_SM_1j ,pass_sel : 126634 ,total_entries : 1000000
+Obs3
+O3 : -0.00165832 +- 0.00281012
+Obs6
+O6 : -0.000521187 +- 0.00281012
+selection : GVSel
+selection eff : 0.126634
+============================================
+time : 200424_0329
+t_entries 1000000
+SetName : 10_6-semi_CEDM0pt5_1j ,pass_sel : 124655 ,total_entries : 1000000
+Obs3
+O3 : -0.00618507 +- 0.00283228
+Obs6
+O6 : -0.0010509 +- 0.00283234
+selection : GVSel
+selection eff : 0.124655
+============================================
+time : 200424_0329
+t_entries 1000000
+SetName : 10_6-semi_CEDM1_1j ,pass_sel : 125460 ,total_entries : 1000000
+Obs3
+O3 : -0.0135661 +- 0.00282298
+Obs6
+O6 : -0.00852861 +- 0.00282313
+selection : GVSel
+selection eff : 0.12546
+============================================
+time : 200424_0329
+t_entries 1000000
+SetName : 10_6-semi_CEDM1pt5_1j ,pass_sel : 124679 ,total_entries : 1000000
+Obs3
+O3 : -0.023364 +- 0.00283129
+Obs6
+O6 : -0.0148301 +- 0.00283175
+selection : GVSel
+selection eff : 0.124679
+============================================
+time : 200424_0329
+t_entries 1000000
+SetName : 10_6-semi_CEDM2_1j ,pass_sel : 123574 ,total_entries : 1000000
+Obs3
+O3 : -0.0210562 +- 0.00284407
+Obs6
+O6 : -0.0100507 +- 0.00284456
+selection : GVSel
+selection eff : 0.123574
+============================================
+time : 200424_0329
+t_entries 1000000
+SetName : 10_6-semi_CEDM2pt5_1j ,pass_sel : 123721 ,total_entries : 1000000
+Obs3
+O3 : -0.0266325 +- 0.002842
+Obs6
+O6 : -0.0190994 +- 0.00284249
+selection : GVSel
+selection eff : 0.123721
+============================================
+time : 200424_0329
+t_entries 1000000
+SetName : 10_6-semi_CEDM3_1j ,pass_sel : 122587 ,total_entries : 1000000
+Obs3
+O3 : -0.0270583 +- 0.00285508
+Obs6
+O6 : -0.0158663 +- 0.00285577
+selection : GVSel
+selection eff : 0.122587
+============================================
+time : 200424_0329
+t_entries 1000000
+SetName : 10_6-semi_CEDM3pt5_1j ,pass_sel : 122753 ,total_entries : 1000000
+Obs3
+O3 : -0.034435 +- 0.0028525
+Obs6
+O6 : -0.0252295 +- 0.00285329
+selection : GVSel
+selection eff : 0.122753
+============================================
+time : 200424_0330
+t_entries 1000000
+SetName : 10_6-semi_CEDM4_1j ,pass_sel : 121819 ,total_entries : 1000000
+Obs3
+O3 : -0.0292976 +- 0.00286389
+Obs6
+O6 : -0.0200215 +- 0.00286454
+selection : GVSel
+selection eff : 0.121819
+============================================
+time : 200424_0330
+t_entries 1000000
+SetName : 10_6-semi_CEDM4pt5_1j ,pass_sel : 121570 ,total_entries : 1000000
+Obs3
+O3 : -0.0331003 +- 0.00286648
+Obs6
+O6 : -0.0216172 +- 0.00286738
+selection : GVSel
+selection eff : 0.12157
+============================================
+time : 200424_0330
+t_entries 1000000
+SetName : 10_6-semi_CEDM5_1j ,pass_sel : 120215 ,total_entries : 1000000
+Obs3
+O3 : -0.0313854 +- 0.00288275
+Obs6
+O6 : -0.0167117 +- 0.00288377
+selection : GVSel
+selection eff : 0.120215
+============================================
+
+
+# selection + just muon
+
+time : 200424_0344
+t_entries 1000000
+SetName : 10_6-semi_SM_1j ,pass_sel : 138072 ,total_entries : 1000000
+Obs3
+O3 : -0.00412828 +- 0.00269118
+Obs6
+O6 : -0.00134712 +- 0.00269121
+selection : GVSel
+selection eff : 0.138072
+============================================
+time : 200424_0344
+t_entries 1000000
+SetName : 10_6-semi_CEDM0pt5_1j ,pass_sel : 137137 ,total_entries : 1000000
+Obs3
+O3 : -0.0024574 +- 0.00270036
+Obs6
+O6 : -0.00059065 +- 0.00270037
+selection : GVSel
+selection eff : 0.137137
+============================================
+time : 200424_0344
+t_entries 1000000
+SetName : 10_6-semi_CEDM1_1j ,pass_sel : 138003 ,total_entries : 1000000
+Obs3
+O3 : -0.013833 +- 0.00269162
+Obs6
+O6 : -0.00649986 +- 0.00269182
+selection : GVSel
+selection eff : 0.138003
+============================================
+time : 200424_0344
+t_entries 1000000
+SetName : 10_6-semi_CEDM1pt5_1j ,pass_sel : 142158 ,total_entries : 1000000
+Obs3
+O3 : -0.0217223 +- 0.00265162
+Obs6
+O6 : -0.0137875 +- 0.002652
+selection : GVSel
+selection eff : 0.142158
+============================================
+time : 200424_0344
+t_entries 1000000
+SetName : 10_6-semi_CEDM2_1j ,pass_sel : 140376 ,total_entries : 1000000
+Obs3
+O3 : -0.0220408 +- 0.00266838
+Obs6
+O6 : -0.0145039 +- 0.00266875
+selection : GVSel
+selection eff : 0.140376
+============================================
+time : 200424_0344
+t_entries 1000000
+SetName : 10_6-semi_CEDM2pt5_1j ,pass_sel : 142069 ,total_entries : 1000000
+Obs3
+O3 : -0.0313017 +- 0.00265178
+Obs6
+O6 : -0.0203915 +- 0.00265253
+selection : GVSel
+selection eff : 0.142069
+============================================
+time : 200424_0345
+t_entries 1000000
+SetName : 10_6-semi_CEDM3_1j ,pass_sel : 143081 ,total_entries : 1000000
+Obs3
+O3 : -0.0286202 +- 0.0026426
+Obs6
+O6 : -0.0182624 +- 0.00264324
+selection : GVSel
+selection eff : 0.143081
+============================================
+time : 200424_0345
+t_entries 1000000
+SetName : 10_6-semi_CEDM3pt5_1j ,pass_sel : 144070 ,total_entries : 1000000
+Obs3
+O3 : -0.0342195 +- 0.00263305
+Obs6
+O6 : -0.0224752 +- 0.00263393
+selection : GVSel
+selection eff : 0.14407
+============================================
+time : 200424_0345
+t_entries 1000000
+SetName : 10_6-semi_CEDM4_1j ,pass_sel : 143768 ,total_entries : 1000000
+Obs3
+O3 : -0.0332063 +- 0.0026359
+Obs6
+O6 : -0.0193228 +- 0.00263686
+selection : GVSel
+selection eff : 0.143768
+============================================
+time : 200424_0345
+t_entries 1000000
+SetName : 10_6-semi_CEDM4pt5_1j ,pass_sel : 144835 ,total_entries : 1000000
+Obs3
+O3 : -0.0297235 +- 0.00262646
+Obs6
+O6 : -0.0191597 +- 0.00262714
+selection : GVSel
+selection eff : 0.144835
+============================================
+time : 200424_0345
+t_entries 1000000
+SetName : 10_6-semi_CEDM5_1j ,pass_sel : 144079 ,total_entries : 1000000
+Obs3
+O3 : -0.0267562 +- 0.00263357
+Obs6
+O6 : -0.0182192 +- 0.00263407
+selection : GVSel
+selection eff : 0.144079
+============================================
+============================================
+# 0j sample / just muon / GVSel 
+
+
+
+time : 200426_0619
+t_entries 0
+SetName : 10_7-semi_SM_0j ,pass_sel : 0 ,total_entries : 0
+Obs3
+O3 : -nan +- -nan
+Obs6
+O6 : -nan +- -nan
+selection : GVSel
+selection eff : -nan
+============================================
+time : 200426_0620
+t_entries 10000000
+SetName : 10_7-semi_CEDM0pt5_0j ,pass_sel : 1347895 ,total_entries : 10000000
+Obs3
+O3 : -0.00738856 +- 0.000861311
+Obs6
+O6 : -0.00482308 +- 0.000861325
+selection : GVSel
+selection eff : 0.13479
+============================================
+time : 200426_0620
+t_entries 10000000
+SetName : 10_7-semi_CEDM2pt5_0j ,pass_sel : 1375350 ,total_entries : 10000000
+Obs3
+O3 : -0.0284349 +- 0.00085235
+Obs6
+O6 : -0.0177337 +- 0.00085256
+selection : GVSel
+selection eff : 0.137535
+============================================
+time : 200426_0621
+t_entries 10000000
+SetName : 10_7-semi_CEDM1_0j ,pass_sel : 1352213 ,total_entries : 10000000
+Obs3
+O3 : -0.0150427 +- 0.000859861
+Obs6
+O6 : -0.0103201 +- 0.000859913
+selection : GVSel
+selection eff : 0.135221
+============================================
+time : 200426_0621
+t_entries 10000000
+SetName : 10_7-semi_CEDM3_0j ,pass_sel : 1386790 ,total_entries : 10000000
+Obs3
+O3 : -0.0310934 +- 0.000848759
+Obs6
+O6 : -0.0188507 +- 0.000849019
+selection : GVSel
+selection eff : 0.138679
+============================================
+time : 200426_0622
+t_entries 10000000
+SetName : 10_7-semi_CEDM1pt5_0j ,pass_sel : 1354999 ,total_entries : 10000000
+Obs3
+O3 : -0.0208229 +- 0.000858888
+Obs6
+O6 : -0.0140185 +- 0.000858989
+selection : GVSel
+selection eff : 0.1355
+============================================
+time : 200426_0622
+t_entries 10000000
+SetName : 10_7-semi_CEDM3pt5_0j ,pass_sel : 1393409 ,total_entries : 10000000
+Obs3
+O3 : -0.0330291 +- 0.000846689
+Obs6
+O6 : -0.0206953 +- 0.000846969
+selection : GVSel
+selection eff : 0.139341
+============================================
+time : 200426_0623
+t_entries 10000000
+SetName : 10_7-semi_CEDM2_0j ,pass_sel : 1366467 ,total_entries : 10000000
+Obs3
+O3 : -0.0260519 +- 0.000855171
+Obs6
+O6 : -0.0174721 +- 0.000855331
+selection : GVSel
+selection eff : 0.136647
+============================================
+time : 200426_0623
+t_entries 10000000
+SetName : 10_7-semi_CEDM4_0j ,pass_sel : 1405564 ,total_entries : 10000000
+Obs3
+O3 : -0.0333233 +- 0.000843011
+Obs6
+O6 : -0.0205882 +- 0.000843301
+selection : GVSel
+selection eff : 0.140556
+============================================
+time : 200426_0624
+t_entries 10000000
+SetName : 10_7-semi_CEDM4pt5_0j ,pass_sel : 1419164 ,total_entries : 10000000
+Obs3
+O3 : -0.0303066 +- 0.000839043
+Obs6
+O6 : -0.0192339 +- 0.000839273
+selection : GVSel
+selection eff : 0.141916
+============================================
+time : 200426_0625
+t_entries 10000000
+SetName : 10_7-semi_CEDM5_0j ,pass_sel : 1423011 ,total_entries : 10000000
+Obs3
+O3 : -0.0312612 +- 0.000837883
+Obs6
+O6 : -0.0197785 +- 0.000838129
+selection : GVSel
+selection eff : 0.142301
+============================================
+time : 200426_0637
+t_entries 0
+SetName : 10_7-semi_SM_0j ,pass_sel : 0 ,total_entries : 0
+Obs3
+O3 : -nan +- -nan
+Obs6
+O6 : -nan +- -nan
+selection : GVSel
+selection eff : -nan
+============================================
+time : 200426_0637
+t_entries 10000000
+SetName : 10_7-semi_CEDM2pt5_0j ,pass_sel : 688145 ,total_entries : 10000000
+Obs3
+O3 : -0.0529496 +- 0.00120379
+Obs6
+O6 : -0.0466748 +- 0.00120417
+selection : GVSel
+selection eff : 0.0688145
+============================================
+time : 200426_0638
+t_entries 10000000
+SetName : 10_7-semi_CEDM0pt5_0j ,pass_sel : 676274 ,total_entries : 10000000
+Obs3
+O3 : -0.0161355 +- 0.00121586
+Obs6
+O6 : -0.0122229 +- 0.00121592
+selection : GVSel
+selection eff : 0.0676274
+============================================
+time : 200426_0638
+t_entries 10000000
+SetName : 10_7-semi_CEDM3_0j ,pass_sel : 692817 ,total_entries : 10000000
+Obs3
+O3 : -0.0582795 +- 0.00119937
+Obs6
+O6 : -0.0499858 +- 0.00119991
+selection : GVSel
+selection eff : 0.0692817
+============================================
+time : 200426_0639
+t_entries 10000000
+SetName : 10_7-semi_CEDM1_0j ,pass_sel : 677007 ,total_entries : 10000000
+Obs3
+O3 : -0.0282257 +- 0.00121487
+Obs6
+O6 : -0.0236763 +- 0.00121502
+selection : GVSel
+selection eff : 0.0677007
+============================================
+time : 200426_0639
+t_entries 10000000
+SetName : 10_7-semi_CEDM3pt5_0j ,pass_sel : 697364 ,total_entries : 10000000
+Obs3
+O3 : -0.058724 +- 0.00119542
+Obs6
+O6 : -0.0506077 +- 0.00119595
+selection : GVSel
+selection eff : 0.0697364
+============================================
+time : 200426_0639
+t_entries 10000000
+SetName : 10_7-semi_CEDM1pt5_0j ,pass_sel : 678180 ,total_entries : 10000000
+Obs3
+O3 : -0.0404642 +- 0.00121331
+Obs6
+O6 : -0.0335457 +- 0.00121362
+selection : GVSel
+selection eff : 0.067818
+============================================
+time : 200426_0639
+t_entries 10000000
+SetName : 10_7-semi_CEDM4_0j ,pass_sel : 704486 ,total_entries : 10000000
+Obs3
+O3 : -0.0576818 +- 0.00118943
+Obs6
+O6 : -0.0498548 +- 0.00118994
+selection : GVSel
+selection eff : 0.0704486
+============================================
+time : 200426_0640
+t_entries 10000000
+SetName : 10_7-semi_CEDM2_0j ,pass_sel : 685544 ,total_entries : 10000000
+Obs3
+O3 : -0.0490093 +- 0.00120631
+Obs6
+O6 : -0.04206 +- 0.0012067
+selection : GVSel
+selection eff : 0.0685544
+============================================
+time : 200426_0640
+t_entries 10000000
+SetName : 10_7-semi_CEDM4pt5_0j ,pass_sel : 713201 ,total_entries : 10000000
+Obs3
+O3 : -0.0541825 +- 0.00118238
+Obs6
+O6 : -0.0480916 +- 0.00118275
+selection : GVSel
+selection eff : 0.0713201
+============================================
+time : 200426_0641
+t_entries 10000000
+SetName : 10_7-semi_CEDM5_0j ,pass_sel : 710735 ,total_entries : 10000000
+Obs3
+O3 : -0.0541425 +- 0.00118443
+Obs6
+O6 : -0.0475353 +- 0.00118483
+selection : GVSel
+selection eff : 0.0710735
+============================================
+time : 200426_2053
+t_entries 0
+SetName : 10_7-semi_SM_0j ,pass_sel : 0 ,total_entries : 0
+Obs3
+O3 : -nan +- -nan
+Obs6
+O6 : -nan +- -nan
+Obs13
+O13 : -nan +- -nan
+selection : GVSel_j1
+selection eff : -nan
+============================================
+time : 200426_2054
+t_entries 10000000
+SetName : 10_7-semi_CEDM0pt5_0j ,pass_sel : 1347895 ,total_entries : 10000000
+Obs3
+O3 : -0.00738856 +- 0.000861311
+Obs6
+O6 : -0.00482308 +- 0.000861325
+Obs13
+O13 : 2.29988e-05 +- 0.000861335
+selection : GVSel_j1
+selection eff : 0.13479
+============================================
+time : 200426_2055
+t_entries 10000000
+SetName : 10_7-semi_CEDM1_0j ,pass_sel : 1352213 ,total_entries : 10000000
+Obs3
+O3 : -0.0150427 +- 0.000859861
+Obs6
+O6 : -0.0103201 +- 0.000859913
+Obs13
+O13 : -0.000111669 +- 0.000859958
+selection : GVSel_j1
+selection eff : 0.135221
+============================================
+time : 200426_2056
+t_entries 10000000
+SetName : 10_7-semi_CEDM1pt5_0j ,pass_sel : 1354999 ,total_entries : 10000000
+Obs3
+O3 : -0.0208229 +- 0.000858888
+Obs6
+O6 : -0.0140185 +- 0.000858989
+Obs13
+O13 : -2.43543e-05 +- 0.000859074
+selection : GVSel_j1
+selection eff : 0.1355
+============================================
+time : 200426_2057
+t_entries 10000000
+SetName : 10_7-semi_CEDM2_0j ,pass_sel : 1366467 ,total_entries : 10000000
+Obs3
+O3 : -0.0260519 +- 0.000855171
+Obs6
+O6 : -0.0174721 +- 0.000855331
+Obs13
+O13 : -9.4404e-05 +- 0.000855461
+selection : GVSel_j1
+selection eff : 0.136647
+============================================
+time : 200426_2058
+t_entries 10000000
+SetName : 10_7-semi_CEDM2pt5_0j ,pass_sel : 1375350 ,total_entries : 10000000
+Obs3
+O3 : -0.0284349 +- 0.00085235
+Obs6
+O6 : -0.0177337 +- 0.00085256
+Obs13
+O13 : 0.000350456 +- 0.000852694
+selection : GVSel_j1
+selection eff : 0.137535
+============================================
+time : 200426_2059
+t_entries 10000000
+SetName : 10_7-semi_CEDM3_0j ,pass_sel : 1386790 ,total_entries : 10000000
+Obs3
+O3 : -0.0310934 +- 0.000848759
+Obs6
+O6 : -0.0188507 +- 0.000849019
+Obs13
+O13 : 0.000589851 +- 0.00084917
+selection : GVSel_j1
+selection eff : 0.138679
+============================================
+time : 200426_2059
+t_entries 10000000
+SetName : 10_7-semi_CEDM3pt5_0j ,pass_sel : 1393409 ,total_entries : 10000000
+Obs3
+O3 : -0.0330291 +- 0.000846689
+Obs6
+O6 : -0.0206953 +- 0.000846969
+Obs13
+O13 : 0.000871962 +- 0.00084715
+selection : GVSel_j1
+selection eff : 0.139341
+============================================
+time : 200426_2060
+t_entries 10000000
+SetName : 10_7-semi_CEDM4_0j ,pass_sel : 1405564 ,total_entries : 10000000
+Obs3
+O3 : -0.0333233 +- 0.000843011
+Obs6
+O6 : -0.0205882 +- 0.000843301
+Obs13
+O13 : 0.000101027 +- 0.00084348
+selection : GVSel_j1
+selection eff : 0.140556
+============================================
+time : 200426_2101
+t_entries 10000000
+SetName : 10_7-semi_CEDM4pt5_0j ,pass_sel : 1419164 ,total_entries : 10000000
+Obs3
+O3 : -0.0303066 +- 0.000839043
+Obs6
+O6 : -0.0192339 +- 0.000839273
+Obs13
+O13 : -0.000329772 +- 0.000839428
+selection : GVSel_j1
+selection eff : 0.141916
+============================================
+time : 200426_2102
+t_entries 10000000
+SetName : 10_7-semi_CEDM5_0j ,pass_sel : 1423011 ,total_entries : 10000000
+Obs3
+O3 : -0.0312612 +- 0.000837883
+Obs6
+O6 : -0.0197785 +- 0.000838129
+Obs13
+O13 : 0.000146872 +- 0.000838293
+selection : GVSel_j1
+selection eff : 0.142301
+============================================
+time : 200426_2107
+t_entries 0
+SetName : 10_7-semi_SM_0j ,pass_sel : 0 ,total_entries : 0
+Obs3
+O3 : -nan +- -nan
+Obs6
+O6 : -nan +- -nan
+Obs13
+O13 : -nan +- -nan
+selection : GVSel_dq
+selection eff : -nan
+============================================
+time : 200426_2108
+t_entries 10000000
+SetName : 10_7-semi_CEDM0pt5_0j ,pass_sel : 676274 ,total_entries : 10000000
+Obs3
+O3 : -0.0161355 +- 0.00121586
+Obs6
+O6 : -0.0122229 +- 0.00121592
+Obs13
+O13 : 5.91476e-06 +- 0.00121601
+selection : GVSel_dq
+selection eff : 0.0676274
+============================================
+time : 200426_2109
+t_entries 10000000
+SetName : 10_7-semi_CEDM1_0j ,pass_sel : 677007 ,total_entries : 10000000
+Obs3
+O3 : -0.0282257 +- 0.00121487
+Obs6
+O6 : -0.0236763 +- 0.00121502
+Obs13
+O13 : 0.000391429 +- 0.00121536
+selection : GVSel_dq
+selection eff : 0.0677007
+============================================
+time : 200426_2110
+t_entries 10000000
+SetName : 10_7-semi_CEDM1pt5_0j ,pass_sel : 678180 ,total_entries : 10000000
+Obs3
+O3 : -0.0404642 +- 0.00121331
+Obs6
+O6 : -0.0335457 +- 0.00121362
+Obs13
+O13 : -0.00066649 +- 0.0012143
+selection : GVSel_dq
+selection eff : 0.067818
+============================================
+time : 200426_2110
+t_entries 10000000
+SetName : 10_7-semi_CEDM2_0j ,pass_sel : 685544 ,total_entries : 10000000
+Obs3
+O3 : -0.0490093 +- 0.00120631
+Obs6
+O6 : -0.04206 +- 0.0012067
+Obs13
+O13 : -0.000282987 +- 0.00120776
+selection : GVSel_dq
+selection eff : 0.0685544
+============================================
+time : 200426_2111
+t_entries 10000000
+SetName : 10_7-semi_CEDM2pt5_0j ,pass_sel : 688145 ,total_entries : 10000000
+Obs3
+O3 : -0.0529496 +- 0.00120379
+Obs6
+O6 : -0.0466748 +- 0.00120417
+Obs13
+O13 : 6.53932e-05 +- 0.00120548
+selection : GVSel_dq
+selection eff : 0.0688145
+============================================
+time : 200426_2112
+t_entries 10000000
+SetName : 10_7-semi_CEDM3_0j ,pass_sel : 692817 ,total_entries : 10000000
+Obs3
+O3 : -0.0582795 +- 0.00119937
+Obs6
+O6 : -0.0499858 +- 0.00119991
+Obs13
+O13 : -0.000552816 +- 0.00120141
+selection : GVSel_dq
+selection eff : 0.0692817
+============================================
+time : 200426_2112
+t_entries 10000000
+SetName : 10_7-semi_CEDM3pt5_0j ,pass_sel : 697364 ,total_entries : 10000000
+Obs3
+O3 : -0.058724 +- 0.00119542
+Obs6
+O6 : -0.0506077 +- 0.00119595
+Obs13
+O13 : 0.000358493 +- 0.00119749
+selection : GVSel_dq
+selection eff : 0.0697364
+============================================
+time : 200426_2113
+t_entries 10000000
+SetName : 10_7-semi_CEDM4_0j ,pass_sel : 704486 ,total_entries : 10000000
+Obs3
+O3 : -0.0576818 +- 0.00118943
+Obs6
+O6 : -0.0498548 +- 0.00118994
+Obs13
+O13 : 0.000266861 +- 0.00119142
+selection : GVSel_dq
+selection eff : 0.0704486
+============================================
+time : 200426_2114
+t_entries 10000000
+SetName : 10_7-semi_CEDM4pt5_0j ,pass_sel : 713201 ,total_entries : 10000000
+Obs3
+O3 : -0.0541825 +- 0.00118238
+Obs6
+O6 : -0.0480916 +- 0.00118275
+Obs13
+O13 : 0.000724901 +- 0.00118412
+selection : GVSel_dq
+selection eff : 0.0713201
+============================================
+time : 200426_2115
+t_entries 10000000
+SetName : 10_7-semi_CEDM5_0j ,pass_sel : 710735 ,total_entries : 10000000
+Obs3
+O3 : -0.0541425 +- 0.00118443
+Obs6
+O6 : -0.0475353 +- 0.00118483
+Obs13
+O13 : -0.000651438 +- 0.00118617
+selection : GVSel_dq
+selection eff : 0.0710735
+============================================
+time : 200426_2209
+t_entries 10000000
+SetName : 10_7-semi_SM_0j ,pass_sel : 1345609 ,total_entries : 10000000
+Obs3
+O3 : 0.000949013 +- 0.000862066
+Obs6
+O6 : 0.00179473 +- 0.000862065
+Obs13
+O13 : -0.0012329 +- 0.000862065
+selection : GVSel_j1
+selection eff : 0.134561
+============================================
+time : 200426_2209
+t_entries 10000000
+SetName : 10_7-semi_SM_0j ,pass_sel : 672121 ,total_entries : 10000000
+Obs3
+O3 : 2.23174e-05 +- 0.00121977
+Obs6
+O6 : -0.000935843 +- 0.00121976
+Obs13
+O13 : 0.00130482 +- 0.00121976
+selection : GVSel_dq
+selection eff : 0.0672121
+============================================
+time : 200427_0116
+t_entries 10000000
+SetName : 10_7-semi_SM_0j ,pass_sel : 1345609 ,total_entries : 10000000
+Obs3
+O3 : 0.000949013 +- 0.000862066
+Obs6
+O6 : 0.00179473 +- 0.000862065
+Obs12
+O12 : -0.000504604 +- 0.000862066
+Obs13
+O13 : -0.0012329 +- 0.000862065
+selection : GVSel_j1
+selection eff : 0.134561
+============================================
+time : 200427_0117
+t_entries 10000000
+SetName : 10_7-semi_SM_0j ,pass_sel : 672121 ,total_entries : 10000000
+Obs3
+O3 : 2.23174e-05 +- 0.00121977
+Obs6
+O6 : -0.000935843 +- 0.00121976
+Obs12
+O12 : -0.000319883 +- 0.00121977
+Obs13
+O13 : 0.00130482 +- 0.00121976
+selection : GVSel_dq
+selection eff : 0.0672121
+============================================
+time : 200427_0117
+t_entries 10000000
+SetName : 10_7-semi_CEDM0pt5_0j ,pass_sel : 1347895 ,total_entries : 10000000
+Obs3
+O3 : -0.00738856 +- 0.000861311
+Obs6
+O6 : -0.00482308 +- 0.000861325
+Obs12
+O12 : 0.000641741 +- 0.000861335
+Obs13
+O13 : 2.29988e-05 +- 0.000861335
+selection : GVSel_j1
+selection eff : 0.13479
+============================================
+time : 200427_0117
+t_entries 10000000
+SetName : 10_7-semi_CEDM0pt5_0j ,pass_sel : 676274 ,total_entries : 10000000
+Obs3
+O3 : -0.0161355 +- 0.00121586
+Obs6
+O6 : -0.0122229 +- 0.00121592
+Obs12
+O12 : 0.000727516 +- 0.00121601
+Obs13
+O13 : 5.91476e-06 +- 0.00121601
+selection : GVSel_dq
+selection eff : 0.0676274
+============================================
+time : 200427_0118
+t_entries 10000000
+SetName : 10_7-semi_CEDM1_0j ,pass_sel : 677007 ,total_entries : 10000000
+Obs3
+O3 : -0.0282257 +- 0.00121487
+Obs6
+O6 : -0.0236763 +- 0.00121502
+Obs12
+O12 : 0.00126882 +- 0.00121535
+Obs13
+O13 : 0.000391429 +- 0.00121536
+selection : GVSel_dq
+selection eff : 0.0677007
+============================================
+time : 200427_0118
+t_entries 10000000
+SetName : 10_7-semi_CEDM1_0j ,pass_sel : 1352213 ,total_entries : 10000000
+Obs3
+O3 : -0.0150427 +- 0.000859861
+Obs6
+O6 : -0.0103201 +- 0.000859913
+Obs12
+O12 : 0.00184364 +- 0.000859957
+Obs13
+O13 : -0.000111669 +- 0.000859958
+selection : GVSel_j1
+selection eff : 0.135221
+============================================
+time : 200427_0119
+t_entries 10000000
+SetName : 10_7-semi_CEDM1pt5_0j ,pass_sel : 678180 ,total_entries : 10000000
+Obs3
+O3 : -0.0404642 +- 0.00121331
+Obs6
+O6 : -0.0335457 +- 0.00121362
+Obs12
+O12 : 0.00161904 +- 0.0012143
+Obs13
+O13 : -0.00066649 +- 0.0012143
+selection : GVSel_dq
+selection eff : 0.067818
+============================================
+time : 200427_0119
+t_entries 10000000
+SetName : 10_7-semi_CEDM1pt5_0j ,pass_sel : 1354999 ,total_entries : 10000000
+Obs3
+O3 : -0.0208229 +- 0.000858888
+Obs6
+O6 : -0.0140185 +- 0.000858989
+Obs12
+O12 : 0.00164945 +- 0.000859073
+Obs13
+O13 : -2.43543e-05 +- 0.000859074
+selection : GVSel_j1
+selection eff : 0.1355
+============================================
+time : 200427_0119
+t_entries 10000000
+SetName : 10_7-semi_CEDM2_0j ,pass_sel : 685544 ,total_entries : 10000000
+Obs3
+O3 : -0.0490093 +- 0.00120631
+Obs6
+O6 : -0.04206 +- 0.0012067
+Obs12
+O12 : 0.000968574 +- 0.00120776
+Obs13
+O13 : -0.000282987 +- 0.00120776
+selection : GVSel_dq
+selection eff : 0.0685544
+============================================
+time : 200427_0120
+t_entries 10000000
+SetName : 10_7-semi_CEDM2_0j ,pass_sel : 1366467 ,total_entries : 10000000
+Obs3
+O3 : -0.0260519 +- 0.000855171
+Obs6
+O6 : -0.0174721 +- 0.000855331
+Obs12
+O12 : 0.00118481 +- 0.000855461
+Obs13
+O13 : -9.4404e-05 +- 0.000855461
+selection : GVSel_j1
+selection eff : 0.136647
+============================================
+time : 200427_0120
+t_entries 10000000
+SetName : 10_7-semi_CEDM2pt5_0j ,pass_sel : 688145 ,total_entries : 10000000
+Obs3
+O3 : -0.0529496 +- 0.00120379
+Obs6
+O6 : -0.0466748 +- 0.00120417
+Obs12
+O12 : 0.0033583 +- 0.00120547
+Obs13
+O13 : 6.53932e-05 +- 0.00120548
+selection : GVSel_dq
+selection eff : 0.0688145
+============================================
+time : 200427_0121
+t_entries 10000000
+SetName : 10_7-semi_CEDM2pt5_0j ,pass_sel : 1375350 ,total_entries : 10000000
+Obs3
+O3 : -0.0284349 +- 0.00085235
+Obs6
+O6 : -0.0177337 +- 0.00085256
+Obs12
+O12 : 0.00282837 +- 0.000852691
+Obs13
+O13 : 0.000350456 +- 0.000852694
+selection : GVSel_j1
+selection eff : 0.137535
+============================================
+time : 200427_0121
+t_entries 10000000
+SetName : 10_7-semi_CEDM3_0j ,pass_sel : 692817 ,total_entries : 10000000
+Obs3
+O3 : -0.0582795 +- 0.00119937
+Obs6
+O6 : -0.0499858 +- 0.00119991
+Obs12
+O12 : 0.00483966 +- 0.00120139
+Obs13
+O13 : -0.000552816 +- 0.00120141
+selection : GVSel_dq
+selection eff : 0.0692817
+============================================
+time : 200427_0122
+t_entries 10000000
+SetName : 10_7-semi_CEDM3pt5_0j ,pass_sel : 697364 ,total_entries : 10000000
+Obs3
+O3 : -0.058724 +- 0.00119542
+Obs6
+O6 : -0.0506077 +- 0.00119595
+Obs12
+O12 : 0.00242628 +- 0.00119748
+Obs13
+O13 : 0.000358493 +- 0.00119749
+selection : GVSel_dq
+selection eff : 0.0697364
+============================================
+time : 200427_0122
+t_entries 10000000
+SetName : 10_7-semi_CEDM3_0j ,pass_sel : 1386790 ,total_entries : 10000000
+Obs3
+O3 : -0.0310934 +- 0.000848759
+Obs6
+O6 : -0.0188507 +- 0.000849019
+Obs12
+O12 : 0.00367035 +- 0.000849164
+Obs13
+O13 : 0.000589851 +- 0.00084917
+selection : GVSel_j1
+selection eff : 0.138679
+============================================
+time : 200427_0122
+t_entries 10000000
+SetName : 10_7-semi_CEDM4_0j ,pass_sel : 704486 ,total_entries : 10000000
+Obs3
+O3 : -0.0576818 +- 0.00118943
+Obs6
+O6 : -0.0498548 +- 0.00118994
+Obs12
+O12 : 0.00287018 +- 0.00119141
+Obs13
+O13 : 0.000266861 +- 0.00119142
+selection : GVSel_dq
+selection eff : 0.0704486
+============================================
+time : 200427_0123
+t_entries 10000000
+SetName : 10_7-semi_CEDM3pt5_0j ,pass_sel : 1393409 ,total_entries : 10000000
+Obs3
+O3 : -0.0330291 +- 0.000846689
+Obs6
+O6 : -0.0206953 +- 0.000846969
+Obs12
+O12 : 0.00233743 +- 0.000847148
+Obs13
+O13 : 0.000871962 +- 0.00084715
+selection : GVSel_j1
+selection eff : 0.139341
+============================================
+time : 200427_0123
+t_entries 10000000
+SetName : 10_7-semi_CEDM4pt5_0j ,pass_sel : 713201 ,total_entries : 10000000
+Obs3
+O3 : -0.0541825 +- 0.00118238
+Obs6
+O6 : -0.0480916 +- 0.00118275
+Obs12
+O12 : 0.0035544 +- 0.00118411
+Obs13
+O13 : 0.000724901 +- 0.00118412
+selection : GVSel_dq
+selection eff : 0.0713201
+============================================
+time : 200427_0124
+t_entries 10000000
+SetName : 10_7-semi_CEDM5_0j ,pass_sel : 710735 ,total_entries : 10000000
+Obs3
+O3 : -0.0541425 +- 0.00118443
+Obs6
+O6 : -0.0475353 +- 0.00118483
+Obs12
+O12 : 0.00298986 +- 0.00118616
+Obs13
+O13 : -0.000651438 +- 0.00118617
+selection : GVSel_dq
+selection eff : 0.0710735
+============================================
+time : 200427_0124
+t_entries 10000000
+SetName : 10_7-semi_CEDM4_0j ,pass_sel : 1405564 ,total_entries : 10000000
+Obs3
+O3 : -0.0333233 +- 0.000843011
+Obs6
+O6 : -0.0205882 +- 0.000843301
+Obs12
+O12 : 0.00268504 +- 0.000843477
+Obs13
+O13 : 0.000101027 +- 0.00084348
+selection : GVSel_j1
+selection eff : 0.140556
+============================================
+time : 200427_0125
+t_entries 10000000
+SetName : 10_7-semi_CEDM4pt5_0j ,pass_sel : 1419164 ,total_entries : 10000000
+Obs3
+O3 : -0.0303066 +- 0.000839043
+Obs6
+O6 : -0.0192339 +- 0.000839273
+Obs12
+O12 : 0.00324275 +- 0.000839424
+Obs13
+O13 : -0.000329772 +- 0.000839428
+selection : GVSel_j1
+selection eff : 0.141916
+============================================
+time : 200427_0126
+t_entries 10000000
+SetName : 10_7-semi_CEDM5_0j ,pass_sel : 1423011 ,total_entries : 10000000
+Obs3
+O3 : -0.0312612 +- 0.000837883
+Obs6
+O6 : -0.0197785 +- 0.000838129
+Obs12
+O12 : 0.00389807 +- 0.000838287
+Obs13
+O13 : 0.000146872 +- 0.000838293
+selection : GVSel_j1
+selection eff : 0.142301
+============================================
+time : 200427_0136
+t_entries 10000000
+SetName : 10_7-semi_SM_0j ,pass_sel : 1345609 ,total_entries : 10000000
+Obs3
+O3 : 0.000949013 +- 0.000862066
+Obs6
+O6 : 0.00179473 +- 0.000862065
+Obs12
+O12 : -0.000504604 +- 0.000862066
+Obs13
+O13 : -0.0012329 +- 0.000862065
+selection : GVSel_j1
+selection eff : 0.134561
+============================================
+time : 200427_0136
+t_entries 10000000
+SetName : 10_7-semi_SM_0j ,pass_sel : 672121 ,total_entries : 10000000
+Obs3
+O3 : 2.23174e-05 +- 0.00121977
+Obs6
+O6 : -0.000935843 +- 0.00121976
+Obs12
+O12 : -0.000319883 +- 0.00121977
+Obs13
+O13 : 0.00130482 +- 0.00121976
+selection : GVSel_dq
+selection eff : 0.0672121
+============================================
+time : 200427_0136
+t_entries 10000000
+SetName : 10_7-semi_CEDM0pt5_0j ,pass_sel : 676274 ,total_entries : 10000000
+Obs3
+O3 : -0.0161355 +- 0.00121586
+Obs6
+O6 : -0.0122229 +- 0.00121592
+Obs12
+O12 : 0.000727516 +- 0.00121601
+Obs13
+O13 : 5.91476e-06 +- 0.00121601
+selection : GVSel_dq
+selection eff : 0.0676274
+============================================
+time : 200427_0136
+t_entries 10000000
+SetName : 10_7-semi_CEDM0pt5_0j ,pass_sel : 1347895 ,total_entries : 10000000
+Obs3
+O3 : -0.00738856 +- 0.000861311
+Obs6
+O6 : -0.00482308 +- 0.000861325
+Obs12
+O12 : 0.000641741 +- 0.000861335
+Obs13
+O13 : 2.29988e-05 +- 0.000861335
+selection : GVSel_j1
+selection eff : 0.13479
+============================================
+time : 200427_0137
+t_entries 10000000
+SetName : 10_7-semi_CEDM1_0j ,pass_sel : 677007 ,total_entries : 10000000
+Obs3
+O3 : -0.0282257 +- 0.00121487
+Obs6
+O6 : -0.0236763 +- 0.00121502
+Obs12
+O12 : 0.00126882 +- 0.00121535
+Obs13
+O13 : 0.000391429 +- 0.00121536
+selection : GVSel_dq
+selection eff : 0.0677007
+============================================
+time : 200427_0137
+t_entries 10000000
+SetName : 10_7-semi_CEDM1_0j ,pass_sel : 1352213 ,total_entries : 10000000
+Obs3
+O3 : -0.0150427 +- 0.000859861
+Obs6
+O6 : -0.0103201 +- 0.000859913
+Obs12
+O12 : 0.00184364 +- 0.000859957
+Obs13
+O13 : -0.000111669 +- 0.000859958
+selection : GVSel_j1
+selection eff : 0.135221
+============================================
+time : 200427_0138
+t_entries 10000000
+SetName : 10_7-semi_CEDM1pt5_0j ,pass_sel : 678180 ,total_entries : 10000000
+Obs3
+O3 : -0.0404642 +- 0.00121331
+Obs6
+O6 : -0.0335457 +- 0.00121362
+Obs12
+O12 : 0.00161904 +- 0.0012143
+Obs13
+O13 : -0.00066649 +- 0.0012143
+selection : GVSel_dq
+selection eff : 0.067818
+============================================
+time : 200427_0138
+t_entries 10000000
+SetName : 10_7-semi_CEDM1pt5_0j ,pass_sel : 1354999 ,total_entries : 10000000
+Obs3
+O3 : -0.0208229 +- 0.000858888
+Obs6
+O6 : -0.0140185 +- 0.000858989
+Obs12
+O12 : 0.00164945 +- 0.000859073
+Obs13
+O13 : -2.43543e-05 +- 0.000859074
+selection : GVSel_j1
+selection eff : 0.1355
+============================================
+time : 200427_0138
+t_entries 10000000
+SetName : 10_7-semi_CEDM2_0j ,pass_sel : 685544 ,total_entries : 10000000
+Obs3
+O3 : -0.0490093 +- 0.00120631
+Obs6
+O6 : -0.04206 +- 0.0012067
+Obs12
+O12 : 0.000968574 +- 0.00120776
+Obs13
+O13 : -0.000282987 +- 0.00120776
+selection : GVSel_dq
+selection eff : 0.0685544
+============================================
+time : 200427_0139
+t_entries 10000000
+SetName : 10_7-semi_CEDM2_0j ,pass_sel : 1366467 ,total_entries : 10000000
+Obs3
+O3 : -0.0260519 +- 0.000855171
+Obs6
+O6 : -0.0174721 +- 0.000855331
+Obs12
+O12 : 0.00118481 +- 0.000855461
+Obs13
+O13 : -9.4404e-05 +- 0.000855461
+selection : GVSel_j1
+selection eff : 0.136647
+============================================
+time : 200427_0139
+t_entries 10000000
+SetName : 10_7-semi_CEDM2pt5_0j ,pass_sel : 688145 ,total_entries : 10000000
+Obs3
+O3 : -0.0529496 +- 0.00120379
+Obs6
+O6 : -0.0466748 +- 0.00120417
+Obs12
+O12 : 0.0033583 +- 0.00120547
+Obs13
+O13 : 6.53932e-05 +- 0.00120548
+selection : GVSel_dq
+selection eff : 0.0688145
+============================================
+time : 200427_0140
+t_entries 10000000
+SetName : 10_7-semi_CEDM2pt5_0j ,pass_sel : 1375350 ,total_entries : 10000000
+Obs3
+O3 : -0.0284349 +- 0.00085235
+Obs6
+O6 : -0.0177337 +- 0.00085256
+Obs12
+O12 : 0.00282837 +- 0.000852691
+Obs13
+O13 : 0.000350456 +- 0.000852694
+selection : GVSel_j1
+selection eff : 0.137535
+============================================
+time : 200427_0140
+t_entries 10000000
+SetName : 10_7-semi_CEDM3_0j ,pass_sel : 692817 ,total_entries : 10000000
+Obs3
+O3 : -0.0582795 +- 0.00119937
+Obs6
+O6 : -0.0499858 +- 0.00119991
+Obs12
+O12 : 0.00483966 +- 0.00120139
+Obs13
+O13 : -0.000552816 +- 0.00120141
+selection : GVSel_dq
+selection eff : 0.0692817
+============================================
+time : 200427_0141
+t_entries 10000000
+SetName : 10_7-semi_CEDM3pt5_0j ,pass_sel : 697364 ,total_entries : 10000000
+Obs3
+O3 : -0.058724 +- 0.00119542
+Obs6
+O6 : -0.0506077 +- 0.00119595
+Obs12
+O12 : 0.00242628 +- 0.00119748
+Obs13
+O13 : 0.000358493 +- 0.00119749
+selection : GVSel_dq
+selection eff : 0.0697364
+============================================
+time : 200427_0141
+t_entries 10000000
+SetName : 10_7-semi_CEDM3_0j ,pass_sel : 1386790 ,total_entries : 10000000
+Obs3
+O3 : -0.0310934 +- 0.000848759
+Obs6
+O6 : -0.0188507 +- 0.000849019
+Obs12
+O12 : 0.00367035 +- 0.000849164
+Obs13
+O13 : 0.000589851 +- 0.00084917
+selection : GVSel_j1
+selection eff : 0.138679
+============================================
+time : 200427_0141
+t_entries 10000000
+SetName : 10_7-semi_CEDM4_0j ,pass_sel : 704486 ,total_entries : 10000000
+Obs3
+O3 : -0.0576818 +- 0.00118943
+Obs6
+O6 : -0.0498548 +- 0.00118994
+Obs12
+O12 : 0.00287018 +- 0.00119141
+Obs13
+O13 : 0.000266861 +- 0.00119142
+selection : GVSel_dq
+selection eff : 0.0704486
+============================================
+time : 200427_0142
+t_entries 10000000
+SetName : 10_7-semi_CEDM3pt5_0j ,pass_sel : 1393409 ,total_entries : 10000000
+Obs3
+O3 : -0.0330291 +- 0.000846689
+Obs6
+O6 : -0.0206953 +- 0.000846969
+Obs12
+O12 : 0.00233743 +- 0.000847148
+Obs13
+O13 : 0.000871962 +- 0.00084715
+selection : GVSel_j1
+selection eff : 0.139341
+============================================
+time : 200427_0142
+t_entries 10000000
+SetName : 10_7-semi_CEDM4pt5_0j ,pass_sel : 713201 ,total_entries : 10000000
+Obs3
+O3 : -0.0541825 +- 0.00118238
+Obs6
+O6 : -0.0480916 +- 0.00118275
+Obs12
+O12 : 0.0035544 +- 0.00118411
+Obs13
+O13 : 0.000724901 +- 0.00118412
+selection : GVSel_dq
+selection eff : 0.0713201
+============================================
+time : 200427_0142
+t_entries 10000000
+SetName : 10_7-semi_CEDM4_0j ,pass_sel : 1405564 ,total_entries : 10000000
+Obs3
+O3 : -0.0333233 +- 0.000843011
+Obs6
+O6 : -0.0205882 +- 0.000843301
+Obs12
+O12 : 0.00268504 +- 0.000843477
+Obs13
+O13 : 0.000101027 +- 0.00084348
+selection : GVSel_j1
+selection eff : 0.140556
+============================================
+time : 200427_0143
+t_entries 10000000
+SetName : 10_7-semi_CEDM5_0j ,pass_sel : 710735 ,total_entries : 10000000
+Obs3
+O3 : -0.0541425 +- 0.00118443
+Obs6
+O6 : -0.0475353 +- 0.00118483
+Obs12
+O12 : 0.00298986 +- 0.00118616
+Obs13
+O13 : -0.000651438 +- 0.00118617
+selection : GVSel_dq
+selection eff : 0.0710735
+============================================
+time : 200427_0143
+t_entries 10000000
+SetName : 10_7-semi_CEDM4pt5_0j ,pass_sel : 1419164 ,total_entries : 10000000
+Obs3
+O3 : -0.0303066 +- 0.000839043
+Obs6
+O6 : -0.0192339 +- 0.000839273
+Obs12
+O12 : 0.00324275 +- 0.000839424
+Obs13
+O13 : -0.000329772 +- 0.000839428
+selection : GVSel_j1
+selection eff : 0.141916
+============================================
+time : 200427_0144
+t_entries 10000000
+SetName : 10_7-semi_CEDM5_0j ,pass_sel : 1423011 ,total_entries : 10000000
+Obs3
+O3 : -0.0312612 +- 0.000837883
+Obs6
+O6 : -0.0197785 +- 0.000838129
+Obs12
+O12 : 0.00389807 +- 0.000838287
+Obs13
+O13 : 0.000146872 +- 0.000838293
+selection : GVSel_j1
+selection eff : 0.142301
+============================================
+time : 200505_0346
+t_entries 10000000
+SetName : 10_7-semi_SM_1j ,pass_sel : 1380168 ,total_entries : 10000000
+Obs3
+O3 : 0.000175341 +- 0.000851205
+Obs6
+O6 : -0.0004014 +- 0.000851205
+Obs12
+O12 : -0.000785412 +- 0.000851204
+Obs13
+O13 : -0.000765124 +- 0.000851204
+selection : GVSel_j1
+selection eff : 0.138017
+============================================
+time : 200505_0346
+t_entries 0
+SetName : 10_7-semi_CEDM0pt5_1j ,pass_sel : 0 ,total_entries : 0
+Obs3
+O3 : -nan +- -nan
+Obs6
+O6 : -nan +- -nan
+Obs12
+O12 : -nan +- -nan
+Obs13
+O13 : -nan +- -nan
+selection : GVSel_j1
+selection eff : -nan
+============================================
+time : 200505_0347
+t_entries 10000000
+SetName : 10_7-semi_SM_1j ,pass_sel : 690524 ,total_entries : 10000000
+Obs3
+O3 : -0.00122516 +- 0.0012034
+Obs6
+O6 : -0.00285001 +- 0.0012034
+Obs12
+O12 : 0.000709606 +- 0.0012034
+Obs13
+O13 : 0.000307013 +- 0.0012034
+selection : GVSel_dq
+selection eff : 0.0690524
+============================================
+time : 200505_0347
+t_entries 0
+SetName : 10_7-semi_CEDM0pt5_1j ,pass_sel : 0 ,total_entries : 0
+Obs3
+O3 : -nan +- -nan
+Obs6
+O6 : -nan +- -nan
+Obs12
+O12 : -nan +- -nan
+Obs13
+O13 : -nan +- -nan
+selection : GVSel_dq
+selection eff : -nan
+============================================
+time : 200505_0347
+t_entries 10000000
+SetName : 10_7-semi_CEDM1_1j ,pass_sel : 683678 ,total_entries : 10000000
+Obs3
+O3 : -0.0277733 +- 0.00120895
+Obs6
+O6 : -0.0230547 +- 0.00120909
+Obs12
+O12 : 2.04775e-05 +- 0.00120941
+Obs13
+O13 : 8.48353e-05 +- 0.00120941
+selection : GVSel_dq
+selection eff : 0.0683678
+============================================
+time : 200505_0348
+t_entries 10000000
+SetName : 10_7-semi_CEDM1_1j ,pass_sel : 1371277 ,total_entries : 10000000
+Obs3
+O3 : -0.0163023 +- 0.000853846
+Obs6
+O6 : -0.00959908 +- 0.00085392
+Obs12
+O12 : 0.000363894 +- 0.00085396
+Obs13
+O13 : -0.00146943 +- 0.000853959
+selection : GVSel_j1
+selection eff : 0.137128
+============================================
+time : 200505_0348
+t_entries 0
+SetName : 10_7-semi_CEDM1pt5_1j ,pass_sel : 0 ,total_entries : 0
+Obs3
+O3 : -nan +- -nan
+Obs6
+O6 : -nan +- -nan
+Obs12
+O12 : -nan +- -nan
+Obs13
+O13 : -nan +- -nan
+selection : GVSel_dq
+selection eff : -nan
+============================================
+time : 200505_0348
+t_entries 0
+SetName : 10_7-semi_CEDM1pt5_1j ,pass_sel : 0 ,total_entries : 0
+Obs3
+O3 : -nan +- -nan
+Obs6
+O6 : -nan +- -nan
+Obs12
+O12 : -nan +- -nan
+Obs13
+O13 : -nan +- -nan
+selection : GVSel_j1
+selection eff : -nan
+============================================
+time : 200505_0349
+t_entries 10000000
+SetName : 10_7-semi_CEDM2_1j ,pass_sel : 699242 ,total_entries : 10000000
+Obs3
+O3 : -0.0479576 +- 0.0011945
+Obs6
+O6 : -0.0412075 +- 0.00119486
+Obs12
+O12 : 0.0026543 +- 0.00119587
+Obs13
+O13 : 0.00150735 +- 0.00119587
+selection : GVSel_dq
+selection eff : 0.0699242
+============================================
+time : 200505_0349
+t_entries 0
+SetName : 10_7-semi_CEDM2pt5_1j ,pass_sel : 0 ,total_entries : 0
+Obs3
+O3 : -nan +- -nan
+Obs6
+O6 : -nan +- -nan
+Obs12
+O12 : -nan +- -nan
+Obs13
+O13 : -nan +- -nan
+selection : GVSel_dq
+selection eff : -nan
+============================================
+time : 200505_0349
+t_entries 10000000
+SetName : 10_7-semi_CEDM2_1j ,pass_sel : 1399465 ,total_entries : 10000000
+Obs3
+O3 : -0.0259806 +- 0.00084503
+Obs6
+O6 : -0.0159011 +- 0.000845209
+Obs12
+O12 : 0.00290611 +- 0.000845312
+Obs13
+O13 : 0.00107541 +- 0.000845315
+selection : GVSel_j1
+selection eff : 0.139947
+============================================
+time : 200505_0349
+t_entries 0
+SetName : 10_7-semi_CEDM2pt5_1j ,pass_sel : 0 ,total_entries : 0
+Obs3
+O3 : -nan +- -nan
+Obs6
+O6 : -nan +- -nan
+Obs12
+O12 : -nan +- -nan
+Obs13
+O13 : -nan +- -nan
+selection : GVSel_j1
+selection eff : -nan
+============================================
+time : 200505_0350
+t_entries 10000000
+SetName : 10_7-semi_CEDM3_1j ,pass_sel : 715490 ,total_entries : 10000000
+Obs3
+O3 : -0.0559197 +- 0.00118037
+Obs6
+O6 : -0.0490657 +- 0.0011808
+Obs12
+O12 : 0.0027282 +- 0.00118222
+Obs13
+O13 : 0.00105382 +- 0.00118222
+selection : GVSel_dq
+selection eff : 0.071549
+============================================
+time : 200505_0350
+t_entries 0
+SetName : 10_7-semi_CEDM3pt5_1j ,pass_sel : 0 ,total_entries : 0
+Obs3
+O3 : -nan +- -nan
+Obs6
+O6 : -nan +- -nan
+Obs12
+O12 : -nan +- -nan
+Obs13
+O13 : -nan +- -nan
+selection : GVSel_dq
+selection eff : -nan
+============================================
+time : 200505_0350
+t_entries 10000000
+SetName : 10_7-semi_CEDM3_1j ,pass_sel : 1421499 ,total_entries : 10000000
+Obs3
+O3 : -0.0297369 +- 0.000838368
+Obs6
+O6 : -0.0185417 +- 0.000838595
+Obs12
+O12 : 0.00342385 +- 0.000838734
+Obs13
+O13 : -0.000790011 +- 0.000838739
+selection : GVSel_j1
+selection eff : 0.14215
+============================================
+time : 200505_0350
+t_entries 0
+SetName : 10_7-semi_CEDM3pt5_1j ,pass_sel : 0 ,total_entries : 0
+Obs3
+O3 : -nan +- -nan
+Obs6
+O6 : -nan +- -nan
+Obs12
+O12 : -nan +- -nan
+Obs13
+O13 : -nan +- -nan
+selection : GVSel_j1
+selection eff : -nan
+============================================
+time : 200505_0351
+t_entries 10000000
+SetName : 10_7-semi_CEDM4_1j ,pass_sel : 713344 ,total_entries : 10000000
+Obs3
+O3 : -0.0557936 +- 0.00118215
+Obs6
+O6 : -0.0462049 +- 0.00118273
+Obs12
+O12 : 0.00366443 +- 0.00118399
+Obs13
+O13 : 0.00100653 +- 0.001184
+selection : GVSel_dq
+selection eff : 0.0713344
+============================================
+time : 200505_0351
+t_entries 0
+SetName : 10_7-semi_CEDM4pt5_1j ,pass_sel : 0 ,total_entries : 0
+Obs3
+O3 : -nan +- -nan
+Obs6
+O6 : -nan +- -nan
+Obs12
+O12 : -nan +- -nan
+Obs13
+O13 : -nan +- -nan
+selection : GVSel_dq
+selection eff : -nan
+============================================
+time : 200505_0351
+t_entries 10000000
+SetName : 10_7-semi_CEDM4_1j ,pass_sel : 1433288 ,total_entries : 10000000
+Obs3
+O3 : -0.0316461 +- 0.000834864
+Obs6
+O6 : -0.018549 +- 0.000835139
+Obs12
+O12 : 0.00334755 +- 0.000835278
+Obs13
+O13 : -0.000756303 +- 0.000835282
+selection : GVSel_j1
+selection eff : 0.143329
+============================================
+time : 200505_0351
+t_entries 0
+SetName : 10_7-semi_CEDM4pt5_1j ,pass_sel : 0 ,total_entries : 0
+Obs3
+O3 : -nan +- -nan
+Obs6
+O6 : -nan +- -nan
+Obs12
+O12 : -nan +- -nan
+Obs13
+O13 : -nan +- -nan
+selection : GVSel_j1
+selection eff : -nan
+============================================
+time : 200505_0352
+t_entries 10000000
+SetName : 10_7-semi_CEDM5_1j ,pass_sel : 715382 ,total_entries : 10000000
+Obs3
+O3 : -0.0509658 +- 0.00118077
+Obs6
+O6 : -0.0449913 +- 0.00118111
+Obs12
+O12 : 0.0019542 +- 0.00118231
+Obs13
+O13 : 0.000796777 +- 0.00118231
+selection : GVSel_dq
+selection eff : 0.0715382
+============================================
+time : 200505_0352
+t_entries 10000000
+SetName : 10_7-semi_CEDM5_1j ,pass_sel : 1444980 ,total_entries : 10000000
+Obs3
+O3 : -0.0268114 +- 0.000831597
+Obs6
+O6 : -0.0186106 +- 0.000831752
+Obs12
+O12 : 0.00270592 +- 0.000831893
+Obs13
+O13 : -0.000112112 +- 0.000831896
+selection : GVSel_j1
+selection eff : 0.144498
+============================================
+time : 200511_1722
+t_entries 10000000
+SetName : 10_7-semi_SM_0j ,pass_sel : 672121 ,total_entries : 10000000
+Obs3
+O3 : 2.23174e-05 +- 0.00121977
+Obs6
+O6 : -0.000935843 +- 0.00121976
+Obs12
+O12 : -0.000319883 +- 0.00121977
+Obs13
+O13 : -0.000150271 +- 0.00121977
+selection : GVSel_dq
+selection eff : 0.0672121
+============================================
+time : 200511_1723
+t_entries 10000000
+SetName : 10_7-semi_SM_0j ,pass_sel : 1345609 ,total_entries : 10000000
+Obs3
+O3 : 0.000949013 +- 0.000862066
+Obs6
+O6 : 0.00179473 +- 0.000862065
+Obs12
+O12 : -0.000504604 +- 0.000862066
+Obs13
+O13 : 0.000413939 +- 0.000862066
+selection : GVSel_j1
+selection eff : 0.134561
+============================================
+time : 200511_1723
+t_entries 10000000
+SetName : 10_7-semi_CEDM0pt5_0j ,pass_sel : 676274 ,total_entries : 10000000
+Obs3
+O3 : -0.0161355 +- 0.00121586
+Obs6
+O6 : -0.0122229 +- 0.00121592
+Obs12
+O12 : 0.000727516 +- 0.00121601
+Obs13
+O13 : -0.000733431 +- 0.00121601
+selection : GVSel_dq
+selection eff : 0.0676274
+============================================
+time : 200511_1724
+t_entries 10000000
+SetName : 10_7-semi_CEDM0pt5_0j ,pass_sel : 1347895 ,total_entries : 10000000
+Obs3
+O3 : -0.00738856 +- 0.000861311
+Obs6
+O6 : -0.00482308 +- 0.000861325
+Obs12
+O12 : 0.000641741 +- 0.000861335
+Obs13
+O13 : 0.000739672 +- 0.000861335
+selection : GVSel_j1
+selection eff : 0.13479
+============================================
+time : 200511_1724
+t_entries 10000000
+SetName : 10_7-semi_CEDM1_0j ,pass_sel : 677007 ,total_entries : 10000000
+Obs3
+O3 : -0.0282257 +- 0.00121487
+Obs6
+O6 : -0.0236763 +- 0.00121502
+Obs12
+O12 : 0.00126882 +- 0.00121535
+Obs13
+O13 : -0.00118906 +- 0.00121535
+selection : GVSel_dq
+selection eff : 0.0677007
+============================================
+time : 200511_1725
+t_entries 10000000
+SetName : 10_7-semi_CEDM1pt5_0j ,pass_sel : 678180 ,total_entries : 10000000
+Obs3
+O3 : -0.0404642 +- 0.00121331
+Obs6
+O6 : -0.0335457 +- 0.00121362
+Obs12
+O12 : 0.00161904 +- 0.0012143
+Obs13
+O13 : 0.0031732 +- 0.0012143
+selection : GVSel_dq
+selection eff : 0.067818
+============================================
+time : 200511_1725
+t_entries 10000000
+SetName : 10_7-semi_CEDM1_0j ,pass_sel : 1352213 ,total_entries : 10000000
+Obs3
+O3 : -0.0150427 +- 0.000859861
+Obs6
+O6 : -0.0103201 +- 0.000859913
+Obs12
+O12 : 0.00184364 +- 0.000859957
+Obs13
+O13 : 0.00515377 +- 0.000859947
+selection : GVSel_j1
+selection eff : 0.135221
+============================================
+time : 200511_1726
+t_entries 10000000
+SetName : 10_7-semi_CEDM2_0j ,pass_sel : 685544 ,total_entries : 10000000
+Obs3
+O3 : -0.0490093 +- 0.00120631
+Obs6
+O6 : -0.04206 +- 0.0012067
+Obs12
+O12 : 0.000968574 +- 0.00120776
+Obs13
+O13 : 0.000180878 +- 0.00120776
+selection : GVSel_dq
+selection eff : 0.0685544
+============================================
+time : 200511_1727
+t_entries 10000000
+SetName : 10_7-semi_CEDM1pt5_0j ,pass_sel : 1354999 ,total_entries : 10000000
+Obs3
+O3 : -0.0208229 +- 0.000858888
+Obs6
+O6 : -0.0140185 +- 0.000858989
+Obs12
+O12 : 0.00164945 +- 0.000859073
+Obs13
+O13 : 0.00690111 +- 0.000859053
+selection : GVSel_j1
+selection eff : 0.1355
+============================================
+time : 200511_1727
+t_entries 10000000
+SetName : 10_7-semi_CEDM2pt5_0j ,pass_sel : 688145 ,total_entries : 10000000
+Obs3
+O3 : -0.0529496 +- 0.00120379
+Obs6
+O6 : -0.0466748 +- 0.00120417
+Obs12
+O12 : 0.0033583 +- 0.00120547
+Obs13
+O13 : 0.00158833 +- 0.00120548
+selection : GVSel_dq
+selection eff : 0.0688145
+============================================
+time : 200511_1728
+t_entries 10000000
+SetName : 10_7-semi_CEDM2_0j ,pass_sel : 1366467 ,total_entries : 10000000
+Obs3
+O3 : -0.0260519 +- 0.000855171
+Obs6
+O6 : -0.0174721 +- 0.000855331
+Obs12
+O12 : 0.00118481 +- 0.000855461
+Obs13
+O13 : 0.00585964 +- 0.000855447
+selection : GVSel_j1
+selection eff : 0.136647
+============================================
+time : 200511_1728
+t_entries 10000000
+SetName : 10_7-semi_CEDM3_0j ,pass_sel : 692817 ,total_entries : 10000000
+Obs3
+O3 : -0.0582795 +- 0.00119937
+Obs6
+O6 : -0.0499858 +- 0.00119991
+Obs12
+O12 : 0.00483966 +- 0.00120139
+Obs13
+O13 : 0.00218672 +- 0.00120141
+selection : GVSel_dq
+selection eff : 0.0692817
+============================================
+time : 200511_1729
+t_entries 10000000
+SetName : 10_7-semi_CEDM3pt5_0j ,pass_sel : 697364 ,total_entries : 10000000
+Obs3
+O3 : -0.058724 +- 0.00119542
+Obs6
+O6 : -0.0506077 +- 0.00119595
+Obs12
+O12 : 0.00242628 +- 0.00119748
+Obs13
+O13 : 0.00219111 +- 0.00119748
+selection : GVSel_dq
+selection eff : 0.0697364
+============================================
+time : 200511_1729
+t_entries 10000000
+SetName : 10_7-semi_CEDM2pt5_0j ,pass_sel : 1375350 ,total_entries : 10000000
+Obs3
+O3 : -0.0284349 +- 0.00085235
+Obs6
+O6 : -0.0177337 +- 0.00085256
+Obs12
+O12 : 0.00282837 +- 0.000852691
+Obs13
+O13 : 0.00857527 +- 0.000852663
+selection : GVSel_j1
+selection eff : 0.137535
+============================================
+time : 200511_1730
+t_entries 10000000
+SetName : 10_7-semi_CEDM4_0j ,pass_sel : 704486 ,total_entries : 10000000
+Obs3
+O3 : -0.0576818 +- 0.00118943
+Obs6
+O6 : -0.0498548 +- 0.00118994
+Obs12
+O12 : 0.00287018 +- 0.00119141
+Obs13
+O13 : 0.00175163 +- 0.00119142
+selection : GVSel_dq
+selection eff : 0.0704486
+============================================
+time : 200511_1730
+t_entries 10000000
+SetName : 10_7-semi_CEDM3_0j ,pass_sel : 1386790 ,total_entries : 10000000
+Obs3
+O3 : -0.0310934 +- 0.000848759
+Obs6
+O6 : -0.0188507 +- 0.000849019
+Obs12
+O12 : 0.00367035 +- 0.000849164
+Obs13
+O13 : 0.0082334 +- 0.000849141
+selection : GVSel_j1
+selection eff : 0.138679
+============================================
+time : 200511_1731
+t_entries 10000000
+SetName : 10_7-semi_CEDM4pt5_0j ,pass_sel : 713201 ,total_entries : 10000000
+Obs3
+O3 : -0.0541825 +- 0.00118238
+Obs6
+O6 : -0.0480916 +- 0.00118275
+Obs12
+O12 : 0.0035544 +- 0.00118411
+Obs13
+O13 : 0.00147644 +- 0.00118411
+selection : GVSel_dq
+selection eff : 0.0713201
+============================================
+time : 200511_1732
+t_entries 10000000
+SetName : 10_7-semi_CEDM3pt5_0j ,pass_sel : 1393409 ,total_entries : 10000000
+Obs3
+O3 : -0.0330291 +- 0.000846689
+Obs6
+O6 : -0.0206953 +- 0.000846969
+Obs12
+O12 : 0.00233743 +- 0.000847148
+Obs13
+O13 : 0.0101715 +- 0.000847107
+selection : GVSel_j1
+selection eff : 0.139341
+============================================
+time : 200511_1732
+t_entries 10000000
+SetName : 10_7-semi_CEDM5_0j ,pass_sel : 710735 ,total_entries : 10000000
+Obs3
+O3 : -0.0541425 +- 0.00118443
+Obs6
+O6 : -0.0475353 +- 0.00118483
+Obs12
+O12 : 0.00298986 +- 0.00118616
+Obs13
+O13 : 0.00170106 +- 0.00118617
+selection : GVSel_dq
+selection eff : 0.0710735
+============================================
+time : 200511_1733
+t_entries 10000000
+SetName : 10_7-semi_CEDM4_0j ,pass_sel : 1405564 ,total_entries : 10000000
+Obs3
+O3 : -0.0333233 +- 0.000843011
+Obs6
+O6 : -0.0205882 +- 0.000843301
+Obs12
+O12 : 0.00268504 +- 0.000843477
+Obs13
+O13 : 0.00937844 +- 0.000843443
+selection : GVSel_j1
+selection eff : 0.140556
+============================================
+time : 200511_1734
+t_entries 10000000
+SetName : 10_7-semi_CEDM4pt5_0j ,pass_sel : 1419164 ,total_entries : 10000000
+Obs3
+O3 : -0.0303066 +- 0.000839043
+Obs6
+O6 : -0.0192339 +- 0.000839273
+Obs12
+O12 : 0.00324275 +- 0.000839424
+Obs13
+O13 : 0.00910113 +- 0.000839394
+selection : GVSel_j1
+selection eff : 0.141916
+============================================
+time : 200511_1735
+t_entries 10000000
+SetName : 10_7-semi_CEDM5_0j ,pass_sel : 1423011 ,total_entries : 10000000
+Obs3
+O3 : -0.0312612 +- 0.000837883
+Obs6
+O6 : -0.0197785 +- 0.000838129
+Obs12
+O12 : 0.00389807 +- 0.000838287
+Obs13
+O13 : 0.0103422 +- 0.000838248
+selection : GVSel_j1
+selection eff : 0.142301
+============================================
+time : 200512_1538
+t_entries 10000000
+SetName : 10_7-semi_SM_1j ,pass_sel : 690524 ,total_entries : 10000000
+Obs3
+O3 : -0.00122516 +- 0.0012034
+Obs6
+O6 : -0.00285001 +- 0.0012034
+Obs12
+O12 : 0.000709606 +- 0.0012034
+Obs13
+O13 : -0.000634301 +- 0.0012034
+selection : GVSel_dq
+selection eff : 0.0690524
+============================================
+time : 200512_1538
+t_entries 10000000
+SetName : 10_7-semi_SM_1j ,pass_sel : 1380168 ,total_entries : 10000000
+Obs3
+O3 : 0.000175341 +- 0.000851205
+Obs6
+O6 : -0.0004014 +- 0.000851205
+Obs12
+O12 : -0.000785412 +- 0.000851204
+Obs13
+O13 : 2.02874e-05 +- 0.000851205
+selection : GVSel_j1
+selection eff : 0.138017
+============================================
+time : 200512_1539
+t_entries 10000000
+SetName : 10_7-semi_CEDM0pt5_1j ,pass_sel : 693916 ,total_entries : 10000000
+Obs3
+O3 : -0.0134829 +- 0.00120035
+Obs6
+O6 : -0.0137423 +- 0.00120034
+Obs12
+O12 : 0.00254786 +- 0.00120045
+Obs13
+O13 : 0.000132581 +- 0.00120046
+selection : GVSel_dq
+selection eff : 0.0693916
+============================================
+time : 200512_1539
+t_entries 10000000
+SetName : 10_7-semi_CEDM0pt5_1j ,pass_sel : 1375292 ,total_entries : 10000000
+Obs3
+O3 : -0.00744133 +- 0.000852689
+Obs6
+O6 : -0.00499385 +- 0.000852702
+Obs12
+O12 : 0.00209992 +- 0.00085271
+Obs13
+O13 : 0.00178435 +- 0.000852711
+selection : GVSel_j1
+selection eff : 0.137529
+============================================
+time : 200512_1540
+t_entries 10000000
+SetName : 10_7-semi_CEDM1_1j ,pass_sel : 683678 ,total_entries : 10000000
+Obs3
+O3 : -0.0277733 +- 0.00120895
+Obs6
+O6 : -0.0230547 +- 0.00120909
+Obs12
+O12 : 2.04775e-05 +- 0.00120941
+Obs13
+O13 : 0.00135736 +- 0.00120941
+selection : GVSel_dq
+selection eff : 0.0683678
+============================================
+time : 200512_1540
+t_entries 10000000
+SetName : 10_7-semi_CEDM1_1j ,pass_sel : 1371277 ,total_entries : 10000000
+Obs3
+O3 : -0.0163023 +- 0.000853846
+Obs6
+O6 : -0.00959908 +- 0.00085392
+Obs12
+O12 : 0.000363894 +- 0.00085396
+Obs13
+O13 : 0.00342673 +- 0.000853955
+selection : GVSel_j1
+selection eff : 0.137128
+============================================
+time : 200512_1541
+t_entries 10000000
+SetName : 10_7-semi_CEDM1pt5_1j ,pass_sel : 690190 ,total_entries : 10000000
+Obs3
+O3 : -0.0409945 +- 0.00120268
+Obs6
+O6 : -0.0375896 +- 0.00120284
+Obs12
+O12 : 0.0015474 +- 0.00120369
+Obs13
+O13 : 0.001672 +- 0.00120369
+selection : GVSel_dq
+selection eff : 0.069019
+============================================
+time : 200512_1541
+t_entries 10000000
+SetName : 10_7-semi_CEDM2_1j ,pass_sel : 699242 ,total_entries : 10000000
+Obs3
+O3 : -0.0479576 +- 0.0011945
+Obs6
+O6 : -0.0412075 +- 0.00119486
+Obs12
+O12 : 0.0026543 +- 0.00119587
+Obs13
+O13 : 0.00258566 +- 0.00119587
+selection : GVSel_dq
+selection eff : 0.0699242
+============================================
+time : 200512_1542
+t_entries 10000000
+SetName : 10_7-semi_CEDM1pt5_1j ,pass_sel : 1386341 ,total_entries : 10000000
+Obs3
+O3 : -0.0218193 +- 0.000849105
+Obs6
+O6 : -0.0137693 +- 0.000849227
+Obs12
+O12 : 0.00164678 +- 0.000849306
+Obs13
+O13 : 0.00425509 +- 0.0008493
+selection : GVSel_j1
+selection eff : 0.138634
+============================================
+time : 200512_1542
+t_entries 10000000
+SetName : 10_7-semi_CEDM2pt5_1j ,pass_sel : 700952 ,total_entries : 10000000
+Obs3
+O3 : -0.0530907 +- 0.00119273
+Obs6
+O6 : -0.0442741 +- 0.00119325
+Obs12
+O12 : 0.00384334 +- 0.00119441
+Obs13
+O13 : 0.00189742 +- 0.00119441
+selection : GVSel_dq
+selection eff : 0.0700952
+============================================
+time : 200512_1543
+t_entries 10000000
+SetName : 10_7-semi_CEDM2_1j ,pass_sel : 1399465 ,total_entries : 10000000
+Obs3
+O3 : -0.0259806 +- 0.00084503
+Obs6
+O6 : -0.0159011 +- 0.000845209
+Obs12
+O12 : 0.00290611 +- 0.000845312
+Obs13
+O13 : 0.00621023 +- 0.000845299
+selection : GVSel_j1
+selection eff : 0.139947
+============================================
+time : 200512_1543
+t_entries 10000000
+SetName : 10_7-semi_CEDM3_1j ,pass_sel : 715490 ,total_entries : 10000000
+Obs3
+O3 : -0.0559197 +- 0.00118037
+Obs6
+O6 : -0.0490657 +- 0.0011808
+Obs12
+O12 : 0.0027282 +- 0.00118222
+Obs13
+O13 : 0.000645711 +- 0.00118222
+selection : GVSel_dq
+selection eff : 0.071549
+============================================
+time : 200512_1544
+t_entries 10000000
+SetName : 10_7-semi_CEDM2pt5_1j ,pass_sel : 1413164 ,total_entries : 10000000
+Obs3
+O3 : -0.0311768 +- 0.0008408
+Obs6
+O6 : -0.0194245 +- 0.00084105
+Obs12
+O12 : 0.0031065 +- 0.000841205
+Obs13
+O13 : 0.00710038 +- 0.000841187
+selection : GVSel_j1
+selection eff : 0.141316
+============================================
+time : 200512_1544
+t_entries 10000000
+SetName : 10_7-semi_CEDM3pt5_1j ,pass_sel : 713156 ,total_entries : 10000000
+Obs3
+O3 : -0.0593727 +- 0.00118206
+Obs6
+O6 : -0.0506621 +- 0.00118263
+Obs12
+O12 : 0.00445064 +- 0.00118414
+Obs13
+O13 : 0.00101521 +- 0.00118415
+selection : GVSel_dq
+selection eff : 0.0713156
+============================================
+time : 200512_1545
+t_entries 10000000
+SetName : 10_7-semi_CEDM4_1j ,pass_sel : 713344 ,total_entries : 10000000
+Obs3
+O3 : -0.0557936 +- 0.00118215
+Obs6
+O6 : -0.0462049 +- 0.00118273
+Obs12
+O12 : 0.00366443 +- 0.00118399
+Obs13
+O13 : -0.000813072 +- 0.001184
+selection : GVSel_dq
+selection eff : 0.0713344
+============================================
+time : 200512_1546
+t_entries 10000000
+SetName : 10_7-semi_CEDM3_1j ,pass_sel : 1421499 ,total_entries : 10000000
+Obs3
+O3 : -0.0297369 +- 0.000838368
+Obs6
+O6 : -0.0185417 +- 0.000838595
+Obs12
+O12 : 0.00342385 +- 0.000838734
+Obs13
+O13 : 0.00876891 +- 0.000838707
+selection : GVSel_j1
+selection eff : 0.14215
+============================================
+time : 200512_1546
+t_entries 10000000
+SetName : 10_7-semi_CEDM4pt5_1j ,pass_sel : 712818 ,total_entries : 10000000
+Obs3
+O3 : -0.0506076 +- 0.00118292
+Obs6
+O6 : -0.0431976 +- 0.00118333
+Obs12
+O12 : 0.00332483 +- 0.00118443
+Obs13
+O13 : 0.000866981 +- 0.00118443
+selection : GVSel_dq
+selection eff : 0.0712818
+============================================
+time : 200512_1547
+t_entries 10000000
+SetName : 10_7-semi_CEDM3pt5_1j ,pass_sel : 1426573 ,total_entries : 10000000
+Obs3
+O3 : -0.0323636 +- 0.000836807
+Obs6
+O6 : -0.019394 +- 0.000837088
+Obs12
+O12 : 0.0038631 +- 0.00083724
+Obs13
+O13 : 0.00813348 +- 0.000837218
+selection : GVSel_j1
+selection eff : 0.142657
+============================================
+time : 200512_1547
+t_entries 10000000
+SetName : 10_7-semi_CEDM5_1j ,pass_sel : 715382 ,total_entries : 10000000
+Obs3
+O3 : -0.0509658 +- 0.00118077
+Obs6
+O6 : -0.0449913 +- 0.00118111
+Obs12
+O12 : 0.0019542 +- 0.00118231
+Obs13
+O13 : -0.000173334 +- 0.00118231
+selection : GVSel_dq
+selection eff : 0.0715382
+============================================
+time : 200512_1548
+t_entries 10000000
+SetName : 10_7-semi_CEDM4_1j ,pass_sel : 1433288 ,total_entries : 10000000
+Obs3
+O3 : -0.0316461 +- 0.000834864
+Obs6
+O6 : -0.018549 +- 0.000835139
+Obs12
+O12 : 0.00334755 +- 0.000835278
+Obs13
+O13 : 0.00831515 +- 0.000835253
+selection : GVSel_j1
+selection eff : 0.143329
+============================================
+time : 200512_1549
+t_entries 10000000
+SetName : 10_7-semi_CEDM4pt5_1j ,pass_sel : 1441476 ,total_entries : 10000000
+Obs3
+O3 : -0.0289467 +- 0.000832558
+Obs6
+O6 : -0.0187364 +- 0.00083276
+Obs12
+O12 : 0.00363239 +- 0.000832901
+Obs13
+O13 : 0.00761858 +- 0.000832882
+selection : GVSel_j1
+selection eff : 0.144148
+============================================
+time : 200512_1550
+t_entries 10000000
+SetName : 10_7-semi_CEDM5_1j ,pass_sel : 1444980 ,total_entries : 10000000
+Obs3
+O3 : -0.0268114 +- 0.000831597
+Obs6
+O6 : -0.0186106 +- 0.000831752
+Obs12
+O12 : 0.00270592 +- 0.000831893
+Obs13
+O13 : 0.00685407 +- 0.000831877
+selection : GVSel_j1
+selection eff : 0.144498
+============================================

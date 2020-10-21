@@ -1,0 +1,300 @@
+==================================================
+SetName : 10_7-dilep_SM_0j ,pass_sel : 10000000 ,total_entries : 10000000
+time : 200520_1821
+10_7-dilep_SM_0j_NoSel_LepAsym_Acp_M:-3.86e-05
+10_7-dilep_SM_0j_NoSel_LepAsym_Acp_E:0.000316228
+==================================================
+==================================================
+SetName : test-dilep_2HDM_NLO_test8 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200520_1822
+test-dilep_2HDM_NLO_test8_NoSel_LepAsym_Acp_M:0.000516
+test-dilep_2HDM_NLO_test8_NoSel_LepAsym_Acp_E:0.001
+==================================================
+==================================================
+SetName : test-dilep_SM_test ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200520_1823
+test-dilep_SM_test_NoSel_LepAsym_Acp_M:-0.001548
+test-dilep_SM_test_NoSel_LepAsym_Acp_E:0.000999999
+==================================================
+==================================================
+SetName : test-dilep_2HDM_NLO_test9 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200520_1824
+test-dilep_2HDM_NLO_test9_NoSel_LepAsym_Acp_M:0.000516
+test-dilep_2HDM_NLO_test9_NoSel_LepAsym_Acp_E:0.001
+==================================================
+==================================================
+SetName : test-dilep_2HDM_LO_test1 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200520_1824
+test-dilep_2HDM_LO_test1_NoSel_LepAsym_Acp_M:0.000986
+test-dilep_2HDM_LO_test1_NoSel_LepAsym_Acp_E:0.001
+==================================================
+==================================================
+SetName : test-dilep_2HDM_LO_test2 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200520_1945
+test-dilep_2HDM_LO_test2_NoSel_LepAsym_Acp_M:0.000516
+test-dilep_2HDM_LO_test2_NoSel_LepAsym_Acp_E:0.001
+==================================================
+==================================================
+SetName : test-dilep_2HDM_LO_test3 ,pass_sel : 0 ,total_entries : 0
+time : 200520_1945
+test-dilep_2HDM_LO_test3_NoSel_LepAsym_Acp_M:-nan
+test-dilep_2HDM_LO_test3_NoSel_LepAsym_Acp_E:-nan
+==================================================
+==================================================
+SetName : test-dilep_2HDM_LO_test4 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200520_1945
+test-dilep_2HDM_LO_test4_NoSel_LepAsym_Acp_M:0.000516
+test-dilep_2HDM_LO_test4_NoSel_LepAsym_Acp_E:0.001
+==================================================
+==================================================
+SetName : test-dilep_SM_test ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200520_1952
+test-dilep_SM_test_NoSel_LepAsym_Acp_M:-0.001548
+test-dilep_SM_test_NoSel_LepAsym_Acp_E:0.000999999
+==================================================
+==================================================
+SetName : test-dilep_2HDM_NLO_test2 ,pass_sel : 0 ,total_entries : 0
+time : 200520_1953
+test-dilep_2HDM_NLO_test2_NoSel_LepAsym_Acp_M:-nan
+test-dilep_2HDM_NLO_test2_NoSel_LepAsym_Acp_E:-nan
+==================================================
+==================================================
+SetName : test-dilep_2HDM_NLO_test1 ,pass_sel : 0 ,total_entries : 0
+time : 200520_1953
+test-dilep_2HDM_NLO_test1_NoSel_LepAsym_Acp_M:-nan
+test-dilep_2HDM_NLO_test1_NoSel_LepAsym_Acp_E:-nan
+==================================================
+==================================================
+SetName : test-dilep_2HDM_LO_test1 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200520_1954
+test-dilep_2HDM_LO_test1_NoSel_LepAsym_Acp_M:0.000986
+test-dilep_2HDM_LO_test1_NoSel_LepAsym_Acp_E:0.001
+==================================================
+==================================================
+SetName : test-dilep_2HDM_LO_test2 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200520_1954
+test-dilep_2HDM_LO_test2_NoSel_LepAsym_Acp_M:0.000516
+test-dilep_2HDM_LO_test2_NoSel_LepAsym_Acp_E:0.001
+==================================================
+==================================================
+SetName : test-dilep_2HDM_NLO_test8 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200520_1954
+test-dilep_2HDM_NLO_test8_NoSel_LepAsym_Acp_M:0.000516
+test-dilep_2HDM_NLO_test8_NoSel_LepAsym_Acp_E:0.001
+==================================================
+==================================================
+SetName : test-dilep_2HDM_NLO_test9 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200520_1954
+test-dilep_2HDM_NLO_test9_NoSel_LepAsym_Acp_M:0.000516
+test-dilep_2HDM_NLO_test9_NoSel_LepAsym_Acp_E:0.001
+==================================================
+==================================================
+SetName : test-dilep_2HDM_NLO_test1 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200521_0455
+test-dilep_2HDM_NLO_test1_NoSel_LepAsym_Acp_M:0.000516
+test-dilep_2HDM_NLO_test1_NoSel_LepAsym_Acp_E:0.001
+==================================================
+==================================================
+SetName : test-dilep_2HDM_NLO_test11 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200521_0456
+test-dilep_2HDM_NLO_test11_NoSel_LepAsym_Acp_M:0.000986
+test-dilep_2HDM_NLO_test11_NoSel_LepAsym_Acp_E:0.001
+==================================================
+==================================================
+SetName : test-dilep_2HDM_NLO_test12 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200521_0456
+test-dilep_2HDM_NLO_test12_NoSel_LepAsym_Acp_M:0.000986
+test-dilep_2HDM_NLO_test12_NoSel_LepAsym_Acp_E:0.001
+==================================================
+==================================================
+SetName : 1k_dilep_2HDM_NLO_t1 ,pass_sel : 0 ,total_entries : 0
+time : 200528_2253
+1k_dilep_2HDM_NLO_t1_NoSel_LepAsym_Acp_M:-nan
+1k_dilep_2HDM_NLO_t1_NoSel_LepAsym_Acp_E:-nan
+==================================================
+==================================================
+SetName : test_2HDM-1k_dilep_2HDM_NLO_t1 ,pass_sel : 0 ,total_entries : 0
+time : 200528_2253
+test_2HDM-1k_dilep_2HDM_NLO_t1_NoSel_LepAsym_Acp_M:-nan
+test_2HDM-1k_dilep_2HDM_NLO_t1_NoSel_LepAsym_Acp_E:-nan
+==================================================
+==================================================
+SetName : test-1k_dilep_2HDM_NLO_t1 ,pass_sel : 1000 ,total_entries : 1000
+time : 200528_2254
+test-1k_dilep_2HDM_NLO_t1_NoSel_LepAsym_Acp_M:-0.004
+test-1k_dilep_2HDM_NLO_t1_NoSel_LepAsym_Acp_E:0.0316225
+==================================================
+==================================================
+SetName : test-1k_dilep_2HDM_NLO_t5 ,pass_sel : 1000 ,total_entries : 1000
+time : 200528_2254
+test-1k_dilep_2HDM_NLO_t5_NoSel_LepAsym_Acp_M:-0.006
+test-1k_dilep_2HDM_NLO_t5_NoSel_LepAsym_Acp_E:0.0316222
+==================================================
+==================================================
+SetName : test-1k_dilep_2HDM_NLO_t6 ,pass_sel : 1000 ,total_entries : 1000
+time : 200528_2254
+test-1k_dilep_2HDM_NLO_t6_NoSel_LepAsym_Acp_M:-0.004
+test-1k_dilep_2HDM_NLO_t6_NoSel_LepAsym_Acp_E:0.0316225
+==================================================
+==================================================
+SetName : test-1k_dilep_2HDM_NLO_t7 ,pass_sel : 1000 ,total_entries : 1000
+time : 200528_2254
+test-1k_dilep_2HDM_NLO_t7_NoSel_LepAsym_Acp_M:-0.006
+test-1k_dilep_2HDM_NLO_t7_NoSel_LepAsym_Acp_E:0.0316222
+==================================================
+==================================================
+SetName : test-1k_dilep_2HDM_NLO_t8 ,pass_sel : 1000 ,total_entries : 1000
+time : 200528_2254
+test-1k_dilep_2HDM_NLO_t8_NoSel_LepAsym_Acp_M:-0.006
+test-1k_dilep_2HDM_NLO_t8_NoSel_LepAsym_Acp_E:0.0316222
+==================================================
+==================================================
+SetName : test-1k_dilep_2HDM_NLO_t9 ,pass_sel : 1000 ,total_entries : 1000
+time : 200528_2254
+test-1k_dilep_2HDM_NLO_t9_NoSel_LepAsym_Acp_M:-0.004
+test-1k_dilep_2HDM_NLO_t9_NoSel_LepAsym_Acp_E:0.0316225
+==================================================
+==================================================
+SetName : test-1k_dilep_2HDM_NLO_t10 ,pass_sel : 1000 ,total_entries : 1000
+time : 200528_2254
+test-1k_dilep_2HDM_NLO_t10_NoSel_LepAsym_Acp_M:-0.006
+test-1k_dilep_2HDM_NLO_t10_NoSel_LepAsym_Acp_E:0.0316222
+==================================================
+==================================================
+SetName : test-dilep_2HDM_NLO_t1 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200528_2256
+test-dilep_2HDM_NLO_t1_NoSel_LepAsym_Acp_M:0.00014
+test-dilep_2HDM_NLO_t1_NoSel_LepAsym_Acp_E:0.001
+==================================================
+==================================================
+SetName : test-dilep_2HDM_NLO_t2 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200528_2256
+test-dilep_2HDM_NLO_t2_NoSel_LepAsym_Acp_M:0.00014
+test-dilep_2HDM_NLO_t2_NoSel_LepAsym_Acp_E:0.001
+==================================================
+==================================================
+SetName : test-dilep_2HDM_NLO_t3 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200528_2256
+test-dilep_2HDM_NLO_t3_NoSel_LepAsym_Acp_M:0.00014
+test-dilep_2HDM_NLO_t3_NoSel_LepAsym_Acp_E:0.001
+==================================================
+==================================================
+SetName : test-dilep_2HDM_NLO_t4 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200528_2256
+test-dilep_2HDM_NLO_t4_NoSel_LepAsym_Acp_M:0.00014
+test-dilep_2HDM_NLO_t4_NoSel_LepAsym_Acp_E:0.001
+==================================================
+==================================================
+SetName : test-dilep_2HDM_NLO_t5 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200528_2256
+test-dilep_2HDM_NLO_t5_NoSel_LepAsym_Acp_M:-0.000192
+test-dilep_2HDM_NLO_t5_NoSel_LepAsym_Acp_E:0.001
+==================================================
+==================================================
+SetName : test-10k_dilep_2HDM_NLO_t1 ,pass_sel : 10000 ,total_entries : 10000
+time : 200528_2312
+test-10k_dilep_2HDM_NLO_t1_NoSel_LepAsym_Acp_M:-0.0058
+test-10k_dilep_2HDM_NLO_t1_NoSel_LepAsym_Acp_E:0.00999983
+==================================================
+==================================================
+SetName : test-10k_dilep_2HDM_NLO_t5 ,pass_sel : 10000 ,total_entries : 10000
+time : 200528_2312
+test-10k_dilep_2HDM_NLO_t5_NoSel_LepAsym_Acp_M:-0.0122
+test-10k_dilep_2HDM_NLO_t5_NoSel_LepAsym_Acp_E:0.00999926
+==================================================
+==================================================
+SetName : test-10k_dilep_2HDM_NLO_t6 ,pass_sel : 10000 ,total_entries : 10000
+time : 200528_2312
+test-10k_dilep_2HDM_NLO_t6_NoSel_LepAsym_Acp_M:-0.0122
+test-10k_dilep_2HDM_NLO_t6_NoSel_LepAsym_Acp_E:0.00999926
+==================================================
+==================================================
+SetName : test-10k_dilep_2HDM_NLO_t7 ,pass_sel : 10000 ,total_entries : 10000
+time : 200528_2312
+test-10k_dilep_2HDM_NLO_t7_NoSel_LepAsym_Acp_M:-0.0058
+test-10k_dilep_2HDM_NLO_t7_NoSel_LepAsym_Acp_E:0.00999983
+==================================================
+==================================================
+SetName : test-10k_dilep_2HDM_NLO_t8 ,pass_sel : 10000 ,total_entries : 10000
+time : 200528_2313
+test-10k_dilep_2HDM_NLO_t8_NoSel_LepAsym_Acp_M:-0.0058
+test-10k_dilep_2HDM_NLO_t8_NoSel_LepAsym_Acp_E:0.00999983
+==================================================
+==================================================
+SetName : test-10k_dilep_2HDM_NLO_t9 ,pass_sel : 10000 ,total_entries : 10000
+time : 200528_2313
+test-10k_dilep_2HDM_NLO_t9_NoSel_LepAsym_Acp_M:-0.0058
+test-10k_dilep_2HDM_NLO_t9_NoSel_LepAsym_Acp_E:0.00999983
+==================================================
+==================================================
+SetName : test-10k_dilep_2HDM_NLO_t10 ,pass_sel : 10000 ,total_entries : 10000
+time : 200528_2313
+test-10k_dilep_2HDM_NLO_t10_NoSel_LepAsym_Acp_M:-0.0058
+test-10k_dilep_2HDM_NLO_t10_NoSel_LepAsym_Acp_E:0.00999983
+==================================================
+==================================================
+SetName : test-10k_dilep_2HDM_NLO_t4 ,pass_sel : 10000 ,total_entries : 10000
+time : 200528_2323
+test-10k_dilep_2HDM_NLO_t4_NoSel_LepAsym_Acp_M:-0.0122
+test-10k_dilep_2HDM_NLO_t4_NoSel_LepAsym_Acp_E:0.00999926
+==================================================
+==================================================
+SetName : test-10k_dilep_2HDM_NLO_t2 ,pass_sel : 10000 ,total_entries : 10000
+time : 200529_0325
+test-10k_dilep_2HDM_NLO_t2_NoSel_LepAsym_Acp_M:-0.0058
+test-10k_dilep_2HDM_NLO_t2_NoSel_LepAsym_Acp_E:0.00999983
+==================================================
+==================================================
+SetName : test-10k_dilep_2HDM_NLO_t3 ,pass_sel : 10000 ,total_entries : 10000
+time : 200529_0325
+test-10k_dilep_2HDM_NLO_t3_NoSel_LepAsym_Acp_M:-0.0122
+test-10k_dilep_2HDM_NLO_t3_NoSel_LepAsym_Acp_E:0.00999926
+==================================================
+==================================================
+SetName : test-10k_dilep_2HDM_NLO_t11 ,pass_sel : 10000 ,total_entries : 10000
+time : 200529_1441
+test-10k_dilep_2HDM_NLO_t11_NoSel_LepAsym_Acp_M:-0.0122
+test-10k_dilep_2HDM_NLO_t11_NoSel_LepAsym_Acp_E:0.00999926
+==================================================
+==================================================
+SetName : test-10k_dilep_2HDM_NLO_t12 ,pass_sel : 10000 ,total_entries : 10000
+time : 200529_1442
+test-10k_dilep_2HDM_NLO_t12_NoSel_LepAsym_Acp_M:-0.0122
+test-10k_dilep_2HDM_NLO_t12_NoSel_LepAsym_Acp_E:0.00999926
+==================================================
+==================================================
+SetName : test-10k_dilep_2HDM_NLO_t13 ,pass_sel : 10000 ,total_entries : 10000
+time : 200529_1442
+test-10k_dilep_2HDM_NLO_t13_NoSel_LepAsym_Acp_M:-0.0122
+test-10k_dilep_2HDM_NLO_t13_NoSel_LepAsym_Acp_E:0.00999926
+==================================================
+==================================================
+SetName : test-10k_dilep_2HDM_NLO_t14 ,pass_sel : 10000 ,total_entries : 10000
+time : 200529_1442
+test-10k_dilep_2HDM_NLO_t14_NoSel_LepAsym_Acp_M:-0.0058
+test-10k_dilep_2HDM_NLO_t14_NoSel_LepAsym_Acp_E:0.00999983
+==================================================
+==================================================
+SetName : test-10k_dilep_2HDM_NLO_t15 ,pass_sel : 10000 ,total_entries : 10000
+time : 200529_1442
+test-10k_dilep_2HDM_NLO_t15_NoSel_LepAsym_Acp_M:-0.0058
+test-10k_dilep_2HDM_NLO_t15_NoSel_LepAsym_Acp_E:0.00999983
+==================================================
+==================================================
+SetName : test-10k_dilep_2HDM_NLO_t16 ,pass_sel : 10000 ,total_entries : 10000
+time : 200529_1442
+test-10k_dilep_2HDM_NLO_t16_NoSel_LepAsym_Acp_M:-0.0058
+test-10k_dilep_2HDM_NLO_t16_NoSel_LepAsym_Acp_E:0.00999983
+==================================================
+==================================================
+SetName : test-10k_dilep_2HDM_NLO_t50 ,pass_sel : 10000 ,total_entries : 10000
+time : 200529_1442
+test-10k_dilep_2HDM_NLO_t50_NoSel_LepAsym_Acp_M:-0.0058
+test-10k_dilep_2HDM_NLO_t50_NoSel_LepAsym_Acp_E:0.00999983
+==================================================
+==================================================
+SetName : test-10k_dilep_2HDM_NLO_t51 ,pass_sel : 10000 ,total_entries : 10000
+time : 200529_1442
+test-10k_dilep_2HDM_NLO_t51_NoSel_LepAsym_Acp_M:-0.0058
+test-10k_dilep_2HDM_NLO_t51_NoSel_LepAsym_Acp_E:0.00999983
+==================================================

@@ -18,7 +18,7 @@ exe()
 	//string filename = "Result_semi_ci_GVSel_dq.txt";
 
 	string filename = "result_200604/result/readout_B1993_A2_NoSel.txt";
-	//string filename = "result_200604/readout_B1993_A1_NoSel.txt";
+	//string filename = "/Users/chen-yuchuang/Desktop/result/result_new/readout_B1993_A1_NoSel.txt";
 	//string filename = "result_200604/readout_B1998_O1_NoSel.txt";
 	//string filename = "result_200604/readout_B1998_Q1_NoSel.txt";
 	
@@ -66,15 +66,32 @@ exe()
 	string size = "10_7-";
 	string channel = "dilep";
 */
-	
-
+/*
+	string Sel = "NoSel";
+	string Obs = "A_{cp}(O_{1})";
+	string obsname = "B1998_O1";
+	string jets = "0j";
+	string size = "10_7-";
+	string channel = "semi";
+*/
+/*
+	string Sel = "NoSel";
+	string Obs = "A_{1}";
+	string obsname = "B1993_A1";
+	string jets = "0j";
+	string size = "10_7-";
+	string channel = "dilep";
+*/
 	vector<double> mY;
 	vector<double> eY;
 
 	for(int i=0;i<N;++i) {
 		string m = size + channel + "_" + samples[i] + "_" + jets + "_" + Sel + "_" + obsname + "_M";
 		string e = size + channel + "_" + samples[i] + "_" + jets + "_" + Sel + "_" + obsname + "_E";
+
+		cout << m << " " << e << endl;
 		cout << stod(r.second(m) ) << endl; 
+		
 		mY.push_back( stod( r.second(m) ) );
 		eY.push_back( stod( r.second(e) ) );
 	} 
@@ -84,7 +101,7 @@ exe()
 	string newname = size + channel + "_" + jets + "_" + Sel + "_" + obsname;
 	//draw_ci( newname ,"O_{1}",mY,eY,"NoSel evt_B1998_semi fit ",f1);
 	//draw_ci( newname, Obs.c_str(), mY, eY, "evt_GV_j1_semi Xsec",f1);
-	draw_ci( newname, Obs.c_str(), mY, eY, "NoSel Xsec fit",f1);
+	draw_ci( newname, Obs.c_str(), mY, eY, "NoSel",f1);
 	
 	//draw_ci( newname ,"A_{2}",mY,eY,"NoSel evt_B1998_semi fit",f1);
 

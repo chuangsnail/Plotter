@@ -1,0 +1,258 @@
+==================================================
+SetName : test-semi_SM_test ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200512_1616
+test-semi_SM_test_NoSel_B1998_O1_M:-0.00101107
+test-semi_SM_test_NoSel_B1998_O1_E:0.00180475
+==================================================
+==================================================
+SetName : test-semi_2HDM_LO_test1 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200512_1616
+test-semi_2HDM_LO_test1_NoSel_B1998_O1_M:0.00480238
+test-semi_2HDM_LO_test1_NoSel_B1998_O1_E:0.00180458
+==================================================
+==================================================
+SetName : test-semi_2HDM_LO_test2 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200512_1616
+test-semi_2HDM_LO_test2_NoSel_B1998_O1_M:0.00554912
+test-semi_2HDM_LO_test2_NoSel_B1998_O1_E:0.0018046
+==================================================
+==================================================
+SetName : test-semi_2HDM_LO_test3 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200512_1616
+test-semi_2HDM_LO_test3_NoSel_B1998_O1_M:0.00414393
+test-semi_2HDM_LO_test3_NoSel_B1998_O1_E:0.00180423
+==================================================
+==================================================
+SetName : test-semi_2HDM_LO_test4 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200512_1616
+test-semi_2HDM_LO_test4_NoSel_B1998_O1_M:0.0023432
+test-semi_2HDM_LO_test4_NoSel_B1998_O1_E:0.00180469
+==================================================
+==================================================
+SetName : test-semi_2HDM_LO_test5 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200512_1616
+test-semi_2HDM_LO_test5_NoSel_B1998_O1_M:0.00492453
+test-semi_2HDM_LO_test5_NoSel_B1998_O1_E:0.00180419
+==================================================
+==================================================
+SetName : test-semi_2HDM_LO_test6 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200512_1616
+test-semi_2HDM_LO_test6_NoSel_B1998_O1_M:0.00225386
+test-semi_2HDM_LO_test6_NoSel_B1998_O1_E:0.00180473
+==================================================
+==================================================
+SetName : test-semi_2HDM_LO_test7 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200512_1616
+test-semi_2HDM_LO_test7_NoSel_B1998_O1_M:0.00269657
+test-semi_2HDM_LO_test7_NoSel_B1998_O1_E:0.00180425
+==================================================
+==================================================
+SetName : test-semi_2HDM_NLO_test1 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200512_1617
+test-semi_2HDM_NLO_test1_NoSel_B1998_O1_M:0.00447816
+test-semi_2HDM_NLO_test1_NoSel_B1998_O1_E:0.00180408
+==================================================
+==================================================
+SetName : test-semi_2HDM_NLO_test2 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200512_1617
+test-semi_2HDM_NLO_test2_NoSel_B1998_O1_M:0.00349665
+test-semi_2HDM_NLO_test2_NoSel_B1998_O1_E:0.00180428
+==================================================
+==================================================
+SetName : test-semi_2HDM_NLO_test3 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200512_1617
+test-semi_2HDM_NLO_test3_NoSel_B1998_O1_M:0.00414393
+test-semi_2HDM_NLO_test3_NoSel_B1998_O1_E:0.00180423
+==================================================
+==================================================
+SetName : test-semi_2HDM_NLO_test4 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200512_1618
+test-semi_2HDM_NLO_test4_NoSel_B1998_O1_M:0.00412748
+test-semi_2HDM_NLO_test4_NoSel_B1998_O1_E:0.00180385
+==================================================
+==================================================
+SetName : test-semi_2HDM_NLO_test5 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200512_1618
+test-semi_2HDM_NLO_test5_NoSel_B1998_O1_M:0.00275899
+test-semi_2HDM_NLO_test5_NoSel_B1998_O1_E:0.001805
+==================================================
+==================================================
+SetName : test-semi_2HDM_NLO_test6 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200512_1618
+test-semi_2HDM_NLO_test6_NoSel_B1998_O1_M:0.00412748
+test-semi_2HDM_NLO_test6_NoSel_B1998_O1_E:0.00180385
+==================================================
+==================================================
+SetName : test-semi_2HDM_LO_test2-2 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200513_1451
+test-semi_2HDM_LO_test2-2_NoSel_B1998_O1_M:0.00225252
+test-semi_2HDM_LO_test2-2_NoSel_B1998_O1_E:0.00180447
+==================================================
+==================================================
+SetName : test-semi_2HDM_LO_test3 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200513_1451
+test-semi_2HDM_LO_test3_NoSel_B1998_O1_M:0.00414393
+test-semi_2HDM_LO_test3_NoSel_B1998_O1_E:0.00180423
+==================================================
+==================================================
+SetName : test-semi_2HDMtII_NLO_test1 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200514_1305
+test-semi_2HDMtII_NLO_test1_NoSel_B1998_O1_M:-0.00193763
+test-semi_2HDMtII_NLO_test1_NoSel_B1998_O1_E:0.00180222
+==================================================
+==================================================
+SetName : test-semi_2HDMtII_NLO_test2 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200514_1353
+test-semi_2HDMtII_NLO_test2_NoSel_B1998_O1_M:-0.00124238
+test-semi_2HDMtII_NLO_test2_NoSel_B1998_O1_E:0.00180229
+==================================================
+==================================================
+SetName : test-semi_2HDMtII_NLO_test3 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200514_1449
+test-semi_2HDMtII_NLO_test3_NoSel_B1998_O1_M:-6.88543e-05
+test-semi_2HDMtII_NLO_test3_NoSel_B1998_O1_E:0.0018024
+==================================================
+==================================================
+SetName : test-semi_2HDMtII_NLO_test4 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200514_1450
+test-semi_2HDMtII_NLO_test4_NoSel_B1998_O1_M:0.000953231
+test-semi_2HDMtII_NLO_test4_NoSel_B1998_O1_E:0.00180282
+==================================================
+==================================================
+SetName : test-semi_2HDM_LO_test2-3 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200514_1516
+test-semi_2HDM_LO_test2-3_NoSel_B1998_O1_M:0.00480238
+test-semi_2HDM_LO_test2-3_NoSel_B1998_O1_E:0.00180458
+==================================================
+==================================================
+SetName : test-semi_2HDM_LO_test2-4 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200514_1724
+test-semi_2HDM_LO_test2-4_NoSel_B1998_O1_M:0.00447816
+test-semi_2HDM_LO_test2-4_NoSel_B1998_O1_E:0.00180408
+==================================================
+==================================================
+SetName : test-semi_2HDM_NLO_test1-2 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200514_1724
+test-semi_2HDM_NLO_test1-2_NoSel_B1998_O1_M:0.00349665
+test-semi_2HDM_NLO_test1-2_NoSel_B1998_O1_E:0.00180428
+==================================================
+==================================================
+SetName : test-semi_2HDM_NLO_test2-2 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200514_1729
+test-semi_2HDM_NLO_test2-2_NoSel_B1998_O1_M:0.00447816
+test-semi_2HDM_NLO_test2-2_NoSel_B1998_O1_E:0.00180408
+==================================================
+==================================================
+SetName : test-semi_2HDM_LO_test1-2 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200514_1730
+test-semi_2HDM_LO_test1-2_NoSel_B1998_O1_M:0.0023432
+test-semi_2HDM_LO_test1-2_NoSel_B1998_O1_E:0.00180469
+==================================================
+==================================================
+SetName : test-semi_2HDMtII_NLO_test5 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200514_1731
+test-semi_2HDMtII_NLO_test5_NoSel_B1998_O1_M:-0.00144844
+test-semi_2HDMtII_NLO_test5_NoSel_B1998_O1_E:0.00180252
+==================================================
+==================================================
+SetName : test-semi_2HDM_LO_test1-3 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200514_2342
+test-semi_2HDM_LO_test1-3_NoSel_B1998_O1_M:0.00480238
+test-semi_2HDM_LO_test1-3_NoSel_B1998_O1_E:0.00180458
+==================================================
+==================================================
+SetName : test-semi_2HDM_LO_test2-3 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200514_2343
+test-semi_2HDM_LO_test2-3_NoSel_B1998_O1_M:0.00480238
+test-semi_2HDM_LO_test2-3_NoSel_B1998_O1_E:0.00180458
+==================================================
+==================================================
+SetName : test-semi_2HDM_NLO_test8 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200516_0418
+test-semi_2HDM_NLO_test8_NoSel_B1998_O1_M:0.00492453
+test-semi_2HDM_NLO_test8_NoSel_B1998_O1_E:0.00180419
+==================================================
+==================================================
+SetName : test-semi_2HDM_NLO_test9 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200516_0418
+test-semi_2HDM_NLO_test9_NoSel_B1998_O1_M:0.00275899
+test-semi_2HDM_NLO_test9_NoSel_B1998_O1_E:0.001805
+==================================================
+==================================================
+SetName : test-semi_2HDM_n_test1 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200518_1154
+test-semi_2HDM_n_test1_NoSel_B1998_O1_M:0.00174961
+test-semi_2HDM_n_test1_NoSel_B1998_O1_E:0.00180377
+==================================================
+==================================================
+SetName : 10_7-semi_SM_0j ,pass_sel : 10000000 ,total_entries : 10000000
+time : 200601_2111
+10_7-semi_SM_0j_NoSel_B1998_O1_M:-0.000138615
+10_7-semi_SM_0j_NoSel_B1998_O1_E:0.000570469
+==================================================
+==================================================
+SetName : 10_7-semi_CEDM0pt5_0j ,pass_sel : 10000000 ,total_entries : 10000000
+time : 200601_2112
+10_7-semi_CEDM0pt5_0j_NoSel_B1998_O1_M:-0.000686392
+10_7-semi_CEDM0pt5_0j_NoSel_B1998_O1_E:0.000570265
+==================================================
+==================================================
+SetName : 10_7-semi_CEDM1_0j ,pass_sel : 10000000 ,total_entries : 10000000
+time : 200601_2113
+10_7-semi_CEDM1_0j_NoSel_B1998_O1_M:-0.000208791
+10_7-semi_CEDM1_0j_NoSel_B1998_O1_E:0.000569525
+==================================================
+==================================================
+SetName : 10_7-semi_CEDM1pt5_0j ,pass_sel : 10000000 ,total_entries : 10000000
+time : 200601_2114
+10_7-semi_CEDM1pt5_0j_NoSel_B1998_O1_M:-0.000131029
+10_7-semi_CEDM1pt5_0j_NoSel_B1998_O1_E:0.000568736
+==================================================
+==================================================
+SetName : 10_7-semi_CEDM2_0j ,pass_sel : 10000000 ,total_entries : 10000000
+time : 200601_2115
+10_7-semi_CEDM2_0j_NoSel_B1998_O1_M:0.000617817
+10_7-semi_CEDM2_0j_NoSel_B1998_O1_E:0.000567523
+==================================================
+==================================================
+SetName : 10_7-semi_CEDM2pt5_0j ,pass_sel : 10000000 ,total_entries : 10000000
+time : 200601_2116
+10_7-semi_CEDM2pt5_0j_NoSel_B1998_O1_M:-0.000404898
+10_7-semi_CEDM2pt5_0j_NoSel_B1998_O1_E:0.000566164
+==================================================
+==================================================
+SetName : 10_7-semi_CEDM3_0j ,pass_sel : 10000000 ,total_entries : 10000000
+time : 200601_2117
+10_7-semi_CEDM3_0j_NoSel_B1998_O1_M:0.000709269
+10_7-semi_CEDM3_0j_NoSel_B1998_O1_E:0.000564546
+==================================================
+==================================================
+SetName : 10_7-semi_CEDM3pt5_0j ,pass_sel : 10000000 ,total_entries : 10000000
+time : 200601_2118
+10_7-semi_CEDM3pt5_0j_NoSel_B1998_O1_M:-0.000248289
+10_7-semi_CEDM3pt5_0j_NoSel_B1998_O1_E:0.000562844
+==================================================
+==================================================
+SetName : 10_7-semi_CEDM4_0j ,pass_sel : 10000000 ,total_entries : 10000000
+time : 200601_2119
+10_7-semi_CEDM4_0j_NoSel_B1998_O1_M:-0.000200388
+10_7-semi_CEDM4_0j_NoSel_B1998_O1_E:0.000561052
+==================================================
+==================================================
+SetName : 10_7-semi_CEDM4pt5_0j ,pass_sel : 10000000 ,total_entries : 10000000
+time : 200601_2120
+10_7-semi_CEDM4pt5_0j_NoSel_B1998_O1_M:-0.000868856
+10_7-semi_CEDM4pt5_0j_NoSel_B1998_O1_E:0.000559301
+==================================================
+==================================================
+SetName : 10_7-semi_CEDM5_0j ,pass_sel : 10000000 ,total_entries : 10000000
+time : 200601_2122
+10_7-semi_CEDM5_0j_NoSel_B1998_O1_M:-0.000456288
+10_7-semi_CEDM5_0j_NoSel_B1998_O1_E:0.000557454
+==================================================
+==================================================
+SetName : 10_7-semi_2HDM_NLO_m1 ,pass_sel : 10000000 ,total_entries : 10000000
+time : 200603_0228
+10_7-semi_2HDM_NLO_m1_NoSel_B1998_O1_M:-0.000192809
+10_7-semi_2HDM_NLO_m1_NoSel_B1998_O1_E:0.000570597
+==================================================

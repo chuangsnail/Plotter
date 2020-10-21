@@ -1,0 +1,231 @@
+time : 200423_0536
+dataset : 10_6-dilep_SM_1j
+M_A1 : -0.165364
+SD_A1 : 194.614
+signal-to-noise ratio : -0.000849703
+
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0536
+dataset : 10_6-dilep_CEDM0pt5_1j
+M_A1 : 0.085855
+SD_A1 : 193.487
+signal-to-noise ratio : 0.000443725
+
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0536
+dataset : 10_6-dilep_CEDM1_1j
+M_A1 : -0.428911
+SD_A1 : 193.432
+signal-to-noise ratio : -0.00221737
+
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0537
+dataset : 10_6-dilep_CEDM1pt5_1j
+M_A1 : -0.0698016
+SD_A1 : 193.006
+signal-to-noise ratio : -0.000361656
+
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0537
+dataset : 10_6-dilep_CEDM2_1j
+M_A1 : 0.0109684
+SD_A1 : 193.075
+signal-to-noise ratio : 5.68091e-05
+
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0537
+dataset : 10_6-dilep_CEDM2pt5_1j
+M_A1 : -0.321646
+SD_A1 : 192.231
+signal-to-noise ratio : -0.00167323
+
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0537
+dataset : 10_6-dilep_CEDM3_1j
+M_A1 : -0.595548
+SD_A1 : 192.036
+signal-to-noise ratio : -0.00310123
+
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0537
+dataset : 10_6-dilep_CEDM3pt5_1j
+M_A1 : -0.348417
+SD_A1 : 191.94
+signal-to-noise ratio : -0.00181524
+
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0537
+dataset : 10_6-dilep_CEDM4_1j
+M_A1 : -0.178975
+SD_A1 : 192.306
+signal-to-noise ratio : -0.000930677
+
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0538
+dataset : 10_6-dilep_CEDM4pt5_1j
+M_A1 : -0.365383
+SD_A1 : 191.84
+signal-to-noise ratio : -0.00190462
+
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0538
+dataset : 10_6-dilep_CEDM5_1j
+M_A1 : -0.0583387
+SD_A1 : 191.473
+signal-to-noise ratio : -0.000304684
+
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200515_1429
+dataset : test-dilep_SM_test
+M_A1 : -0.202149
+SD_A1 : 198.429
+signal-to-noise ratio : -0.00101874
+
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200515_1430
+dataset : test-dilep_2HDM_LO_test1
+M_A1 : 0.0785385
+SD_A1 : 196.833
+signal-to-noise ratio : 0.000399011
+
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200515_1430
+dataset : test-dilep_2HDM_LO_test2
+M_A1 : -0.0142901
+SD_A1 : 196.708
+signal-to-noise ratio : -7.26463e-05
+
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200515_1430
+dataset : test-dilep_2HDM_LO_test3
+M_A1 : -nan
+SD_A1 : -nan
+signal-to-noise ratio : -nan
+
+1/sqrt(N of events) : inf
+numberOfEntries : 0
+numberOfPassSelection : 0
+=====================================
+
+time : 200515_1430
+dataset : test-dilep_2HDM_LO_test4
+M_A1 : -0.0142901
+SD_A1 : 196.708
+signal-to-noise ratio : -7.26463e-05
+
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200515_1430
+dataset : test-dilep_2HDM_LO_test5
+M_A1 : -0.0142901
+SD_A1 : 196.708
+signal-to-noise ratio : -7.26463e-05
+
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200515_1430
+dataset : test-dilep_2HDM_LO_test6
+M_A1 : 0.0785385
+SD_A1 : 196.833
+signal-to-noise ratio : 0.000399011
+
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200515_1431
+dataset : test-dilep_2HDM_LO_test7
+M_A1 : -0.0142901
+SD_A1 : 196.708
+signal-to-noise ratio : -7.26464e-05
+
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200516_0419
+dataset : test-dilep_2HDM_NLO_test8
+M_A1 : -0.0142901
+SD_A1 : 196.708
+signal-to-noise ratio : -7.26464e-05
+
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200516_0420
+dataset : test-dilep_2HDM_NLO_test9
+M_A1 : -0.0142901
+SD_A1 : 196.708
+signal-to-noise ratio : -7.26463e-05
+
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+

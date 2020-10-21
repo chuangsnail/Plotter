@@ -1,0 +1,681 @@
+
+time : 200423_0529
+dataset : 10_6-dilep_SM_1j
+selection : NoSel
+Q_1 Mean : -0.001872
+Q_1 1-sigma Err (propagate from stat.) : 0.000999998
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0529
+dataset : 10_6-dilep_CEDM0pt5_1j
+selection : NoSel
+Q_1 Mean : 0.00107
+Q_1 1-sigma Err (propagate from stat.) : 0.000999999
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0529
+dataset : 10_6-dilep_CEDM1_1j
+selection : NoSel
+Q_1 Mean : -0.000402
+Q_1 1-sigma Err (propagate from stat.) : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0529
+dataset : 10_6-dilep_CEDM1pt5_1j
+selection : NoSel
+Q_1 Mean : -0.000106
+Q_1 1-sigma Err (propagate from stat.) : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0529
+dataset : 10_6-dilep_SM_1j
+selection : NoSel
+Q_1 Mean : -0.001872
+Q_1 1-sigma Err (propagate from stat.) : 0.000999998
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0529
+dataset : 10_6-dilep_CEDM2_1j
+selection : NoSel
+Q_1 Mean : -0.000108
+Q_1 1-sigma Err (propagate from stat.) : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0529
+dataset : 10_6-dilep_CEDM0pt5_1j
+selection : NoSel
+Q_1 Mean : 0.00107
+Q_1 1-sigma Err (propagate from stat.) : 0.000999999
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0530
+dataset : 10_6-dilep_CEDM2pt5_1j
+selection : NoSel
+Q_1 Mean : -0.00201
+Q_1 1-sigma Err (propagate from stat.) : 0.000999998
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0530
+dataset : 10_6-dilep_CEDM1_1j
+selection : NoSel
+Q_1 Mean : -0.000402
+Q_1 1-sigma Err (propagate from stat.) : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0530
+dataset : 10_6-dilep_CEDM3_1j
+selection : NoSel
+Q_1 Mean : -1.8e-05
+Q_1 1-sigma Err (propagate from stat.) : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0530
+dataset : 10_6-dilep_CEDM2_1j
+selection : NoSel
+Q_1 Mean : -0.000108
+Q_1 1-sigma Err (propagate from stat.) : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0530
+dataset : 10_6-dilep_CEDM3pt5_1j
+selection : NoSel
+Q_1 Mean : 0.000206
+Q_1 1-sigma Err (propagate from stat.) : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0530
+dataset : 10_6-dilep_CEDM2pt5_1j
+selection : NoSel
+Q_1 Mean : -0.00201
+Q_1 1-sigma Err (propagate from stat.) : 0.000999998
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0530
+dataset : 10_6-dilep_CEDM4_1j
+selection : NoSel
+Q_1 Mean : -0.00014
+Q_1 1-sigma Err (propagate from stat.) : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0530
+dataset : 10_6-dilep_CEDM4pt5_1j
+selection : NoSel
+Q_1 Mean : 0.000122
+Q_1 1-sigma Err (propagate from stat.) : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0530
+dataset : 10_6-dilep_CEDM5_1j
+selection : NoSel
+Q_1 Mean : 0.000106
+Q_1 1-sigma Err (propagate from stat.) : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0531
+dataset : 10_6-dilep_SM_1j
+selection : NoSel
+Q_1 Mean : -0.001872
+Q_1 1-sigma Err (propagate from stat.) : 0.000999998
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0531
+dataset : 10_6-dilep_CEDM0pt5_1j
+selection : NoSel
+Q_1 Mean : 0.00107
+Q_1 1-sigma Err (propagate from stat.) : 0.000999999
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0531
+dataset : 10_6-dilep_CEDM1_1j
+selection : NoSel
+Q_1 Mean : -0.000402
+Q_1 1-sigma Err (propagate from stat.) : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0532
+dataset : 10_6-dilep_CEDM1pt5_1j
+selection : NoSel
+Q_1 Mean : -0.000106
+Q_1 1-sigma Err (propagate from stat.) : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0532
+dataset : 10_6-dilep_CEDM2_1j
+selection : NoSel
+Q_1 Mean : -0.000108
+Q_1 1-sigma Err (propagate from stat.) : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0532
+dataset : 10_6-dilep_CEDM2pt5_1j
+selection : NoSel
+Q_1 Mean : -0.00201
+Q_1 1-sigma Err (propagate from stat.) : 0.000999998
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0532
+dataset : 10_6-dilep_CEDM3_1j
+selection : NoSel
+Q_1 Mean : -1.8e-05
+Q_1 1-sigma Err (propagate from stat.) : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0532
+dataset : 10_6-dilep_CEDM3pt5_1j
+selection : NoSel
+Q_1 Mean : 0.000206
+Q_1 1-sigma Err (propagate from stat.) : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0532
+dataset : 10_6-dilep_CEDM4_1j
+selection : NoSel
+Q_1 Mean : -0.00014
+Q_1 1-sigma Err (propagate from stat.) : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0532
+dataset : 10_6-dilep_CEDM4pt5_1j
+selection : NoSel
+Q_1 Mean : 0.000122
+Q_1 1-sigma Err (propagate from stat.) : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0532
+dataset : 10_6-dilep_CEDM5_1j
+selection : NoSel
+Q_1 Mean : 0.000106
+Q_1 1-sigma Err (propagate from stat.) : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0532
+dataset : 10_6-dilep_SM_1j
+selection : B1998_dilep
+Q_1 Mean : -0.00183629
+Q_1 1-sigma Err (propagate from stat.) : 0.00135442
+1/sqrt(N of events) : 0.00135442
+numberOfEntries : 1000000
+numberOfPassSelection : 545121
+=====================================
+
+time : 200423_0532
+dataset : 10_6-dilep_CEDM0pt5_1j
+selection : B1998_dilep
+Q_1 Mean : 0.000830594
+Q_1 1-sigma Err (propagate from stat.) : 0.00135408
+1/sqrt(N of events) : 0.00135408
+numberOfEntries : 1000000
+numberOfPassSelection : 545393
+=====================================
+
+time : 200423_0533
+dataset : 10_6-dilep_CEDM1_1j
+selection : B1998_dilep
+Q_1 Mean : 0.000176971
+Q_1 1-sigma Err (propagate from stat.) : 0.00135072
+1/sqrt(N of events) : 0.00135072
+numberOfEntries : 1000000
+numberOfPassSelection : 548113
+=====================================
+
+time : 200423_0533
+dataset : 10_6-dilep_CEDM1pt5_1j
+selection : B1998_dilep
+Q_1 Mean : 0.00109588
+Q_1 1-sigma Err (propagate from stat.) : 0.00134699
+1/sqrt(N of events) : 0.00134699
+numberOfEntries : 1000000
+numberOfPassSelection : 551154
+=====================================
+
+time : 200423_0533
+dataset : 10_6-dilep_CEDM2_1j
+selection : B1998_dilep
+Q_1 Mean : -0.000952622
+Q_1 1-sigma Err (propagate from stat.) : 0.00134321
+1/sqrt(N of events) : 0.00134321
+numberOfEntries : 1000000
+numberOfPassSelection : 554260
+=====================================
+
+time : 200423_0533
+dataset : 10_6-dilep_CEDM2pt5_1j
+selection : B1998_dilep
+Q_1 Mean : -0.0017944
+Q_1 1-sigma Err (propagate from stat.) : 0.00133555
+1/sqrt(N of events) : 0.00133555
+numberOfEntries : 1000000
+numberOfPassSelection : 560632
+=====================================
+
+time : 200423_0533
+dataset : 10_6-dilep_CEDM3_1j
+selection : B1998_dilep
+Q_1 Mean : 0.00116988
+Q_1 1-sigma Err (propagate from stat.) : 0.00133036
+1/sqrt(N of events) : 0.00133036
+numberOfEntries : 1000000
+numberOfPassSelection : 565015
+=====================================
+
+time : 200423_0533
+dataset : 10_6-dilep_CEDM3pt5_1j
+selection : B1998_dilep
+Q_1 Mean : -8.75396e-05
+Q_1 1-sigma Err (propagate from stat.) : 0.00132318
+1/sqrt(N of events) : 0.00132318
+numberOfEntries : 1000000
+numberOfPassSelection : 571170
+=====================================
+
+time : 200423_0533
+dataset : 10_6-dilep_CEDM4_1j
+selection : B1998_dilep
+Q_1 Mean : -0.00133223
+Q_1 1-sigma Err (propagate from stat.) : 0.00131879
+1/sqrt(N of events) : 0.00131879
+numberOfEntries : 1000000
+numberOfPassSelection : 574976
+=====================================
+
+time : 200423_0533
+dataset : 10_6-dilep_CEDM4pt5_1j
+selection : B1998_dilep
+Q_1 Mean : -0.000391516
+Q_1 1-sigma Err (propagate from stat.) : 0.00131329
+1/sqrt(N of events) : 0.00131329
+numberOfEntries : 1000000
+numberOfPassSelection : 579797
+=====================================
+
+time : 200423_0533
+dataset : 10_6-dilep_CEDM5_1j
+selection : B1998_dilep
+Q_1 Mean : 0.000720184
+Q_1 1-sigma Err (propagate from stat.) : 0.00130792
+1/sqrt(N of events) : 0.00130792
+numberOfEntries : 1000000
+numberOfPassSelection : 584573
+=====================================
+
+time : 200423_0533
+dataset : 10_7-dilep_SM_1j
+selection : NoSel
+Q_1 Mean : -nan
+Q_1 1-sigma Err (propagate from stat.) : -nan
+1/sqrt(N of events) : inf
+numberOfEntries : 0
+numberOfPassSelection : 0
+=====================================
+
+time : 200423_0533
+dataset : 10_7-dilep_SM_1j
+selection : B1998_dilep
+Q_1 Mean : -nan
+Q_1 1-sigma Err (propagate from stat.) : -nan
+1/sqrt(N of events) : inf
+numberOfEntries : 0
+numberOfPassSelection : 0
+=====================================
+
+time : 200512_1616
+dataset : test-dilep_SM_test
+selection : NoSel
+Q_1 Mean : -nan
+Q_1 1-sigma Err (propagate from stat.) : -nan
+1/sqrt(N of events) : inf
+numberOfEntries : 0
+numberOfPassSelection : 0
+=====================================
+
+time : 200512_1616
+dataset : test-dilep_2HDM_LO_test1
+selection : NoSel
+Q_1 Mean : -0.000136
+Q_1 1-sigma Err (propagate from stat.) : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200512_1616
+dataset : test-dilep_2HDM_LO_test2
+selection : NoSel
+Q_1 Mean : -0.000294
+Q_1 1-sigma Err (propagate from stat.) : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200512_1616
+dataset : test-dilep_2HDM_LO_test3
+selection : NoSel
+Q_1 Mean : -0.000136
+Q_1 1-sigma Err (propagate from stat.) : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200512_1616
+dataset : test-dilep_2HDM_LO_test4
+selection : NoSel
+Q_1 Mean : -0.000294
+Q_1 1-sigma Err (propagate from stat.) : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200512_1617
+dataset : test-dilep_2HDM_LO_test5
+selection : NoSel
+Q_1 Mean : -0.000294
+Q_1 1-sigma Err (propagate from stat.) : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200512_1617
+dataset : test-dilep_2HDM_LO_test6
+selection : NoSel
+Q_1 Mean : -0.000136
+Q_1 1-sigma Err (propagate from stat.) : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200512_1617
+dataset : test-dilep_2HDM_LO_test7
+selection : NoSel
+Q_1 Mean : -0.000294
+Q_1 1-sigma Err (propagate from stat.) : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200512_1617
+dataset : test-dilep_SM_test
+selection : B1998_dilep
+Q_1 Mean : -nan
+Q_1 1-sigma Err (propagate from stat.) : -nan
+1/sqrt(N of events) : inf
+numberOfEntries : 0
+numberOfPassSelection : 0
+=====================================
+
+time : 200512_1617
+dataset : test-dilep_2HDM_LO_test1
+selection : B1998_dilep
+Q_1 Mean : 0.000484762
+Q_1 1-sigma Err (propagate from stat.) : 0.00137608
+1/sqrt(N of events) : 0.00137608
+numberOfEntries : 1000000
+numberOfPassSelection : 528094
+=====================================
+
+time : 200512_1617
+dataset : test-dilep_2HDM_LO_test2
+selection : B1998_dilep
+Q_1 Mean : 2.08341e-05
+Q_1 1-sigma Err (propagate from stat.) : 0.00137623
+1/sqrt(N of events) : 0.00137623
+numberOfEntries : 1000000
+numberOfPassSelection : 527981
+=====================================
+
+time : 200512_1617
+dataset : test-dilep_2HDM_LO_test3
+selection : B1998_dilep
+Q_1 Mean : 0.000484762
+Q_1 1-sigma Err (propagate from stat.) : 0.00137608
+1/sqrt(N of events) : 0.00137608
+numberOfEntries : 1000000
+numberOfPassSelection : 528094
+=====================================
+
+time : 200512_1617
+dataset : test-dilep_2HDM_LO_test4
+selection : B1998_dilep
+Q_1 Mean : 2.08341e-05
+Q_1 1-sigma Err (propagate from stat.) : 0.00137623
+1/sqrt(N of events) : 0.00137623
+numberOfEntries : 1000000
+numberOfPassSelection : 527981
+=====================================
+
+time : 200512_1617
+dataset : test-dilep_2HDM_LO_test5
+selection : B1998_dilep
+Q_1 Mean : 2.08341e-05
+Q_1 1-sigma Err (propagate from stat.) : 0.00137623
+1/sqrt(N of events) : 0.00137623
+numberOfEntries : 1000000
+numberOfPassSelection : 527981
+=====================================
+
+time : 200512_1618
+dataset : test-dilep_2HDM_LO_test6
+selection : B1998_dilep
+Q_1 Mean : 0.000484762
+Q_1 1-sigma Err (propagate from stat.) : 0.00137608
+1/sqrt(N of events) : 0.00137608
+numberOfEntries : 1000000
+numberOfPassSelection : 528094
+=====================================
+
+time : 200512_1618
+dataset : test-dilep_2HDM_LO_test7
+selection : B1998_dilep
+Q_1 Mean : 2.08341e-05
+Q_1 1-sigma Err (propagate from stat.) : 0.00137623
+1/sqrt(N of events) : 0.00137623
+numberOfEntries : 1000000
+numberOfPassSelection : 527981
+=====================================
+
+time : 200512_1618
+dataset : test-dilep_2HDM_NLO_test1
+selection : NoSel
+Q_1 Mean : -nan
+Q_1 1-sigma Err (propagate from stat.) : -nan
+1/sqrt(N of events) : inf
+numberOfEntries : 0
+numberOfPassSelection : 0
+=====================================
+
+time : 200512_1618
+dataset : test-dilep_2HDM_NLO_test2
+selection : NoSel
+Q_1 Mean : -nan
+Q_1 1-sigma Err (propagate from stat.) : -nan
+1/sqrt(N of events) : inf
+numberOfEntries : 0
+numberOfPassSelection : 0
+=====================================
+
+time : 200512_1618
+dataset : test-dilep_2HDM_NLO_test3
+selection : NoSel
+Q_1 Mean : -nan
+Q_1 1-sigma Err (propagate from stat.) : -nan
+1/sqrt(N of events) : inf
+numberOfEntries : 0
+numberOfPassSelection : 0
+=====================================
+
+time : 200512_1618
+dataset : test-dilep_2HDM_NLO_test4
+selection : NoSel
+Q_1 Mean : -nan
+Q_1 1-sigma Err (propagate from stat.) : -nan
+1/sqrt(N of events) : inf
+numberOfEntries : 0
+numberOfPassSelection : 0
+=====================================
+
+time : 200512_1618
+dataset : test-dilep_2HDM_NLO_test5
+selection : NoSel
+Q_1 Mean : -nan
+Q_1 1-sigma Err (propagate from stat.) : -nan
+1/sqrt(N of events) : inf
+numberOfEntries : 0
+numberOfPassSelection : 0
+=====================================
+
+time : 200512_1618
+dataset : test-dilep_2HDM_NLO_test6
+selection : NoSel
+Q_1 Mean : -nan
+Q_1 1-sigma Err (propagate from stat.) : -nan
+1/sqrt(N of events) : inf
+numberOfEntries : 0
+numberOfPassSelection : 0
+=====================================
+
+time : 200512_1618
+dataset : test-dilep_2HDM_NLO_test1
+selection : B1998_dilep
+Q_1 Mean : -nan
+Q_1 1-sigma Err (propagate from stat.) : -nan
+1/sqrt(N of events) : inf
+numberOfEntries : 0
+numberOfPassSelection : 0
+=====================================
+
+time : 200512_1618
+dataset : test-dilep_2HDM_NLO_test2
+selection : B1998_dilep
+Q_1 Mean : -nan
+Q_1 1-sigma Err (propagate from stat.) : -nan
+1/sqrt(N of events) : inf
+numberOfEntries : 0
+numberOfPassSelection : 0
+=====================================
+
+time : 200512_1618
+dataset : test-dilep_2HDM_NLO_test3
+selection : B1998_dilep
+Q_1 Mean : -nan
+Q_1 1-sigma Err (propagate from stat.) : -nan
+1/sqrt(N of events) : inf
+numberOfEntries : 0
+numberOfPassSelection : 0
+=====================================
+
+time : 200512_1618
+dataset : test-dilep_2HDM_NLO_test4
+selection : B1998_dilep
+Q_1 Mean : -nan
+Q_1 1-sigma Err (propagate from stat.) : -nan
+1/sqrt(N of events) : inf
+numberOfEntries : 0
+numberOfPassSelection : 0
+=====================================
+
+time : 200512_1618
+dataset : test-dilep_2HDM_NLO_test5
+selection : B1998_dilep
+Q_1 Mean : -nan
+Q_1 1-sigma Err (propagate from stat.) : -nan
+1/sqrt(N of events) : inf
+numberOfEntries : 0
+numberOfPassSelection : 0
+=====================================
+
+time : 200512_1618
+dataset : test-dilep_2HDM_NLO_test6
+selection : B1998_dilep
+Q_1 Mean : -nan
+Q_1 1-sigma Err (propagate from stat.) : -nan
+1/sqrt(N of events) : inf
+numberOfEntries : 0
+numberOfPassSelection : 0
+=====================================
+

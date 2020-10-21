@@ -1,0 +1,449 @@
+# 0j, GVSel, muon channel, O3 with j1
+
+SetName : 10_7-semi_SM_0j ,pass_sel : 0 ,total_entries : 0
+Obs3
+-nan
+-nan
+Obs6
+-nan
+-nan
+SetName : 10_7-semi_CEDM0pt5_0j ,pass_sel : 1347895 ,total_entries : 10000000
+Obs3
+-0.00738856
+0.000861311
+Obs6
+-0.00482308
+0.000861325
+SetName : 10_7-semi_CEDM1_0j ,pass_sel : 1352213 ,total_entries : 10000000
+Obs3
+-0.0150427
+0.000859861
+Obs6
+-0.0103201
+0.000859913
+SetName : 10_7-semi_CEDM1pt5_0j ,pass_sel : 1354999 ,total_entries : 10000000
+Obs3
+-0.0208229
+0.000858888
+Obs6
+-0.0140185
+0.000858989
+SetName : 10_7-semi_CEDM2_0j ,pass_sel : 1366467 ,total_entries : 10000000
+Obs3
+-0.0260519
+0.000855171
+Obs6
+-0.0174721
+0.000855331
+SetName : 10_7-semi_CEDM2pt5_0j ,pass_sel : 1375350 ,total_entries : 10000000
+Obs3
+-0.0284349
+0.00085235
+Obs6
+-0.0177337
+0.00085256
+SetName : 10_7-semi_CEDM3_0j ,pass_sel : 1386790 ,total_entries : 10000000
+Obs3
+-0.0310934
+0.000848759
+Obs6
+-0.0188507
+0.000849019
+SetName : 10_7-semi_CEDM3pt5_0j ,pass_sel : 1393409 ,total_entries : 10000000
+Obs3
+-0.0330291
+0.000846689
+Obs6
+-0.0206953
+0.000846969
+SetName : 10_7-semi_CEDM4_0j ,pass_sel : 1405564 ,total_entries : 10000000
+Obs3
+-0.0333233
+0.000843011
+Obs6
+-0.0205882
+0.000843301
+SetName : 10_7-semi_CEDM4pt5_0j ,pass_sel : 1419164 ,total_entries : 10000000
+Obs3
+-0.0303066
+0.000839043
+Obs6
+-0.0192339
+0.000839273
+SetName : 10_7-semi_CEDM5_0j ,pass_sel : 1423011 ,total_entries : 10000000
+Obs3
+-0.0312612
+0.000837883
+Obs6
+-0.0197785
+0.000838129
+
+
+## O3 with d-quark
+==========
+SetName : 10_7-semi_SM_0j ,pass_sel : 0 ,total_entries : 0
+Obs3
+-nan
+-nan
+Obs6
+-nan
+-nan
+==========
+SetName : 10_7-semi_CEDM0pt5_0j ,pass_sel : 676274 ,total_entries : 10000000
+Obs3
+-0.0161355
+0.00121586
+Obs6
+-0.0122229
+0.00121592
+==========
+SetName : 10_7-semi_CEDM1_0j ,pass_sel : 677007 ,total_entries : 10000000
+Obs3
+-0.0282257
+0.00121487
+Obs6
+-0.0236763
+0.00121502
+==========
+SetName : 10_7-semi_CEDM1pt5_0j ,pass_sel : 678180 ,total_entries : 10000000
+Obs3
+-0.0404642
+0.00121331
+Obs6
+-0.0335457
+0.00121362
+==========
+SetName : 10_7-semi_CEDM2_0j ,pass_sel : 685544 ,total_entries : 10000000
+Obs3
+-0.0490093
+0.00120631
+Obs6
+-0.04206
+0.0012067
+==========
+SetName : 10_7-semi_CEDM2pt5_0j ,pass_sel : 688145 ,total_entries : 10000000
+Obs3
+-0.0529496
+0.00120379
+Obs6
+-0.0466748
+0.00120417
+==========
+SetName : 10_7-semi_CEDM3_0j ,pass_sel : 692817 ,total_entries : 10000000
+Obs3
+-0.0582795
+0.00119937
+Obs6
+-0.0499858
+0.00119991
+==========
+SetName : 10_7-semi_CEDM3pt5_0j ,pass_sel : 697364 ,total_entries : 10000000
+Obs3
+-0.058724
+0.00119542
+Obs6
+-0.0506077
+0.00119595
+==========
+SetName : 10_7-semi_CEDM4_0j ,pass_sel : 704486 ,total_entries : 10000000
+Obs3
+-0.0576818
+0.00118943
+Obs6
+-0.0498548
+0.00118994
+==========
+SetName : 10_7-semi_CEDM4pt5_0j ,pass_sel : 713201 ,total_entries : 10000000
+Obs3
+-0.0541825
+0.00118238
+Obs6
+-0.0480916
+0.00118275
+==========
+SetName : 10_7-semi_CEDM5_0j ,pass_sel : 710735 ,total_entries : 10000000
+Obs3
+-0.0541425
+0.00118443
+Obs6
+-0.0475353
+0.00118483
+
+# 0j, GVSel, muon channel, with j1
+
+==========
+SetName : 10_7-semi_SM_0j ,pass_sel : 0 ,total_entries : 0
+Obs3
+-nan
+-nan
+Obs6
+-nan
+-nan
+Obs13
+-nan
+-nan
+==========
+SetName : 10_7-semi_SM_0j ,pass_sel : 1345609 ,total_entries : 10000000
+Obs3
+0.000949013
+0.000862066
+Obs6
+0.00179473
+0.000862065
+Obs13
+-0.0012329
+0.000862065
+==========
+SetName : 10_7-semi_CEDM0pt5_0j ,pass_sel : 1347895 ,total_entries : 10000000
+Obs3
+-0.00738856
+0.000861311
+Obs6
+-0.00482308
+0.000861325
+Obs13
+2.29988e-05
+0.000861335
+==========
+SetName : 10_7-semi_CEDM1_0j ,pass_sel : 1352213 ,total_entries : 10000000
+Obs3
+-0.0150427
+0.000859861
+Obs6
+-0.0103201
+0.000859913
+Obs13
+-0.000111669
+0.000859958
+==========
+SetName : 10_7-semi_CEDM1pt5_0j ,pass_sel : 1354999 ,total_entries : 10000000
+Obs3
+-0.0208229
+0.000858888
+Obs6
+-0.0140185
+0.000858989
+Obs13
+-2.43543e-05
+0.000859074
+==========
+SetName : 10_7-semi_CEDM2_0j ,pass_sel : 1366467 ,total_entries : 10000000
+Obs3
+-0.0260519
+0.000855171
+Obs6
+-0.0174721
+0.000855331
+Obs13
+-9.4404e-05
+0.000855461
+==========
+SetName : 10_7-semi_CEDM2pt5_0j ,pass_sel : 1375350 ,total_entries : 10000000
+Obs3
+-0.0284349
+0.00085235
+Obs6
+-0.0177337
+0.00085256
+Obs13
+0.000350456
+0.000852694
+==========
+SetName : 10_7-semi_CEDM3_0j ,pass_sel : 1386790 ,total_entries : 10000000
+Obs3
+-0.0310934
+0.000848759
+Obs6
+-0.0188507
+0.000849019
+Obs13
+0.000589851
+0.00084917
+==========
+SetName : 10_7-semi_CEDM3pt5_0j ,pass_sel : 1393409 ,total_entries : 10000000
+Obs3
+-0.0330291
+0.000846689
+Obs6
+-0.0206953
+0.000846969
+Obs13
+0.000871962
+0.00084715
+==========
+SetName : 10_7-semi_CEDM4_0j ,pass_sel : 1405564 ,total_entries : 10000000
+Obs3
+-0.0333233
+0.000843011
+Obs6
+-0.0205882
+0.000843301
+Obs13
+0.000101027
+0.00084348
+==========
+SetName : 10_7-semi_CEDM4pt5_0j ,pass_sel : 1419164 ,total_entries : 10000000
+Obs3
+-0.0303066
+0.000839043
+Obs6
+-0.0192339
+0.000839273
+Obs13
+-0.000329772
+0.000839428
+==========
+SetName : 10_7-semi_CEDM5_0j ,pass_sel : 1423011 ,total_entries : 10000000
+Obs3
+-0.0312612
+0.000837883
+Obs6
+-0.0197785
+0.000838129
+Obs13
+0.000146872
+0.000838293
+==========
+
+
+# 0j, GVSel, muon channel, with d-quark
+
+
+SetName : 10_7-semi_SM_0j ,pass_sel : 0 ,total_entries : 0
+Obs3
+-nan
+-nan
+Obs6
+-nan
+-nan
+Obs13
+-nan
+-nan
+==========
+SetName : 10_7-semi_SM_0j ,pass_sel : 672121 ,total_entries : 10000000
+Obs3
+2.23174e-05
+0.00121977
+Obs6
+-0.000935843
+0.00121976
+Obs13
+0.00130482
+0.00121976
+==========
+SetName : 10_7-semi_CEDM0pt5_0j ,pass_sel : 676274 ,total_entries : 10000000
+Obs3
+-0.0161355
+0.00121586
+Obs6
+-0.0122229
+0.00121592
+Obs13
+5.91476e-06
+0.00121601
+==========
+SetName : 10_7-semi_CEDM1_0j ,pass_sel : 677007 ,total_entries : 10000000
+Obs3
+-0.0282257
+0.00121487
+Obs6
+-0.0236763
+0.00121502
+Obs13
+0.000391429
+0.00121536
+==========
+SetName : 10_7-semi_CEDM1pt5_0j ,pass_sel : 678180 ,total_entries : 10000000
+Obs3
+-0.0404642
+0.00121331
+Obs6
+-0.0335457
+0.00121362
+Obs13
+-0.00066649
+0.0012143
+==========
+SetName : 10_7-semi_CEDM2_0j ,pass_sel : 685544 ,total_entries : 10000000
+Obs3
+-0.0490093
+0.00120631
+Obs6
+-0.04206
+0.0012067
+Obs13
+-0.000282987
+0.00120776
+==========
+SetName : 10_7-semi_CEDM2pt5_0j ,pass_sel : 688145 ,total_entries : 10000000
+Obs3
+-0.0529496
+0.00120379
+Obs6
+-0.0466748
+0.00120417
+Obs13
+6.53932e-05
+0.00120548
+==========
+SetName : 10_7-semi_CEDM3_0j ,pass_sel : 692817 ,total_entries : 10000000
+Obs3
+-0.0582795
+0.00119937
+Obs6
+-0.0499858
+0.00119991
+Obs13
+-0.000552816
+0.00120141
+==========
+SetName : 10_7-semi_CEDM3pt5_0j ,pass_sel : 697364 ,total_entries : 10000000
+Obs3
+-0.058724
+0.00119542
+Obs6
+-0.0506077
+0.00119595
+Obs13
+0.000358493
+0.00119749
+==========
+SetName : 10_7-semi_CEDM4_0j ,pass_sel : 704486 ,total_entries : 10000000
+Obs3
+-0.0576818
+0.00118943
+Obs6
+-0.0498548
+0.00118994
+Obs13
+0.000266861
+0.00119142
+==========
+SetName : 10_7-semi_CEDM4pt5_0j ,pass_sel : 713201 ,total_entries : 10000000
+Obs3
+-0.0541825
+0.00118238
+Obs6
+-0.0480916
+0.00118275
+Obs13
+0.000724901
+0.00118412
+==========
+SetName : 10_7-semi_CEDM5_0j ,pass_sel : 710735 ,total_entries : 10000000
+Obs3
+-0.0541425
+0.00118443
+Obs6
+-0.0475353
+0.00118483
+Obs13
+-0.000651438
+0.00118617
+
+
+
+# 0j, GVSel, muon channel, with d-quark
+
+
+

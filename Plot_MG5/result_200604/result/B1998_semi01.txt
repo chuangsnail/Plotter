@@ -1,0 +1,2062 @@
+time : 200423_0313
+dataset : 10_6-semi_SM_1j
+selection : B1998_semi
+O_1 Mean : -0.000966244
+O_1 1-sigma Err (propagate from stat.) : 0.00144247
+(N_Ot_P),(N_Otb_P) : 226432, 227230
+(N_Ot_N),(N_Otb_N) : 16559, 16491
+1/sqrt(N of events) : 0.00143339
+numberOfEntries : 1000000
+numberOfPassSelection : 486712
+=====================================
+
+time : 200423_0313
+dataset : 10_6-semi_CEDM0pt5_1j
+selection : B1998_semi
+O_1 Mean : -2.81058e-05
+O_1 1-sigma Err (propagate from stat.) : 0.00143564
+(N_Ot_P),(N_Otb_P) : 229856, 224344
+(N_Ot_N),(N_Otb_N) : 16571, 16170
+1/sqrt(N of events) : 0.00143305
+numberOfEntries : 1000000
+numberOfPassSelection : 486941
+=====================================
+
+time : 200423_0313
+dataset : 10_6-semi_CEDM1_1j
+selection : B1998_semi
+O_1 Mean : 0.00016494
+O_1 1-sigma Err (propagate from stat.) : 0.00142348
+(N_Ot_P),(N_Otb_P) : 230576, 226689
+(N_Ot_N),(N_Otb_N) : 16399, 16144
+1/sqrt(N of events) : 0.00142885
+numberOfEntries : 1000000
+numberOfPassSelection : 489808
+=====================================
+
+time : 200423_0313
+dataset : 10_6-semi_CEDM1pt5_1j
+selection : B1998_semi
+O_1 Mean : -0.00196029
+O_1 1-sigma Err (propagate from stat.) : 0.00141254
+(N_Ot_P),(N_Otb_P) : 231286, 228601
+(N_Ot_N),(N_Otb_N) : 16394, 15947
+1/sqrt(N of events) : 0.00142533
+numberOfEntries : 1000000
+numberOfPassSelection : 492228
+=====================================
+
+time : 200423_0314
+dataset : 10_6-semi_CEDM2_1j
+selection : B1998_semi
+O_1 Mean : -0.00102448
+O_1 1-sigma Err (propagate from stat.) : 0.00139472
+(N_Ot_P),(N_Otb_P) : 232048, 232293
+(N_Ot_N),(N_Otb_N) : 16069, 15950
+1/sqrt(N of events) : 0.00141939
+numberOfEntries : 1000000
+numberOfPassSelection : 496360
+=====================================
+
+time : 200423_0314
+dataset : 10_6-semi_CEDM2pt5_1j
+selection : B1998_semi
+O_1 Mean : 0.000473011
+O_1 1-sigma Err (propagate from stat.) : 0.00137506
+(N_Ot_P),(N_Otb_P) : 235989, 232780
+(N_Ot_N),(N_Otb_N) : 15864, 15711
+1/sqrt(N of events) : 0.00141373
+numberOfEntries : 1000000
+numberOfPassSelection : 500344
+=====================================
+
+time : 200423_0314
+dataset : 10_6-semi_CEDM3_1j
+selection : B1998_semi
+O_1 Mean : 0.00103711
+O_1 1-sigma Err (propagate from stat.) : 0.0013421
+(N_Ot_P),(N_Otb_P) : 235480, 238753
+(N_Ot_N),(N_Otb_N) : 15090, 15440
+1/sqrt(N of events) : 0.00140753
+numberOfEntries : 1000000
+numberOfPassSelection : 504763
+=====================================
+
+time : 200423_0314
+dataset : 10_6-semi_CEDM3pt5_1j
+selection : B1998_semi
+O_1 Mean : -5.91313e-05
+O_1 1-sigma Err (propagate from stat.) : 0.00132676
+(N_Ot_P),(N_Otb_P) : 237477, 242391
+(N_Ot_N),(N_Otb_N) : 15083, 15387
+1/sqrt(N of events) : 0.00139982
+numberOfEntries : 1000000
+numberOfPassSelection : 510338
+=====================================
+
+time : 200423_0314
+dataset : 10_6-semi_CEDM4_1j
+selection : B1998_semi
+O_1 Mean : -0.000761111
+O_1 1-sigma Err (propagate from stat.) : 0.00130215
+(N_Ot_P),(N_Otb_P) : 239386, 244860
+(N_Ot_N),(N_Otb_N) : 14736, 14968
+1/sqrt(N of events) : 0.00139489
+numberOfEntries : 1000000
+numberOfPassSelection : 513950
+=====================================
+
+time : 200423_0314
+dataset : 10_6-semi_CEDM4pt5_1j
+selection : B1998_semi
+O_1 Mean : 0.000296813
+O_1 1-sigma Err (propagate from stat.) : 0.00127621
+(N_Ot_P),(N_Otb_P) : 242848, 246936
+(N_Ot_N),(N_Otb_N) : 14369, 14652
+1/sqrt(N of events) : 0.00138835
+numberOfEntries : 1000000
+numberOfPassSelection : 518805
+=====================================
+
+time : 200423_0314
+dataset : 10_6-semi_CEDM5_1j
+selection : B1998_semi
+O_1 Mean : 0.000864483
+O_1 1-sigma Err (propagate from stat.) : 0.00125878
+(N_Ot_P),(N_Otb_P) : 245687, 248661
+(N_Ot_N),(N_Otb_N) : 14184, 14476
+1/sqrt(N of events) : 0.00138276
+numberOfEntries : 1000000
+numberOfPassSelection : 523008
+=====================================
+
+time : 200423_0315
+dataset : 10_7-semi_SM_1j
+selection : B1998_semi
+O_1 Mean : -0.000338598
+O_1 1-sigma Err (propagate from stat.) : 0.000454733
+(N_Ot_P),(N_Otb_P) : 2269517, 2270954
+(N_Ot_N),(N_Otb_N) : 164451, 164113
+1/sqrt(N of events) : 0.000453188
+numberOfEntries : 10000000
+numberOfPassSelection : 4869035
+=====================================
+
+time : 200423_0333
+dataset : 10_6-semi_SM_1j
+selection : NoSel
+O_1 Mean : -0.000657466
+O_1 1-sigma Err (propagate from stat.) : 0.00121469
+(N_Ot_P),(N_Otb_P) : 448565, 448654
+(N_Ot_N),(N_Otb_N) : 51477, 51304
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0333
+dataset : 10_6-semi_CEDM0pt5_1j
+selection : NoSel
+O_1 Mean : -6.65776e-05
+O_1 1-sigma Err (propagate from stat.) : 0.00121195
+(N_Ot_P),(N_Otb_P) : 454105, 443652
+(N_Ot_N),(N_Otb_N) : 51726, 50517
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0333
+dataset : 10_6-semi_CEDM1_1j
+selection : NoSel
+O_1 Mean : -0.000827503
+O_1 1-sigma Err (propagate from stat.) : 0.0012063
+(N_Ot_P),(N_Otb_P) : 452392, 446424
+(N_Ot_N),(N_Otb_N) : 51043, 50141
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0333
+dataset : 10_6-semi_CEDM1pt5_1j
+selection : NoSel
+O_1 Mean : -0.00217858
+O_1 1-sigma Err (propagate from stat.) : 0.00120284
+(N_Ot_P),(N_Otb_P) : 451783, 447681
+(N_Ot_N),(N_Otb_N) : 50800, 49736
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0333
+dataset : 10_6-semi_CEDM2_1j
+selection : NoSel
+O_1 Mean : 5.94116e-05
+O_1 1-sigma Err (propagate from stat.) : 0.00119983
+(N_Ot_P),(N_Otb_P) : 449280, 450752
+(N_Ot_N),(N_Otb_N) : 49894, 50074
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0333
+dataset : 10_6-semi_CEDM2pt5_1j
+selection : NoSel
+O_1 Mean : 0.000451423
+O_1 1-sigma Err (propagate from stat.) : 0.00119443
+(N_Ot_P),(N_Otb_P) : 453484, 447563
+(N_Ot_N),(N_Otb_N) : 49739, 49214
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0333
+dataset : 10_6-semi_CEDM3_1j
+selection : NoSel
+O_1 Mean : -0.00111568
+O_1 1-sigma Err (propagate from stat.) : 0.00118285
+(N_Ot_P),(N_Otb_P) : 448186, 455004
+(N_Ot_N),(N_Otb_N) : 48194, 48616
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0333
+dataset : 10_6-semi_CEDM3pt5_1j
+selection : NoSel
+O_1 Mean : 0.000514216
+O_1 1-sigma Err (propagate from stat.) : 0.00117996
+(N_Ot_P),(N_Otb_P) : 447144, 456575
+(N_Ot_N),(N_Otb_N) : 47567, 48714
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0334
+dataset : 10_6-semi_CEDM4_1j
+selection : NoSel
+O_1 Mean : 0.00041469
+O_1 1-sigma Err (propagate from stat.) : 0.0011695
+(N_Ot_P),(N_Otb_P) : 447683, 457936
+(N_Ot_N),(N_Otb_N) : 46599, 47782
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0334
+dataset : 10_6-semi_CEDM4pt5_1j
+selection : NoSel
+O_1 Mean : -0.000356651
+O_1 1-sigma Err (propagate from stat.) : 0.00115966
+(N_Ot_P),(N_Otb_P) : 449534, 457844
+(N_Ot_N),(N_Otb_N) : 45936, 46686
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0334
+dataset : 10_6-semi_CEDM5_1j
+selection : NoSel
+O_1 Mean : 0.000887924
+O_1 1-sigma Err (propagate from stat.) : 0.0011552
+(N_Ot_P),(N_Otb_P) : 451156, 457006
+(N_Ot_N),(N_Otb_N) : 45501, 46337
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0334
+dataset : 10_7-semi_SM_1j
+selection : NoSel
+O_1 Mean : -0.000113125
+O_1 1-sigma Err (propagate from stat.) : 0.00038297
+(N_Ot_P),(N_Otb_P) : 4491005, 4488111
+(N_Ot_N),(N_Otb_N) : 510764, 510120
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+
+### after Boost lepton's P4
+
+
+time : 200423_0532
+dataset : 10_6-semi_SM_1j
+selection : NoSel
+O_1 Mean : -0.00254305
+O_1 1-sigma Err (propagate from stat.) : 0.00178935
+(N_Ot_P),(N_Otb_P) : 361392, 361967
+(N_Ot_N),(N_Otb_N) : 138650, 137991
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0532
+dataset : 10_6-semi_CEDM0pt5_1j
+selection : NoSel
+O_1 Mean : 0.000919474
+O_1 1-sigma Err (propagate from stat.) : 0.00178736
+(N_Ot_P),(N_Otb_P) : 366548, 357870
+(N_Ot_N),(N_Otb_N) : 139283, 136299
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0532
+dataset : 10_6-semi_CEDM1_1j
+selection : NoSel
+O_1 Mean : -0.000779604
+O_1 1-sigma Err (propagate from stat.) : 0.00178429
+(N_Ot_P),(N_Otb_P) : 365343, 360551
+(N_Ot_N),(N_Otb_N) : 138092, 136014
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0533
+dataset : 10_6-semi_CEDM1pt5_1j
+selection : NoSel
+O_1 Mean : -0.00205464
+O_1 1-sigma Err (propagate from stat.) : 0.00178124
+(N_Ot_P),(N_Otb_P) : 365312, 362068
+(N_Ot_N),(N_Otb_N) : 137271, 135349
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0533
+dataset : 10_6-semi_CEDM2_1j
+selection : NoSel
+O_1 Mean : 0.00170872
+O_1 1-sigma Err (propagate from stat.) : 0.00177556
+(N_Ot_P),(N_Otb_P) : 364677, 365456
+(N_Ot_N),(N_Otb_N) : 134497, 135370
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0533
+dataset : 10_6-semi_CEDM2pt5_1j
+selection : NoSel
+O_1 Mean : -0.00147765
+O_1 1-sigma Err (propagate from stat.) : 0.00177009
+(N_Ot_P),(N_Otb_P) : 368559, 364205
+(N_Ot_N),(N_Otb_N) : 134664, 132572
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0533
+dataset : 10_6-semi_CEDM3_1j
+selection : NoSel
+O_1 Mean : -0.00265501
+O_1 1-sigma Err (propagate from stat.) : 0.00176248
+(N_Ot_P),(N_Otb_P) : 365185, 371180
+(N_Ot_N),(N_Otb_N) : 131195, 132440
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0533
+dataset : 10_6-semi_CEDM3pt5_1j
+selection : NoSel
+O_1 Mean : 0.000592137
+O_1 1-sigma Err (propagate from stat.) : 0.00175539
+(N_Ot_P),(N_Otb_P) : 365987, 373663
+(N_Ot_N),(N_Otb_N) : 128724, 131626
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0533
+dataset : 10_6-semi_CEDM4_1j
+selection : NoSel
+O_1 Mean : -0.000431425
+O_1 1-sigma Err (propagate from stat.) : 0.00174683
+(N_Ot_P),(N_Otb_P) : 367466, 376077
+(N_Ot_N),(N_Otb_N) : 126816, 129641
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0533
+dataset : 10_6-semi_CEDM4pt5_1j
+selection : NoSel
+O_1 Mean : -0.00131363
+O_1 1-sigma Err (propagate from stat.) : 0.00173831
+(N_Ot_P),(N_Otb_P) : 370105, 377204
+(N_Ot_N),(N_Otb_N) : 125365, 127326
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0534
+dataset : 10_6-semi_CEDM5_1j
+selection : NoSel
+O_1 Mean : 0.000511716
+O_1 1-sigma Err (propagate from stat.) : 0.0017309
+(N_Ot_P),(N_Otb_P) : 372811, 377701
+(N_Ot_N),(N_Otb_N) : 123846, 125642
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200423_0534
+dataset : 10_6-semi_SM_1j
+selection : B1998_semi
+O_1 Mean : -0.00150021
+O_1 1-sigma Err (propagate from stat.) : 0.00234225
+(N_Ot_P),(N_Otb_P) : 191458, 192216
+(N_Ot_N),(N_Otb_N) : 51533, 51505
+1/sqrt(N of events) : 0.00143339
+numberOfEntries : 1000000
+numberOfPassSelection : 486712
+=====================================
+
+time : 200423_0534
+dataset : 10_6-semi_CEDM0pt5_1j
+selection : B1998_semi
+O_1 Mean : 0.00134679
+O_1 1-sigma Err (propagate from stat.) : 0.00233925
+(N_Ot_P),(N_Otb_P) : 194501, 189672
+(N_Ot_N),(N_Otb_N) : 51926, 50842
+1/sqrt(N of events) : 0.00143305
+numberOfEntries : 1000000
+numberOfPassSelection : 486941
+=====================================
+
+time : 200423_0534
+dataset : 10_6-semi_CEDM1_1j
+selection : B1998_semi
+O_1 Mean : 2.6559e-05
+O_1 1-sigma Err (propagate from stat.) : 0.00232549
+(N_Ot_P),(N_Otb_P) : 195265, 191987
+(N_Ot_N),(N_Otb_N) : 51710, 50846
+1/sqrt(N of events) : 0.00142885
+numberOfEntries : 1000000
+numberOfPassSelection : 489808
+=====================================
+
+time : 200423_0534
+dataset : 10_6-semi_CEDM1pt5_1j
+selection : B1998_semi
+O_1 Mean : -0.00502809
+O_1 1-sigma Err (propagate from stat.) : 0.00231116
+(N_Ot_P),(N_Otb_P) : 196025, 194161
+(N_Ot_N),(N_Otb_N) : 51655, 50387
+1/sqrt(N of events) : 0.00142533
+numberOfEntries : 1000000
+numberOfPassSelection : 492228
+=====================================
+
+time : 200423_0534
+dataset : 10_6-semi_CEDM2_1j
+selection : B1998_semi
+O_1 Mean : -0.00110201
+O_1 1-sigma Err (propagate from stat.) : 0.00228934
+(N_Ot_P),(N_Otb_P) : 197346, 197583
+(N_Ot_N),(N_Otb_N) : 50771, 50660
+1/sqrt(N of events) : 0.00141939
+numberOfEntries : 1000000
+numberOfPassSelection : 496360
+=====================================
+
+time : 200423_0534
+dataset : 10_6-semi_CEDM2pt5_1j
+selection : B1998_semi
+O_1 Mean : -0.00192436
+O_1 1-sigma Err (propagate from stat.) : 0.00226814
+(N_Ot_P),(N_Otb_P) : 200995, 198551
+(N_Ot_N),(N_Otb_N) : 50858, 49940
+1/sqrt(N of events) : 0.00141373
+numberOfEntries : 1000000
+numberOfPassSelection : 500344
+=====================================
+
+time : 200423_0535
+dataset : 10_6-semi_CEDM3_1j
+selection : B1998_semi
+O_1 Mean : -0.00157218
+O_1 1-sigma Err (propagate from stat.) : 0.00224249
+(N_Ot_P),(N_Otb_P) : 200925, 204030
+(N_Ot_N),(N_Otb_N) : 49645, 50163
+1/sqrt(N of events) : 0.00140753
+numberOfEntries : 1000000
+numberOfPassSelection : 504763
+=====================================
+
+time : 200423_0535
+dataset : 10_6-semi_CEDM3pt5_1j
+selection : B1998_semi
+O_1 Mean : -0.000999336
+O_1 1-sigma Err (propagate from stat.) : 0.0022169
+(N_Ot_P),(N_Otb_P) : 203345, 207675
+(N_Ot_N),(N_Otb_N) : 49215, 50103
+1/sqrt(N of events) : 0.00139982
+numberOfEntries : 1000000
+numberOfPassSelection : 510338
+=====================================
+
+time : 200423_0535
+dataset : 10_6-semi_CEDM4_1j
+selection : B1998_semi
+O_1 Mean : -4.28728e-05
+O_1 1-sigma Err (propagate from stat.) : 0.00219314
+(N_Ot_P),(N_Otb_P) : 205597, 210219
+(N_Ot_N),(N_Otb_N) : 48525, 49609
+1/sqrt(N of events) : 0.00139489
+numberOfEntries : 1000000
+numberOfPassSelection : 513950
+=====================================
+
+time : 200423_0535
+dataset : 10_6-semi_CEDM4pt5_1j
+selection : B1998_semi
+O_1 Mean : -0.0012934
+O_1 1-sigma Err (propagate from stat.) : 0.0021658
+(N_Ot_P),(N_Otb_P) : 209012, 212733
+(N_Ot_N),(N_Otb_N) : 48205, 48855
+1/sqrt(N of events) : 0.00138835
+numberOfEntries : 1000000
+numberOfPassSelection : 518805
+=====================================
+
+time : 200423_0535
+dataset : 10_6-semi_CEDM5_1j
+selection : B1998_semi
+O_1 Mean : 0.000259282
+O_1 1-sigma Err (propagate from stat.) : 0.00213929
+(N_Ot_P),(N_Otb_P) : 212298, 214932
+(N_Ot_N),(N_Otb_N) : 47573, 48205
+1/sqrt(N of events) : 0.00138276
+numberOfEntries : 1000000
+numberOfPassSelection : 523008
+=====================================
+
+
+
+
+
+
+#10_7, B1998_semi(sel)
+
+
+time : 200423_0536
+dataset : 10_7-semi_SM_1j
+selection : NoSel
+O_1 Mean : -0.000626557
+O_1 1-sigma Err (propagate from stat.) : 0.000565099
+(N_Ot_P),(N_Otb_P) : 3623157, 3622160
+(N_Ot_N),(N_Otb_N) : 1378612, 1376071
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200423_0537
+dataset : 10_7-semi_SM_1j
+selection : B1998_semi
+O_1 Mean : -0.00123772
+O_1 1-sigma Err (propagate from stat.) : 0.00073933
+(N_Ot_P),(N_Otb_P) : 1920227, 1922601
+(N_Ot_N),(N_Otb_N) : 513741, 512466
+1/sqrt(N of events) : 0.000453188
+numberOfEntries : 10000000
+numberOfPassSelection : 4869035
+=====================================
+
+time : 200427_0509
+dataset : 10_7-semi_SM_0j
+selection : B1998_semi
+O_1 Mean : -0.000327262
+O_1 1-sigma Err (propagate from stat.) : 0.000758209
+(N_Ot_P),(N_Otb_P) : 1852960, 1856084
+(N_Ot_N),(N_Otb_N) : 516286, 516660
+1/sqrt(N of events) : 0.000459219
+numberOfEntries : 10000000
+numberOfPassSelection : 4741990
+=====================================
+
+time : 200427_0510
+dataset : 10_7-semi_CEDM0pt5_0j
+selection : B1998_semi
+O_1 Mean : -0.00093383
+O_1 1-sigma Err (propagate from stat.) : 0.00075788
+(N_Ot_P),(N_Otb_P) : 1856552, 1851425
+(N_Ot_N),(N_Otb_N) : 516028, 513192
+1/sqrt(N of events) : 0.000459451
+numberOfEntries : 10000000
+numberOfPassSelection : 4737197
+=====================================
+
+time : 200427_0510
+dataset : 10_7-semi_CEDM1_0j
+selection : B1998_semi
+O_1 Mean : -0.000117223
+O_1 1-sigma Err (propagate from stat.) : 0.000755139
+(N_Ot_P),(N_Otb_P) : 1863402, 1863858
+(N_Ot_N),(N_Otb_N) : 514276, 514224
+1/sqrt(N of events) : 0.000458554
+numberOfEntries : 10000000
+numberOfPassSelection : 4755760
+=====================================
+
+time : 200427_0511
+dataset : 10_7-semi_CEDM1pt5_0j
+selection : B1998_semi
+O_1 Mean : -0.00124005
+O_1 1-sigma Err (propagate from stat.) : 0.000751428
+(N_Ot_P),(N_Otb_P) : 1879605, 1874653
+(N_Ot_N),(N_Otb_N) : 515746, 512501
+1/sqrt(N of events) : 0.00045727
+numberOfEntries : 10000000
+numberOfPassSelection : 4782505
+=====================================
+
+time : 200427_0511
+dataset : 10_7-semi_CEDM2_0j
+selection : B1998_semi
+O_1 Mean : 0.000887528
+O_1 1-sigma Err (propagate from stat.) : 0.000745788
+(N_Ot_P),(N_Otb_P) : 1900168, 1893683
+(N_Ot_N),(N_Otb_N) : 513138, 512743
+1/sqrt(N of events) : 0.0004555
+numberOfEntries : 10000000
+numberOfPassSelection : 4819732
+=====================================
+
+time : 200427_0512
+dataset : 10_7-semi_CEDM2pt5_0j
+selection : B1998_semi
+O_1 Mean : 0.000436568
+O_1 1-sigma Err (propagate from stat.) : 0.000739773
+(N_Ot_P),(N_Otb_P) : 1917069, 1918605
+(N_Ot_N),(N_Otb_N) : 510681, 511762
+1/sqrt(N of events) : 0.000453697
+numberOfEntries : 10000000
+numberOfPassSelection : 4858117
+=====================================
+
+time : 200427_0513
+dataset : 10_7-semi_CEDM3_0j
+selection : B1998_semi
+O_1 Mean : 0.000571229
+O_1 1-sigma Err (propagate from stat.) : 0.000733952
+(N_Ot_P),(N_Otb_P) : 1940044, 1938635
+(N_Ot_N),(N_Otb_N) : 510271, 510784
+1/sqrt(N of events) : 0.000451766
+numberOfEntries : 10000000
+numberOfPassSelection : 4899734
+=====================================
+
+time : 200427_0513
+dataset : 10_7-semi_CEDM3pt5_0j
+selection : B1998_semi
+O_1 Mean : -0.000570008
+O_1 1-sigma Err (propagate from stat.) : 0.000726659
+(N_Ot_P),(N_Otb_P) : 1965347, 1962166
+(N_Ot_N),(N_Otb_N) : 507749, 506042
+1/sqrt(N of events) : 0.000449862
+numberOfEntries : 10000000
+numberOfPassSelection : 4941304
+=====================================
+
+time : 200427_0514
+dataset : 10_7-semi_CEDM4_0j
+selection : B1998_semi
+O_1 Mean : -0.000105476
+O_1 1-sigma Err (propagate from stat.) : 0.000720002
+(N_Ot_P),(N_Otb_P) : 1987587, 1988598
+(N_Ot_N),(N_Otb_N) : 505146, 505238
+1/sqrt(N of events) : 0.000447815
+numberOfEntries : 10000000
+numberOfPassSelection : 4986569
+=====================================
+
+time : 200427_0514
+dataset : 10_7-semi_CEDM4pt5_0j
+selection : B1998_semi
+O_1 Mean : -1.11493e-05
+O_1 1-sigma Err (propagate from stat.) : 0.00071379
+(N_Ot_P),(N_Otb_P) : 2011806, 2008930
+(N_Ot_N),(N_Otb_N) : 503299, 502562
+1/sqrt(N of events) : 0.000446029
+numberOfEntries : 10000000
+numberOfPassSelection : 5026597
+=====================================
+
+time : 200427_0515
+dataset : 10_7-semi_CEDM5_0j
+selection : B1998_semi
+O_1 Mean : -0.000224435
+O_1 1-sigma Err (propagate from stat.) : 0.000707699
+(N_Ot_P),(N_Otb_P) : 2030283, 2032571
+(N_Ot_N),(N_Otb_N) : 499705, 499914
+1/sqrt(N of events) : 0.000444446
+numberOfEntries : 10000000
+numberOfPassSelection : 5062473
+=====================================
+
+
+
+
+
+#10_7, GVSel
+
+
+time : 200427_0516
+dataset : 10_7-semi_SM_0j
+selection : GVSel
+O_1 Mean : -0.000601928
+O_1 1-sigma Err (propagate from stat.) : 0.000997352
+(N_Ot_P),(N_Otb_P) : 1057658, 1062254
+(N_Ot_N),(N_Otb_N) : 285715, 286441
+1/sqrt(N of events) : 0.000609477
+numberOfEntries : 10000000
+numberOfPassSelection : 2692068
+=====================================
+
+time : 200427_0516
+dataset : 10_7-semi_CEDM0pt5_0j
+selection : GVSel
+O_1 Mean : -0.00180154
+O_1 1-sigma Err (propagate from stat.) : 0.000994585
+(N_Ot_P),(N_Otb_P) : 1063825, 1061197
+(N_Ot_N),(N_Otb_N) : 285429, 283188
+1/sqrt(N of events) : 0.000609299
+numberOfEntries : 10000000
+numberOfPassSelection : 2693639
+=====================================
+
+time : 200427_0517
+dataset : 10_7-semi_CEDM1_0j
+selection : GVSel
+O_1 Mean : -9.53606e-05
+O_1 1-sigma Err (propagate from stat.) : 0.00099184
+(N_Ot_P),(N_Otb_P) : 1066685, 1065593
+(N_Ot_N),(N_Otb_N) : 283826, 283454
+1/sqrt(N of events) : 0.00060863
+numberOfEntries : 10000000
+numberOfPassSelection : 2699558
+=====================================
+
+time : 200427_0518
+dataset : 10_7-semi_CEDM1pt5_0j
+selection : GVSel
+O_1 Mean : -0.000676378
+O_1 1-sigma Err (propagate from stat.) : 0.0009875
+(N_Ot_P),(N_Otb_P) : 1075613, 1071426
+(N_Ot_N),(N_Otb_N) : 285008, 283319
+1/sqrt(N of events) : 0.000606856
+numberOfEntries : 10000000
+numberOfPassSelection : 2715366
+=====================================
+
+time : 200427_0519
+dataset : 10_7-semi_CEDM2_0j
+selection : GVSel
+O_1 Mean : 0.000538136
+O_1 1-sigma Err (propagate from stat.) : 0.000980847
+(N_Ot_P),(N_Otb_P) : 1085582, 1081570
+(N_Ot_N),(N_Otb_N) : 283925, 283339
+1/sqrt(N of events) : 0.000604739
+numberOfEntries : 10000000
+numberOfPassSelection : 2734416
+=====================================
+
+time : 200427_0520
+dataset : 10_7-semi_CEDM2pt5_0j
+selection : GVSel
+O_1 Mean : 0.000567714
+O_1 1-sigma Err (propagate from stat.) : 0.000973822
+(N_Ot_P),(N_Otb_P) : 1093635, 1093977
+(N_Ot_N),(N_Otb_N) : 282304, 282884
+1/sqrt(N of events) : 0.000602716
+numberOfEntries : 10000000
+numberOfPassSelection : 2752800
+=====================================
+
+time : 200427_0521
+dataset : 10_7-semi_CEDM3_0j
+selection : GVSel
+O_1 Mean : 0.000410638
+O_1 1-sigma Err (propagate from stat.) : 0.000967074
+(N_Ot_P),(N_Otb_P) : 1104969, 1104333
+(N_Ot_N),(N_Otb_N) : 282330, 282525
+1/sqrt(N of events) : 0.000600391
+numberOfEntries : 10000000
+numberOfPassSelection : 2774157
+=====================================
+
+time : 200427_0521
+dataset : 10_7-semi_CEDM3pt5_0j
+selection : GVSel
+O_1 Mean : -0.00108961
+O_1 1-sigma Err (propagate from stat.) : 0.000959137
+(N_Ot_P),(N_Otb_P) : 1115425, 1115431
+(N_Ot_N),(N_Otb_N) : 280791, 279841
+1/sqrt(N of events) : 0.000598525
+numberOfEntries : 10000000
+numberOfPassSelection : 2791488
+=====================================
+
+time : 200427_0522
+dataset : 10_7-semi_CEDM4_0j
+selection : GVSel
+O_1 Mean : 0.000675036
+O_1 1-sigma Err (propagate from stat.) : 0.00095163
+(N_Ot_P),(N_Otb_P) : 1128194, 1126893
+(N_Ot_N),(N_Otb_N) : 279769, 280039
+1/sqrt(N of events) : 0.000596031
+numberOfEntries : 10000000
+numberOfPassSelection : 2814895
+=====================================
+
+time : 200427_0523
+dataset : 10_7-semi_CEDM4pt5_0j
+selection : GVSel
+O_1 Mean : -4.84419e-05
+O_1 1-sigma Err (propagate from stat.) : 0.000945682
+(N_Ot_P),(N_Otb_P) : 1136829, 1134820
+(N_Ot_N),(N_Otb_N) : 278628, 278093
+1/sqrt(N of events) : 0.00059461
+numberOfEntries : 10000000
+numberOfPassSelection : 2828370
+=====================================
+
+time : 200427_0524
+dataset : 10_7-semi_CEDM5_0j
+selection : GVSel
+O_1 Mean : -0.000377576
+O_1 1-sigma Err (propagate from stat.) : 0.000939316
+(N_Ot_P),(N_Otb_P) : 1144987, 1145919
+(N_Ot_N),(N_Otb_N) : 277346, 277238
+1/sqrt(N of events) : 0.000592818
+numberOfEntries : 10000000
+numberOfPassSelection : 2845490
+=====================================
+
+
+##200427
+
+time : 200427_1720
+dataset : 10_7-semi_SM_0j
+selection : B1998_semi
+O_1 Mean : -0.000327262
+O_1 1-sigma Err (propagate from stat.) : 0.000758209
+(N_Ot_P),(N_Otb_P) : 1852960, 1856084
+(N_Ot_N),(N_Otb_N) : 516286, 516660
+1/sqrt(N of events) : 0.000459219
+numberOfEntries : 10000000
+numberOfPassSelection : 4741990
+=====================================
+
+time : 200427_1721
+dataset : 10_7-semi_CEDM0pt5_0j
+selection : B1998_semi
+O_1 Mean : -0.00093383
+O_1 1-sigma Err (propagate from stat.) : 0.00075788
+(N_Ot_P),(N_Otb_P) : 1856552, 1851425
+(N_Ot_N),(N_Otb_N) : 516028, 513192
+1/sqrt(N of events) : 0.000459451
+numberOfEntries : 10000000
+numberOfPassSelection : 4737197
+=====================================
+
+time : 200427_1722
+dataset : 10_7-semi_CEDM1_0j
+selection : B1998_semi
+O_1 Mean : -0.000117223
+O_1 1-sigma Err (propagate from stat.) : 0.000755139
+(N_Ot_P),(N_Otb_P) : 1863402, 1863858
+(N_Ot_N),(N_Otb_N) : 514276, 514224
+1/sqrt(N of events) : 0.000458554
+numberOfEntries : 10000000
+numberOfPassSelection : 4755760
+=====================================
+
+time : 200427_1723
+dataset : 10_7-semi_CEDM1pt5_0j
+selection : B1998_semi
+O_1 Mean : -0.00124005
+O_1 1-sigma Err (propagate from stat.) : 0.000751428
+(N_Ot_P),(N_Otb_P) : 1879605, 1874653
+(N_Ot_N),(N_Otb_N) : 515746, 512501
+1/sqrt(N of events) : 0.00045727
+numberOfEntries : 10000000
+numberOfPassSelection : 4782505
+=====================================
+
+time : 200427_1724
+dataset : 10_7-semi_CEDM2_0j
+selection : B1998_semi
+O_1 Mean : 0.000887528
+O_1 1-sigma Err (propagate from stat.) : 0.000745788
+(N_Ot_P),(N_Otb_P) : 1900168, 1893683
+(N_Ot_N),(N_Otb_N) : 513138, 512743
+1/sqrt(N of events) : 0.0004555
+numberOfEntries : 10000000
+numberOfPassSelection : 4819732
+=====================================
+
+time : 200427_1725
+dataset : 10_7-semi_CEDM2pt5_0j
+selection : B1998_semi
+O_1 Mean : 0.000436568
+O_1 1-sigma Err (propagate from stat.) : 0.000739773
+(N_Ot_P),(N_Otb_P) : 1917069, 1918605
+(N_Ot_N),(N_Otb_N) : 510681, 511762
+1/sqrt(N of events) : 0.000453697
+numberOfEntries : 10000000
+numberOfPassSelection : 4858117
+=====================================
+
+time : 200427_1726
+dataset : 10_7-semi_CEDM3_0j
+selection : B1998_semi
+O_1 Mean : 0.000571229
+O_1 1-sigma Err (propagate from stat.) : 0.000733952
+(N_Ot_P),(N_Otb_P) : 1940044, 1938635
+(N_Ot_N),(N_Otb_N) : 510271, 510784
+1/sqrt(N of events) : 0.000451766
+numberOfEntries : 10000000
+numberOfPassSelection : 4899734
+=====================================
+
+time : 200427_1727
+dataset : 10_7-semi_CEDM3pt5_0j
+selection : B1998_semi
+O_1 Mean : -0.000570008
+O_1 1-sigma Err (propagate from stat.) : 0.000726659
+(N_Ot_P),(N_Otb_P) : 1965347, 1962166
+(N_Ot_N),(N_Otb_N) : 507749, 506042
+1/sqrt(N of events) : 0.000449862
+numberOfEntries : 10000000
+numberOfPassSelection : 4941304
+=====================================
+
+time : 200427_1728
+dataset : 10_7-semi_CEDM4_0j
+selection : B1998_semi
+O_1 Mean : -0.000105476
+O_1 1-sigma Err (propagate from stat.) : 0.000720002
+(N_Ot_P),(N_Otb_P) : 1987587, 1988598
+(N_Ot_N),(N_Otb_N) : 505146, 505238
+1/sqrt(N of events) : 0.000447815
+numberOfEntries : 10000000
+numberOfPassSelection : 4986569
+=====================================
+
+time : 200427_1729
+dataset : 10_7-semi_CEDM4pt5_0j
+selection : B1998_semi
+O_1 Mean : -1.11493e-05
+O_1 1-sigma Err (propagate from stat.) : 0.00071379
+(N_Ot_P),(N_Otb_P) : 2011806, 2008930
+(N_Ot_N),(N_Otb_N) : 503299, 502562
+1/sqrt(N of events) : 0.000446029
+numberOfEntries : 10000000
+numberOfPassSelection : 5026597
+=====================================
+
+time : 200427_1731
+dataset : 10_7-semi_CEDM5_0j
+selection : B1998_semi
+O_1 Mean : -0.000224435
+O_1 1-sigma Err (propagate from stat.) : 0.000707699
+(N_Ot_P),(N_Otb_P) : 2030283, 2032571
+(N_Ot_N),(N_Otb_N) : 499705, 499914
+1/sqrt(N of events) : 0.000444446
+numberOfEntries : 10000000
+numberOfPassSelection : 5062473
+=====================================
+
+time : 200427_1732
+dataset : 10_7-semi_SM_0j
+selection : GVSel
+O_1 Mean : -0.000601928
+O_1 1-sigma Err (propagate from stat.) : 0.000997352
+(N_Ot_P),(N_Otb_P) : 1057658, 1062254
+(N_Ot_N),(N_Otb_N) : 285715, 286441
+1/sqrt(N of events) : 0.000609477
+numberOfEntries : 10000000
+numberOfPassSelection : 2692068
+=====================================
+
+time : 200427_1733
+dataset : 10_7-semi_CEDM0pt5_0j
+selection : GVSel
+O_1 Mean : -0.00180154
+O_1 1-sigma Err (propagate from stat.) : 0.000994585
+(N_Ot_P),(N_Otb_P) : 1063825, 1061197
+(N_Ot_N),(N_Otb_N) : 285429, 283188
+1/sqrt(N of events) : 0.000609299
+numberOfEntries : 10000000
+numberOfPassSelection : 2693639
+=====================================
+
+time : 200427_1734
+dataset : 10_7-semi_CEDM1_0j
+selection : GVSel
+O_1 Mean : -9.53606e-05
+O_1 1-sigma Err (propagate from stat.) : 0.00099184
+(N_Ot_P),(N_Otb_P) : 1066685, 1065593
+(N_Ot_N),(N_Otb_N) : 283826, 283454
+1/sqrt(N of events) : 0.00060863
+numberOfEntries : 10000000
+numberOfPassSelection : 2699558
+=====================================
+
+time : 200427_1736
+dataset : 10_7-semi_CEDM1pt5_0j
+selection : GVSel
+O_1 Mean : -0.000676378
+O_1 1-sigma Err (propagate from stat.) : 0.0009875
+(N_Ot_P),(N_Otb_P) : 1075613, 1071426
+(N_Ot_N),(N_Otb_N) : 285008, 283319
+1/sqrt(N of events) : 0.000606856
+numberOfEntries : 10000000
+numberOfPassSelection : 2715366
+=====================================
+
+time : 200427_1737
+dataset : 10_7-semi_CEDM2_0j
+selection : GVSel
+O_1 Mean : 0.000538136
+O_1 1-sigma Err (propagate from stat.) : 0.000980847
+(N_Ot_P),(N_Otb_P) : 1085582, 1081570
+(N_Ot_N),(N_Otb_N) : 283925, 283339
+1/sqrt(N of events) : 0.000604739
+numberOfEntries : 10000000
+numberOfPassSelection : 2734416
+=====================================
+
+time : 200427_1738
+dataset : 10_7-semi_CEDM2pt5_0j
+selection : GVSel
+O_1 Mean : 0.000567714
+O_1 1-sigma Err (propagate from stat.) : 0.000973822
+(N_Ot_P),(N_Otb_P) : 1093635, 1093977
+(N_Ot_N),(N_Otb_N) : 282304, 282884
+1/sqrt(N of events) : 0.000602716
+numberOfEntries : 10000000
+numberOfPassSelection : 2752800
+=====================================
+
+time : 200427_1739
+dataset : 10_7-semi_CEDM3_0j
+selection : GVSel
+O_1 Mean : 0.000410638
+O_1 1-sigma Err (propagate from stat.) : 0.000967074
+(N_Ot_P),(N_Otb_P) : 1104969, 1104333
+(N_Ot_N),(N_Otb_N) : 282330, 282525
+1/sqrt(N of events) : 0.000600391
+numberOfEntries : 10000000
+numberOfPassSelection : 2774157
+=====================================
+
+time : 200427_1741
+dataset : 10_7-semi_CEDM3pt5_0j
+selection : GVSel
+O_1 Mean : -0.00108961
+O_1 1-sigma Err (propagate from stat.) : 0.000959137
+(N_Ot_P),(N_Otb_P) : 1115425, 1115431
+(N_Ot_N),(N_Otb_N) : 280791, 279841
+1/sqrt(N of events) : 0.000598525
+numberOfEntries : 10000000
+numberOfPassSelection : 2791488
+=====================================
+
+time : 200427_1742
+dataset : 10_7-semi_CEDM4_0j
+selection : GVSel
+O_1 Mean : 0.000675036
+O_1 1-sigma Err (propagate from stat.) : 0.00095163
+(N_Ot_P),(N_Otb_P) : 1128194, 1126893
+(N_Ot_N),(N_Otb_N) : 279769, 280039
+1/sqrt(N of events) : 0.000596031
+numberOfEntries : 10000000
+numberOfPassSelection : 2814895
+=====================================
+
+time : 200427_1743
+dataset : 10_7-semi_CEDM4pt5_0j
+selection : GVSel
+O_1 Mean : -4.84419e-05
+O_1 1-sigma Err (propagate from stat.) : 0.000945682
+(N_Ot_P),(N_Otb_P) : 1136829, 1134820
+(N_Ot_N),(N_Otb_N) : 278628, 278093
+1/sqrt(N of events) : 0.00059461
+numberOfEntries : 10000000
+numberOfPassSelection : 2828370
+=====================================
+
+time : 200427_1745
+dataset : 10_7-semi_CEDM5_0j
+selection : GVSel
+O_1 Mean : -0.000377576
+O_1 1-sigma Err (propagate from stat.) : 0.000939316
+(N_Ot_P),(N_Otb_P) : 1144987, 1145919
+(N_Ot_N),(N_Otb_N) : 277346, 277238
+1/sqrt(N of events) : 0.000592818
+numberOfEntries : 10000000
+numberOfPassSelection : 2845490
+=====================================
+
+time : 200512_1616
+dataset : test-semi_SM_test
+selection : NoSel
+O_1 Mean : -0.00101107
+O_1 1-sigma Err (propagate from stat.) : 0.00180475
+(N_Ot_P),(N_Otb_P) : 357541, 357934
+(N_Ot_N),(N_Otb_N) : 142361, 142164
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200512_1616
+dataset : test-semi_2HDM_LO_test1
+selection : NoSel
+O_1 Mean : 0.00480238
+O_1 1-sigma Err (propagate from stat.) : 0.00180458
+(N_Ot_P),(N_Otb_P) : 358856, 356708
+(N_Ot_N),(N_Otb_N) : 141806, 142630
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200512_1616
+dataset : test-semi_2HDM_LO_test2
+selection : NoSel
+O_1 Mean : 0.00554912
+O_1 1-sigma Err (propagate from stat.) : 0.0018046
+(N_Ot_P),(N_Otb_P) : 358429, 357119
+(N_Ot_N),(N_Otb_N) : 141517, 142935
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200512_1616
+dataset : test-semi_2HDM_LO_test3
+selection : NoSel
+O_1 Mean : 0.00414393
+O_1 1-sigma Err (propagate from stat.) : 0.00180423
+(N_Ot_P),(N_Otb_P) : 358500, 357245
+(N_Ot_N),(N_Otb_N) : 141653, 142602
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200512_1616
+dataset : test-semi_2HDM_LO_test4
+selection : NoSel
+O_1 Mean : 0.0023432
+O_1 1-sigma Err (propagate from stat.) : 0.00180469
+(N_Ot_P),(N_Otb_P) : 358272, 357234
+(N_Ot_N),(N_Otb_N) : 142044, 142450
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200512_1616
+dataset : test-semi_2HDM_LO_test5
+selection : NoSel
+O_1 Mean : 0.00492453
+O_1 1-sigma Err (propagate from stat.) : 0.00180419
+(N_Ot_P),(N_Otb_P) : 358432, 357334
+(N_Ot_N),(N_Otb_N) : 141475, 142759
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200512_1616
+dataset : test-semi_2HDM_LO_test6
+selection : NoSel
+O_1 Mean : 0.00225386
+O_1 1-sigma Err (propagate from stat.) : 0.00180473
+(N_Ot_P),(N_Otb_P) : 358013, 357471
+(N_Ot_N),(N_Otb_N) : 141972, 142544
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200512_1616
+dataset : test-semi_2HDM_LO_test7
+selection : NoSel
+O_1 Mean : 0.00269657
+O_1 1-sigma Err (propagate from stat.) : 0.00180425
+(N_Ot_P),(N_Otb_P) : 358312, 357426
+(N_Ot_N),(N_Otb_N) : 141836, 142426
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200512_1616
+dataset : test-semi_SM_test
+selection : B1998_semi
+O_1 Mean : -0.00142405
+O_1 1-sigma Err (propagate from stat.) : 0.00240066
+(N_Ot_P),(N_Otb_P) : 184902, 185585
+(N_Ot_N),(N_Otb_N) : 51806, 51781
+1/sqrt(N of events) : 0.00145237
+numberOfEntries : 1000000
+numberOfPassSelection : 474074
+=====================================
+
+time : 200512_1617
+dataset : test-semi_2HDM_LO_test1
+selection : B1998_semi
+O_1 Mean : 0.00434566
+O_1 1-sigma Err (propagate from stat.) : 0.002407
+(N_Ot_P),(N_Otb_P) : 184715, 183352
+(N_Ot_N),(N_Otb_N) : 51127, 51401
+1/sqrt(N of events) : 0.00145773
+numberOfEntries : 1000000
+numberOfPassSelection : 470595
+=====================================
+
+time : 200512_1617
+dataset : test-semi_2HDM_LO_test2
+selection : B1998_semi
+O_1 Mean : 0.00452512
+O_1 1-sigma Err (propagate from stat.) : 0.0024068
+(N_Ot_P),(N_Otb_P) : 184337, 183721
+(N_Ot_N),(N_Otb_N) : 50982, 51491
+1/sqrt(N of events) : 0.00145783
+numberOfEntries : 1000000
+numberOfPassSelection : 470531
+=====================================
+
+time : 200512_1617
+dataset : test-semi_2HDM_LO_test3
+selection : B1998_semi
+O_1 Mean : 0.00276295
+O_1 1-sigma Err (propagate from stat.) : 0.00240616
+(N_Ot_P),(N_Otb_P) : 184486, 183808
+(N_Ot_N),(N_Otb_N) : 51171, 51398
+1/sqrt(N of events) : 0.00145731
+numberOfEntries : 1000000
+numberOfPassSelection : 470863
+=====================================
+
+time : 200512_1617
+dataset : test-semi_2HDM_LO_test4
+selection : B1998_semi
+O_1 Mean : 0.00233772
+O_1 1-sigma Err (propagate from stat.) : 0.00240748
+(N_Ot_P),(N_Otb_P) : 184313, 183604
+(N_Ot_N),(N_Otb_N) : 51166, 51320
+1/sqrt(N of events) : 0.00145802
+numberOfEntries : 1000000
+numberOfPassSelection : 470403
+=====================================
+
+time : 200512_1617
+dataset : test-semi_2HDM_LO_test5
+selection : B1998_semi
+O_1 Mean : 0.0043761
+O_1 1-sigma Err (propagate from stat.) : 0.00240618
+(N_Ot_P),(N_Otb_P) : 184382, 183785
+(N_Ot_N),(N_Otb_N) : 50974, 51466
+1/sqrt(N of events) : 0.00145771
+numberOfEntries : 1000000
+numberOfPassSelection : 470607
+=====================================
+
+time : 200512_1617
+dataset : test-semi_2HDM_LO_test6
+selection : B1998_semi
+O_1 Mean : 0.00245331
+O_1 1-sigma Err (propagate from stat.) : 0.00240725
+(N_Ot_P),(N_Otb_P) : 184191, 183782
+(N_Ot_N),(N_Otb_N) : 51118, 51373
+1/sqrt(N of events) : 0.00145793
+numberOfEntries : 1000000
+numberOfPassSelection : 470464
+=====================================
+
+time : 200512_1617
+dataset : test-semi_2HDM_LO_test7
+selection : B1998_semi
+O_1 Mean : 0.000823516
+O_1 1-sigma Err (propagate from stat.) : 0.00240623
+(N_Ot_P),(N_Otb_P) : 184248, 183864
+(N_Ot_N),(N_Otb_N) : 51187, 51204
+1/sqrt(N of events) : 0.00145787
+numberOfEntries : 1000000
+numberOfPassSelection : 470503
+=====================================
+
+time : 200512_1617
+dataset : test-semi_2HDM_NLO_test1
+selection : NoSel
+O_1 Mean : 0.00447816
+O_1 1-sigma Err (propagate from stat.) : 0.00180408
+(N_Ot_P),(N_Otb_P) : 358347, 357478
+(N_Ot_N),(N_Otb_N) : 141478, 142697
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200512_1617
+dataset : test-semi_2HDM_NLO_test2
+selection : NoSel
+O_1 Mean : 0.00349665
+O_1 1-sigma Err (propagate from stat.) : 0.00180428
+(N_Ot_P),(N_Otb_P) : 358649, 357072
+(N_Ot_N),(N_Otb_N) : 141842, 142437
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200512_1617
+dataset : test-semi_2HDM_NLO_test3
+selection : NoSel
+O_1 Mean : 0.00414393
+O_1 1-sigma Err (propagate from stat.) : 0.00180423
+(N_Ot_P),(N_Otb_P) : 358500, 357245
+(N_Ot_N),(N_Otb_N) : 141653, 142602
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200512_1618
+dataset : test-semi_2HDM_NLO_test4
+selection : NoSel
+O_1 Mean : 0.00412748
+O_1 1-sigma Err (propagate from stat.) : 0.00180385
+(N_Ot_P),(N_Otb_P) : 358424, 357521
+(N_Ot_N),(N_Otb_N) : 141486, 142569
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200512_1618
+dataset : test-semi_2HDM_NLO_test5
+selection : NoSel
+O_1 Mean : 0.00275899
+O_1 1-sigma Err (propagate from stat.) : 0.001805
+(N_Ot_P),(N_Otb_P) : 358103, 357243
+(N_Ot_N),(N_Otb_N) : 142016, 142638
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200512_1618
+dataset : test-semi_2HDM_NLO_test6
+selection : NoSel
+O_1 Mean : 0.00412748
+O_1 1-sigma Err (propagate from stat.) : 0.00180385
+(N_Ot_P),(N_Otb_P) : 358424, 357521
+(N_Ot_N),(N_Otb_N) : 141486, 142569
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200512_1618
+dataset : test-semi_2HDM_NLO_test1
+selection : B1998_semi
+O_1 Mean : 0.00398094
+O_1 1-sigma Err (propagate from stat.) : 0.00240604
+(N_Ot_P),(N_Otb_P) : 184290, 183878
+(N_Ot_N),(N_Otb_N) : 50961, 51445
+1/sqrt(N of events) : 0.00145776
+numberOfEntries : 1000000
+numberOfPassSelection : 470574
+=====================================
+
+time : 200512_1618
+dataset : test-semi_2HDM_NLO_test2
+selection : B1998_semi
+O_1 Mean : 0.00401706
+O_1 1-sigma Err (propagate from stat.) : 0.00240702
+(N_Ot_P),(N_Otb_P) : 184611, 183422
+(N_Ot_N),(N_Otb_N) : 51112, 51385
+1/sqrt(N of events) : 0.00145783
+numberOfEntries : 1000000
+numberOfPassSelection : 470530
+=====================================
+
+time : 200512_1618
+dataset : test-semi_2HDM_NLO_test3
+selection : B1998_semi
+O_1 Mean : 0.00276295
+O_1 1-sigma Err (propagate from stat.) : 0.00240616
+(N_Ot_P),(N_Otb_P) : 184486, 183808
+(N_Ot_N),(N_Otb_N) : 51171, 51398
+1/sqrt(N of events) : 0.00145731
+numberOfEntries : 1000000
+numberOfPassSelection : 470863
+=====================================
+
+time : 200512_1618
+dataset : test-semi_2HDM_NLO_test4
+selection : B1998_semi
+O_1 Mean : 0.00318344
+O_1 1-sigma Err (propagate from stat.) : 0.00240514
+(N_Ot_P),(N_Otb_P) : 184353, 183869
+(N_Ot_N),(N_Otb_N) : 50950, 51294
+1/sqrt(N of events) : 0.00145793
+numberOfEntries : 1000000
+numberOfPassSelection : 470466
+=====================================
+
+time : 200512_1618
+dataset : test-semi_2HDM_NLO_test5
+selection : B1998_semi
+O_1 Mean : 0.0027432
+O_1 1-sigma Err (propagate from stat.) : 0.00240792
+(N_Ot_P),(N_Otb_P) : 184231, 183605
+(N_Ot_N),(N_Otb_N) : 51134, 51372
+1/sqrt(N of events) : 0.00145812
+numberOfEntries : 1000000
+numberOfPassSelection : 470342
+=====================================
+
+time : 200512_1618
+dataset : test-semi_2HDM_NLO_test6
+selection : B1998_semi
+O_1 Mean : 0.00318344
+O_1 1-sigma Err (propagate from stat.) : 0.00240514
+(N_Ot_P),(N_Otb_P) : 184353, 183869
+(N_Ot_N),(N_Otb_N) : 50950, 51294
+1/sqrt(N of events) : 0.00145793
+numberOfEntries : 1000000
+numberOfPassSelection : 470466
+=====================================
+
+time : 200513_1450
+dataset : test-semi_2HDM_test2-2
+selection : NoSel
+O_1 Mean : -nan
+O_1 1-sigma Err (propagate from stat.) : -nan
+(N_Ot_P),(N_Otb_P) : 0, 0
+(N_Ot_N),(N_Otb_N) : 0, 0
+1/sqrt(N of events) : inf
+numberOfEntries : 0
+numberOfPassSelection : 0
+=====================================
+
+time : 200513_1451
+dataset : test-semi_2HDM_LO_test2-2
+selection : NoSel
+O_1 Mean : 0.00225252
+O_1 1-sigma Err (propagate from stat.) : 0.00180447
+(N_Ot_P),(N_Otb_P) : 357943, 357679
+(N_Ot_N),(N_Otb_N) : 141848, 142530
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200513_1451
+dataset : test-semi_2HDM_LO_test3
+selection : NoSel
+O_1 Mean : 0.00414393
+O_1 1-sigma Err (propagate from stat.) : 0.00180423
+(N_Ot_P),(N_Otb_P) : 358500, 357245
+(N_Ot_N),(N_Otb_N) : 141653, 142602
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200513_1455
+dataset : test-semi_2HDM_LO_test3
+selection : B1998_semi
+O_1 Mean : 0.00276295
+O_1 1-sigma Err (propagate from stat.) : 0.00240616
+(N_Ot_P),(N_Otb_P) : 184486, 183808
+(N_Ot_N),(N_Otb_N) : 51171, 51398
+1/sqrt(N of events) : 0.00145731
+numberOfEntries : 1000000
+numberOfPassSelection : 470863
+=====================================
+
+time : 200513_1455
+dataset : test-semi_2HDM_test2-2
+selection : B1998_semi
+O_1 Mean : -nan
+O_1 1-sigma Err (propagate from stat.) : -nan
+(N_Ot_P),(N_Otb_P) : 0, 0
+(N_Ot_N),(N_Otb_N) : 0, 0
+1/sqrt(N of events) : inf
+numberOfEntries : 0
+numberOfPassSelection : 0
+=====================================
+
+time : 200513_1456
+dataset : test-semi_2HDM_LO_test2-2
+selection : B1998_semi
+O_1 Mean : 0.00151793
+O_1 1-sigma Err (propagate from stat.) : 0.00240515
+(N_Ot_P),(N_Otb_P) : 184273, 184049
+(N_Ot_N),(N_Otb_N) : 51094, 51260
+1/sqrt(N of events) : 0.0014576
+numberOfEntries : 1000000
+numberOfPassSelection : 470676
+=====================================
+
+time : 200514_1305
+dataset : test-semi_2HDMtII_NLO_test1
+selection : B1998_semi
+O_1 Mean : -0.00275585
+O_1 1-sigma Err (propagate from stat.) : 0.0024048
+(N_Ot_P),(N_Otb_P) : 183877, 184389
+(N_Ot_N),(N_Otb_N) : 51240, 50968
+1/sqrt(N of events) : 0.00145791
+numberOfEntries : 1000000
+numberOfPassSelection : 470474
+=====================================
+
+time : 200514_1305
+dataset : test-semi_2HDMtII_NLO_test1
+selection : NoSel
+O_1 Mean : -0.00193763
+O_1 1-sigma Err (propagate from stat.) : 0.00180222
+(N_Ot_P),(N_Otb_P) : 357990, 358807
+(N_Ot_N),(N_Otb_N) : 141778, 141425
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200514_1353
+dataset : test-semi_2HDMtII_NLO_test2
+selection : B1998_semi
+O_1 Mean : -0.00278724
+O_1 1-sigma Err (propagate from stat.) : 0.00240656
+(N_Ot_P),(N_Otb_P) : 183954, 183931
+(N_Ot_N),(N_Otb_N) : 51327, 50902
+1/sqrt(N of events) : 0.00145847
+numberOfEntries : 1000000
+numberOfPassSelection : 470114
+=====================================
+
+time : 200514_1353
+dataset : test-semi_2HDMtII_NLO_test2
+selection : NoSel
+O_1 Mean : -0.00124238
+O_1 1-sigma Err (propagate from stat.) : 0.00180229
+(N_Ot_P),(N_Otb_P) : 358208, 358553
+(N_Ot_N),(N_Otb_N) : 141768, 141471
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200514_1448
+dataset : test-semi_2HDMtII_NLO_test3
+selection : B1998_semi
+O_1 Mean : -0.00121346
+O_1 1-sigma Err (propagate from stat.) : 0.00240649
+(N_Ot_P),(N_Otb_P) : 184137, 183731
+(N_Ot_N),(N_Otb_N) : 51244, 50949
+1/sqrt(N of events) : 0.00145856
+numberOfEntries : 1000000
+numberOfPassSelection : 470061
+=====================================
+
+time : 200514_1449
+dataset : test-semi_2HDMtII_NLO_test3
+selection : NoSel
+O_1 Mean : -6.88543e-05
+O_1 1-sigma Err (propagate from stat.) : 0.0018024
+(N_Ot_P),(N_Otb_P) : 358480, 358222
+(N_Ot_N),(N_Otb_N) : 141712, 141586
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200514_1450
+dataset : test-semi_2HDMtII_NLO_test4
+selection : NoSel
+O_1 Mean : 0.000953231
+O_1 1-sigma Err (propagate from stat.) : 0.00180282
+(N_Ot_P),(N_Otb_P) : 358311, 358173
+(N_Ot_N),(N_Otb_N) : 141619, 141897
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200514_1452
+dataset : test-semi_2HDMtII_NLO_test4
+selection : B1998_semi
+O_1 Mean : -0.000153886
+O_1 1-sigma Err (propagate from stat.) : 0.00240664
+(N_Ot_P),(N_Otb_P) : 183937, 183959
+(N_Ot_N),(N_Otb_N) : 51137, 51120
+1/sqrt(N of events) : 0.00145841
+numberOfEntries : 1000000
+numberOfPassSelection : 470153
+=====================================
+
+time : 200514_1516
+dataset : test-semi_2HDM_LO_test2-3
+selection : B1998_semi
+O_1 Mean : 0.00434566
+O_1 1-sigma Err (propagate from stat.) : 0.002407
+(N_Ot_P),(N_Otb_P) : 184715, 183352
+(N_Ot_N),(N_Otb_N) : 51127, 51401
+1/sqrt(N of events) : 0.00145773
+numberOfEntries : 1000000
+numberOfPassSelection : 470595
+=====================================
+
+time : 200514_1516
+dataset : test-semi_2HDM_LO_test2-3
+selection : NoSel
+O_1 Mean : 0.00480238
+O_1 1-sigma Err (propagate from stat.) : 0.00180458
+(N_Ot_P),(N_Otb_P) : 358856, 356708
+(N_Ot_N),(N_Otb_N) : 141806, 142630
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200514_1724
+dataset : test-semi_2HDM_LO_test2-4
+selection : NoSel
+O_1 Mean : 0.00447816
+O_1 1-sigma Err (propagate from stat.) : 0.00180408
+(N_Ot_P),(N_Otb_P) : 358347, 357478
+(N_Ot_N),(N_Otb_N) : 141478, 142697
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200514_1724
+dataset : test-semi_2HDM_LO_test2-4
+selection : B1998_semi
+O_1 Mean : 0.00398094
+O_1 1-sigma Err (propagate from stat.) : 0.00240604
+(N_Ot_P),(N_Otb_P) : 184290, 183878
+(N_Ot_N),(N_Otb_N) : 50961, 51445
+1/sqrt(N of events) : 0.00145776
+numberOfEntries : 1000000
+numberOfPassSelection : 470574
+=====================================
+
+time : 200514_1724
+dataset : test-semi_2HDM_NLO_test1-2
+selection : B1998_semi
+O_1 Mean : 0.00401706
+O_1 1-sigma Err (propagate from stat.) : 0.00240702
+(N_Ot_P),(N_Otb_P) : 184611, 183422
+(N_Ot_N),(N_Otb_N) : 51112, 51385
+1/sqrt(N of events) : 0.00145783
+numberOfEntries : 1000000
+numberOfPassSelection : 470530
+=====================================
+
+time : 200514_1724
+dataset : test-semi_2HDM_NLO_test1-2
+selection : NoSel
+O_1 Mean : 0.00349665
+O_1 1-sigma Err (propagate from stat.) : 0.00180428
+(N_Ot_P),(N_Otb_P) : 358649, 357072
+(N_Ot_N),(N_Otb_N) : 141842, 142437
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200514_1729
+dataset : test-semi_2HDM_NLO_test2-2
+selection : NoSel
+O_1 Mean : 0.00447816
+O_1 1-sigma Err (propagate from stat.) : 0.00180408
+(N_Ot_P),(N_Otb_P) : 358347, 357478
+(N_Ot_N),(N_Otb_N) : 141478, 142697
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200514_1729
+dataset : test-semi_2HDM_NLO_test2-2
+selection : B1998_semi
+O_1 Mean : 0.00398094
+O_1 1-sigma Err (propagate from stat.) : 0.00240604
+(N_Ot_P),(N_Otb_P) : 184290, 183878
+(N_Ot_N),(N_Otb_N) : 50961, 51445
+1/sqrt(N of events) : 0.00145776
+numberOfEntries : 1000000
+numberOfPassSelection : 470574
+=====================================
+
+time : 200514_1730
+dataset : test-semi_2HDM_LO_test1-2
+selection : B1998_semi
+O_1 Mean : 0.00233772
+O_1 1-sigma Err (propagate from stat.) : 0.00240748
+(N_Ot_P),(N_Otb_P) : 184313, 183604
+(N_Ot_N),(N_Otb_N) : 51166, 51320
+1/sqrt(N of events) : 0.00145802
+numberOfEntries : 1000000
+numberOfPassSelection : 470403
+=====================================
+
+time : 200514_1730
+dataset : test-semi_2HDM_LO_test1-2
+selection : NoSel
+O_1 Mean : 0.0023432
+O_1 1-sigma Err (propagate from stat.) : 0.00180469
+(N_Ot_P),(N_Otb_P) : 358272, 357234
+(N_Ot_N),(N_Otb_N) : 142044, 142450
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200514_1730
+dataset : test-semi_2HDMtII_NLO_test5
+selection : B1998_semi
+O_1 Mean : -0.00237216
+O_1 1-sigma Err (propagate from stat.) : 0.00240467
+(N_Ot_P),(N_Otb_P) : 183931, 184318
+(N_Ot_N),(N_Otb_N) : 51203, 50954
+1/sqrt(N of events) : 0.00145802
+numberOfEntries : 1000000
+numberOfPassSelection : 470406
+=====================================
+
+time : 200514_1731
+dataset : test-semi_2HDMtII_NLO_test5
+selection : NoSel
+O_1 Mean : -0.00144844
+O_1 1-sigma Err (propagate from stat.) : 0.00180252
+(N_Ot_P),(N_Otb_P) : 358004, 358637
+(N_Ot_N),(N_Otb_N) : 141807, 141552
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200514_2342
+dataset : test-semi_2HDM_LO_test1-3
+selection : NoSel
+O_1 Mean : 0.00480238
+O_1 1-sigma Err (propagate from stat.) : 0.00180458
+(N_Ot_P),(N_Otb_P) : 358856, 356708
+(N_Ot_N),(N_Otb_N) : 141806, 142630
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200514_2342
+dataset : test-semi_2HDM_LO_test1-3
+selection : B1998_semi
+O_1 Mean : 0.00434566
+O_1 1-sigma Err (propagate from stat.) : 0.002407
+(N_Ot_P),(N_Otb_P) : 184715, 183352
+(N_Ot_N),(N_Otb_N) : 51127, 51401
+1/sqrt(N of events) : 0.00145773
+numberOfEntries : 1000000
+numberOfPassSelection : 470595
+=====================================
+
+time : 200514_2343
+dataset : test-semi_2HDM_LO_test2-3
+selection : B1998_semi
+O_1 Mean : 0.00434566
+O_1 1-sigma Err (propagate from stat.) : 0.002407
+(N_Ot_P),(N_Otb_P) : 184715, 183352
+(N_Ot_N),(N_Otb_N) : 51127, 51401
+1/sqrt(N of events) : 0.00145773
+numberOfEntries : 1000000
+numberOfPassSelection : 470595
+=====================================
+
+time : 200514_2343
+dataset : test-semi_2HDM_LO_test2-3
+selection : NoSel
+O_1 Mean : 0.00480238
+O_1 1-sigma Err (propagate from stat.) : 0.00180458
+(N_Ot_P),(N_Otb_P) : 358856, 356708
+(N_Ot_N),(N_Otb_N) : 141806, 142630
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200516_0418
+dataset : test-semi_2HDM_NLO_test8
+selection : NoSel
+O_1 Mean : 0.00492453
+O_1 1-sigma Err (propagate from stat.) : 0.00180419
+(N_Ot_P),(N_Otb_P) : 358432, 357334
+(N_Ot_N),(N_Otb_N) : 141475, 142759
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200516_0418
+dataset : test-semi_2HDM_NLO_test9
+selection : NoSel
+O_1 Mean : 0.00275899
+O_1 1-sigma Err (propagate from stat.) : 0.001805
+(N_Ot_P),(N_Otb_P) : 358103, 357243
+(N_Ot_N),(N_Otb_N) : 142016, 142638
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200516_0419
+dataset : test-semi_2HDM_NLO_test9
+selection : B1998_semi
+O_1 Mean : 0.0027432
+O_1 1-sigma Err (propagate from stat.) : 0.00240792
+(N_Ot_P),(N_Otb_P) : 184231, 183605
+(N_Ot_N),(N_Otb_N) : 51134, 51372
+1/sqrt(N of events) : 0.00145812
+numberOfEntries : 1000000
+numberOfPassSelection : 470342
+=====================================
+
+time : 200516_0419
+dataset : test-semi_2HDM_NLO_test8
+selection : B1998_semi
+O_1 Mean : 0.0043761
+O_1 1-sigma Err (propagate from stat.) : 0.00240618
+(N_Ot_P),(N_Otb_P) : 184382, 183785
+(N_Ot_N),(N_Otb_N) : 50974, 51466
+1/sqrt(N of events) : 0.00145771
+numberOfEntries : 1000000
+numberOfPassSelection : 470607
+=====================================
+
+time : 200518_1154
+dataset : test-semi_2HDM_n_test1
+selection : NoSel
+O_1 Mean : 0.00174961
+O_1 1-sigma Err (propagate from stat.) : 0.00180377
+(N_Ot_P),(N_Otb_P) : 358458, 357528
+(N_Ot_N),(N_Otb_N) : 141886, 142128
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200518_1154
+dataset : test-semi_2HDM_n_test1
+selection : B1998_semi
+O_1 Mean : -0.000236205
+O_1 1-sigma Err (propagate from stat.) : 0.00239571
+(N_Ot_P),(N_Otb_P) : 186092, 185676
+(N_Ot_N),(N_Otb_N) : 51947, 51795
+1/sqrt(N of events) : 0.00145017
+numberOfEntries : 1000000
+numberOfPassSelection : 475510
+=====================================
+
+time : 200518_1156
+dataset : test-semi_2HDM_NLO_test8
+selection : NoSel
+O_1 Mean : 0.00492453
+O_1 1-sigma Err (propagate from stat.) : 0.00180419
+(N_Ot_P),(N_Otb_P) : 358432, 357334
+(N_Ot_N),(N_Otb_N) : 141475, 142759
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200518_1156
+dataset : test-semi_2HDM_LO_test8
+selection : NoSel
+O_1 Mean : -nan
+O_1 1-sigma Err (propagate from stat.) : -nan
+(N_Ot_P),(N_Otb_P) : 0, 0
+(N_Ot_N),(N_Otb_N) : 0, 0
+1/sqrt(N of events) : inf
+numberOfEntries : 0
+numberOfPassSelection : 0
+=====================================
+
+time : 200601_2111
+dataset : 10_7-semi_SM_0j
+selection : NoSel
+O_1 Mean : -0.000138615
+O_1 1-sigma Err (propagate from stat.) : 0.000570469
+(N_Ot_P),(N_Otb_P) : 3578277, 3580502
+(N_Ot_N),(N_Otb_N) : 1420411, 1420810
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200601_2112
+dataset : 10_7-semi_CEDM0pt5_0j
+selection : NoSel
+O_1 Mean : -0.000686392
+O_1 1-sigma Err (propagate from stat.) : 0.000570265
+(N_Ot_P),(N_Otb_P) : 3586258, 3575890
+(N_Ot_N),(N_Otb_N) : 1422178, 1415674
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200601_2113
+dataset : 10_7-semi_CEDM1_0j
+selection : NoSel
+O_1 Mean : -0.000208791
+O_1 1-sigma Err (propagate from stat.) : 0.000569525
+(N_Ot_P),(N_Otb_P) : 3586264, 3588030
+(N_Ot_N),(N_Otb_N) : 1412869, 1412837
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200601_2114
+dataset : 10_7-semi_CEDM1pt5_0j
+selection : NoSel
+O_1 Mean : -0.000131029
+O_1 1-sigma Err (propagate from stat.) : 0.000568736
+(N_Ot_P),(N_Otb_P) : 3600494, 3586693
+(N_Ot_N),(N_Otb_N) : 1409335, 1403478
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200601_2115
+dataset : 10_7-semi_CEDM2_0j
+selection : NoSel
+O_1 Mean : 0.000617817
+O_1 1-sigma Err (propagate from stat.) : 0.000567523
+(N_Ot_P),(N_Otb_P) : 3608488, 3598291
+(N_Ot_N),(N_Otb_N) : 1397515, 1395706
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200601_2116
+dataset : 10_7-semi_CEDM2pt5_0j
+selection : NoSel
+O_1 Mean : -0.000404898
+O_1 1-sigma Err (propagate from stat.) : 0.000566164
+(N_Ot_P),(N_Otb_P) : 3613816, 3614675
+(N_Ot_N),(N_Otb_N) : 1386290, 1385219
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200601_2117
+dataset : 10_7-semi_CEDM3_0j
+selection : NoSel
+O_1 Mean : 0.000709269
+O_1 1-sigma Err (propagate from stat.) : 0.000564546
+(N_Ot_P),(N_Otb_P) : 3629046, 3624953
+(N_Ot_N),(N_Otb_N) : 1372553, 1373448
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200601_2118
+dataset : 10_7-semi_CEDM3pt5_0j
+selection : NoSel
+O_1 Mean : -0.000248289
+O_1 1-sigma Err (propagate from stat.) : 0.000562844
+(N_Ot_P),(N_Otb_P) : 3644841, 3635604
+(N_Ot_N),(N_Otb_N) : 1361929, 1357626
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200601_2119
+dataset : 10_7-semi_CEDM4_0j
+selection : NoSel
+O_1 Mean : -0.000200388
+O_1 1-sigma Err (propagate from stat.) : 0.000561052
+(N_Ot_P),(N_Otb_P) : 3653107, 3654767
+(N_Ot_N),(N_Otb_N) : 1346100, 1346026
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200601_2120
+dataset : 10_7-semi_CEDM4pt5_0j
+selection : NoSel
+O_1 Mean : -0.000868856
+O_1 1-sigma Err (propagate from stat.) : 0.000559301
+(N_Ot_P),(N_Otb_P) : 3667107, 3667183
+(N_Ot_N),(N_Otb_N) : 1334322, 1331388
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200601_2122
+dataset : 10_7-semi_CEDM5_0j
+selection : NoSel
+O_1 Mean : -0.000456288
+O_1 1-sigma Err (propagate from stat.) : 0.000557454
+(N_Ot_P),(N_Otb_P) : 3679641, 3682098
+(N_Ot_N),(N_Otb_N) : 1319465, 1318796
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200603_0228
+dataset : 10_7-semi_2HDM_NLO_m1
+selection : NoSel
+O_1 Mean : -0.000192809
+O_1 1-sigma Err (propagate from stat.) : 0.000570597
+(N_Ot_P),(N_Otb_P) : 3578022, 3578640
+(N_Ot_N),(N_Otb_N) : 1421883, 1421455
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+

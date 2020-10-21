@@ -1,0 +1,565 @@
+time : 200520_1821
+dataset : 10_7-dilep_SM_0j
+M_Acp : -3.86e-05
+SD_Acp : 0.000316228
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200520_1822
+dataset : test-dilep_2HDM_NLO_test8
+M_Acp : 0.000516
+SD_Acp : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200520_1823
+dataset : test-dilep_SM_test
+M_Acp : -0.001548
+SD_Acp : 0.000999999
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200520_1824
+dataset : test-dilep_2HDM_NLO_test9
+M_Acp : 0.000516
+SD_Acp : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200520_1824
+dataset : test-dilep_2HDM_LO_test1
+M_Acp : 0.000986
+SD_Acp : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200520_1945
+dataset : test-dilep_2HDM_LO_test2
+M_Acp : 0.000516
+SD_Acp : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200520_1945
+dataset : test-dilep_2HDM_LO_test3
+M_Acp : -nan
+SD_Acp : -nan
+1/sqrt(N of events) : inf
+numberOfEntries : 0
+numberOfPassSelection : 0
+=====================================
+
+time : 200520_1945
+dataset : test-dilep_2HDM_LO_test4
+M_Acp : 0.000516
+SD_Acp : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200520_1952
+dataset : test-dilep_SM_test
+(N_P,N_N) : 499226, 500774
+M_Acp : -0.001548
+SD_Acp : 0.000999999
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+=====================================
+
+time : 200520_1954
+dataset : test-dilep_2HDM_LO_test1
+(N_P,N_N) : 500493, 499507
+M_Acp : 0.000986
+SD_Acp : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200520_1954
+dataset : test-dilep_2HDM_LO_test2
+(N_P,N_N) : 500258, 499742
+M_Acp : 0.000516
+SD_Acp : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200520_1954
+dataset : test-dilep_2HDM_NLO_test8
+(N_P,N_N) : 500258, 499742
+M_Acp : 0.000516
+SD_Acp : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200520_1954
+dataset : test-dilep_2HDM_NLO_test9
+(N_P,N_N) : 500258, 499742
+M_Acp : 0.000516
+SD_Acp : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200521_0455
+dataset : test-dilep_2HDM_NLO_test1
+(N_P,N_N) : 500258, 499742
+M_Acp : 0.000516
+SD_Acp : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200521_0456
+dataset : test-dilep_2HDM_NLO_test11
+(N_P,N_N) : 500493, 499507
+M_Acp : 0.000986
+SD_Acp : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200521_0456
+dataset : test-dilep_2HDM_NLO_test12
+(N_P,N_N) : 500493, 499507
+M_Acp : 0.000986
+SD_Acp : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+=====================================
+
+time : 200528_2254
+dataset : test-1k_dilep_2HDM_NLO_t1
+(N_P,N_N) : 498, 502
+M_Acp : -0.004
+SD_Acp : 0.0316225
+1/sqrt(N of events) : 0.0316228
+numberOfEntries : 1000
+numberOfPassSelection : 1000
+=====================================
+
+time : 200528_2254
+dataset : test-1k_dilep_2HDM_NLO_t5
+(N_P,N_N) : 497, 503
+M_Acp : -0.006
+SD_Acp : 0.0316222
+1/sqrt(N of events) : 0.0316228
+numberOfEntries : 1000
+numberOfPassSelection : 1000
+=====================================
+
+time : 200528_2254
+dataset : test-1k_dilep_2HDM_NLO_t6
+(N_P,N_N) : 498, 502
+M_Acp : -0.004
+SD_Acp : 0.0316225
+1/sqrt(N of events) : 0.0316228
+numberOfEntries : 1000
+numberOfPassSelection : 1000
+=====================================
+
+time : 200528_2254
+dataset : test-1k_dilep_2HDM_NLO_t7
+(N_P,N_N) : 497, 503
+M_Acp : -0.006
+SD_Acp : 0.0316222
+1/sqrt(N of events) : 0.0316228
+numberOfEntries : 1000
+numberOfPassSelection : 1000
+=====================================
+
+time : 200528_2254
+dataset : test-1k_dilep_2HDM_NLO_t8
+(N_P,N_N) : 497, 503
+M_Acp : -0.006
+SD_Acp : 0.0316222
+1/sqrt(N of events) : 0.0316228
+numberOfEntries : 1000
+numberOfPassSelection : 1000
+=====================================
+
+time : 200528_2254
+dataset : test-1k_dilep_2HDM_NLO_t9
+(N_P,N_N) : 498, 502
+M_Acp : -0.004
+SD_Acp : 0.0316225
+1/sqrt(N of events) : 0.0316228
+numberOfEntries : 1000
+numberOfPassSelection : 1000
+=====================================
+
+time : 200528_2254
+dataset : test-1k_dilep_2HDM_NLO_t10
+(N_P,N_N) : 497, 503
+M_Acp : -0.006
+SD_Acp : 0.0316222
+1/sqrt(N of events) : 0.0316228
+numberOfEntries : 1000
+numberOfPassSelection : 1000
+=====================================
+
+time : 200528_2256
+dataset : test-dilep_2HDM_NLO_t1
+(N_P,N_N) : 500070, 499930
+M_Acp : 0.00014
+SD_Acp : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200528_2256
+dataset : test-dilep_2HDM_NLO_t2
+(N_P,N_N) : 500070, 499930
+M_Acp : 0.00014
+SD_Acp : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200528_2256
+dataset : test-dilep_2HDM_NLO_t3
+(N_P,N_N) : 500070, 499930
+M_Acp : 0.00014
+SD_Acp : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200528_2256
+dataset : test-dilep_2HDM_NLO_t4
+(N_P,N_N) : 500070, 499930
+M_Acp : 0.00014
+SD_Acp : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200528_2256
+dataset : test-dilep_2HDM_NLO_t5
+(N_P,N_N) : 499904, 500096
+M_Acp : -0.000192
+SD_Acp : 0.001
+1/sqrt(N of events) : 0.001
+numberOfEntries : 1000000
+numberOfPassSelection : 1000000
+=====================================
+
+time : 200528_2312
+dataset : test-10k_dilep_2HDM_NLO_t1
+(N_P,N_N) : 4971, 5029
+M_Acp : -0.0058
+SD_Acp : 0.00999983
+1/sqrt(N of events) : 0.01
+numberOfEntries : 10000
+numberOfPassSelection : 10000
+=====================================
+
+time : 200528_2312
+dataset : test-10k_dilep_2HDM_NLO_t5
+(N_P,N_N) : 4939, 5061
+M_Acp : -0.0122
+SD_Acp : 0.00999926
+1/sqrt(N of events) : 0.01
+numberOfEntries : 10000
+numberOfPassSelection : 10000
+=====================================
+
+time : 200528_2312
+dataset : test-10k_dilep_2HDM_NLO_t6
+(N_P,N_N) : 4939, 5061
+M_Acp : -0.0122
+SD_Acp : 0.00999926
+1/sqrt(N of events) : 0.01
+numberOfEntries : 10000
+numberOfPassSelection : 10000
+=====================================
+
+time : 200528_2312
+dataset : test-10k_dilep_2HDM_NLO_t7
+(N_P,N_N) : 4971, 5029
+M_Acp : -0.0058
+SD_Acp : 0.00999983
+1/sqrt(N of events) : 0.01
+numberOfEntries : 10000
+numberOfPassSelection : 10000
+=====================================
+
+time : 200528_2313
+dataset : test-10k_dilep_2HDM_NLO_t8
+(N_P,N_N) : 4971, 5029
+M_Acp : -0.0058
+SD_Acp : 0.00999983
+1/sqrt(N of events) : 0.01
+numberOfEntries : 10000
+numberOfPassSelection : 10000
+=====================================
+
+time : 200528_2313
+dataset : test-10k_dilep_2HDM_NLO_t9
+(N_P,N_N) : 4971, 5029
+M_Acp : -0.0058
+SD_Acp : 0.00999983
+1/sqrt(N of events) : 0.01
+numberOfEntries : 10000
+numberOfPassSelection : 10000
+=====================================
+
+time : 200528_2313
+dataset : test-10k_dilep_2HDM_NLO_t10
+(N_P,N_N) : 4971, 5029
+M_Acp : -0.0058
+SD_Acp : 0.00999983
+1/sqrt(N of events) : 0.01
+numberOfEntries : 10000
+numberOfPassSelection : 10000
+=====================================
+
+time : 200528_2323
+dataset : test-10k_dilep_2HDM_NLO_t4
+(N_P,N_N) : 4939, 5061
+M_Acp : -0.0122
+SD_Acp : 0.00999926
+1/sqrt(N of events) : 0.01
+numberOfEntries : 10000
+numberOfPassSelection : 10000
+=====================================
+
+time : 200529_0325
+dataset : test-10k_dilep_2HDM_NLO_t2
+(N_P,N_N) : 4971, 5029
+M_Acp : -0.0058
+SD_Acp : 0.00999983
+1/sqrt(N of events) : 0.01
+numberOfEntries : 10000
+numberOfPassSelection : 10000
+=====================================
+
+time : 200529_0325
+dataset : test-10k_dilep_2HDM_NLO_t3
+(N_P,N_N) : 4939, 5061
+M_Acp : -0.0122
+SD_Acp : 0.00999926
+1/sqrt(N of events) : 0.01
+numberOfEntries : 10000
+numberOfPassSelection : 10000
+=====================================
+
+time : 200529_1441
+dataset : test-10k_dilep_2HDM_NLO_t11
+(N_P,N_N) : 4939, 5061
+M_Acp : -0.0122
+SD_Acp : 0.00999926
+1/sqrt(N of events) : 0.01
+numberOfEntries : 10000
+numberOfPassSelection : 10000
+=====================================
+
+time : 200529_1442
+dataset : test-10k_dilep_2HDM_NLO_t12
+(N_P,N_N) : 4939, 5061
+M_Acp : -0.0122
+SD_Acp : 0.00999926
+1/sqrt(N of events) : 0.01
+numberOfEntries : 10000
+numberOfPassSelection : 10000
+=====================================
+
+time : 200529_1442
+dataset : test-10k_dilep_2HDM_NLO_t13
+(N_P,N_N) : 4939, 5061
+M_Acp : -0.0122
+SD_Acp : 0.00999926
+1/sqrt(N of events) : 0.01
+numberOfEntries : 10000
+numberOfPassSelection : 10000
+=====================================
+
+time : 200529_1442
+dataset : test-10k_dilep_2HDM_NLO_t14
+(N_P,N_N) : 4971, 5029
+M_Acp : -0.0058
+SD_Acp : 0.00999983
+1/sqrt(N of events) : 0.01
+numberOfEntries : 10000
+numberOfPassSelection : 10000
+=====================================
+
+time : 200529_1442
+dataset : test-10k_dilep_2HDM_NLO_t15
+(N_P,N_N) : 4971, 5029
+M_Acp : -0.0058
+SD_Acp : 0.00999983
+1/sqrt(N of events) : 0.01
+numberOfEntries : 10000
+numberOfPassSelection : 10000
+=====================================
+
+time : 200529_1442
+dataset : test-10k_dilep_2HDM_NLO_t16
+(N_P,N_N) : 4971, 5029
+M_Acp : -0.0058
+SD_Acp : 0.00999983
+1/sqrt(N of events) : 0.01
+numberOfEntries : 10000
+numberOfPassSelection : 10000
+=====================================
+
+time : 200529_1442
+dataset : test-10k_dilep_2HDM_NLO_t50
+(N_P,N_N) : 4971, 5029
+M_Acp : -0.0058
+SD_Acp : 0.00999983
+1/sqrt(N of events) : 0.01
+numberOfEntries : 10000
+numberOfPassSelection : 10000
+=====================================
+
+time : 200529_1442
+dataset : test-10k_dilep_2HDM_NLO_t51
+(N_P,N_N) : 4971, 5029
+M_Acp : -0.0058
+SD_Acp : 0.00999983
+1/sqrt(N of events) : 0.01
+numberOfEntries : 10000
+numberOfPassSelection : 10000
+=====================================
+
+time : 200602_1829
+dataset : 10_7-dilep_SM_0j
+(N_P,N_N) : 4.99981e+06, 5.00019e+06
+M_Acp : -3.86e-05
+SD_Acp : 0.000316228
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200602_1830
+dataset : 10_7-dilep_CEDM0pt5_0j
+(N_P,N_N) : 5.00049e+06, 4.99951e+06
+M_Acp : 9.74e-05
+SD_Acp : 0.000316228
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200602_1831
+dataset : 10_7-dilep_CEDM1_0j
+(N_P,N_N) : 5.00018e+06, 4.99982e+06
+M_Acp : 3.52e-05
+SD_Acp : 0.000316228
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200602_1831
+dataset : 10_7-dilep_CEDM1pt5_0j
+(N_P,N_N) : 5.00095e+06, 4.99905e+06
+M_Acp : 0.0001904
+SD_Acp : 0.000316228
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200602_1832
+dataset : 10_7-dilep_CEDM2_0j
+(N_P,N_N) : 5.00285e+06, 4.99715e+06
+M_Acp : 0.0005696
+SD_Acp : 0.000316228
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200602_1833
+dataset : 10_7-dilep_CEDM2pt5_0j
+(N_P,N_N) : 5.00275e+06, 4.99725e+06
+M_Acp : 0.0005494
+SD_Acp : 0.000316228
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200602_1833
+dataset : 10_7-dilep_CEDM3_0j
+(N_P,N_N) : 5.00198e+06, 4.99802e+06
+M_Acp : 0.0003964
+SD_Acp : 0.000316228
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200602_1834
+dataset : 10_7-dilep_CEDM3pt5_0j
+(N_P,N_N) : 5.00114e+06, 4.99886e+06
+M_Acp : 0.000228
+SD_Acp : 0.000316228
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200602_1834
+dataset : 10_7-dilep_CEDM4_0j
+(N_P,N_N) : 5.00061e+06, 4.99939e+06
+M_Acp : 0.0001222
+SD_Acp : 0.000316228
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200602_1835
+dataset : 10_7-dilep_CEDM4pt5_0j
+(N_P,N_N) : 5.00039e+06, 4.99961e+06
+M_Acp : 7.82e-05
+SD_Acp : 0.000316228
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+
+time : 200602_1836
+dataset : 10_7-dilep_CEDM5_0j
+(N_P,N_N) : 4.99906e+06, 5.00094e+06
+M_Acp : -0.000189
+SD_Acp : 0.000316228
+1/sqrt(N of events) : 0.000316228
+numberOfEntries : 10000000
+numberOfPassSelection : 10000000
+=====================================
+

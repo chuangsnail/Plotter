@@ -1,0 +1,60 @@
+==================================================
+SetName : test-dilep_SM_test ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200515_1429
+test-dilep_SM_test_NoSel_B1993_A1_M:-0.00101874
+test-dilep_SM_test_NoSel_B1993_A1_E:0.001
+==================================================
+==================================================
+SetName : test-dilep_2HDM_LO_test1 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200515_1430
+test-dilep_2HDM_LO_test1_NoSel_B1993_A1_M:0.000399011
+test-dilep_2HDM_LO_test1_NoSel_B1993_A1_E:0.001
+==================================================
+==================================================
+SetName : test-dilep_2HDM_LO_test2 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200515_1430
+test-dilep_2HDM_LO_test2_NoSel_B1993_A1_M:-7.26463e-05
+test-dilep_2HDM_LO_test2_NoSel_B1993_A1_E:0.001
+==================================================
+==================================================
+SetName : test-dilep_2HDM_LO_test3 ,pass_sel : 0 ,total_entries : 0
+time : 200515_1430
+test-dilep_2HDM_LO_test3_NoSel_B1993_A1_M:-nan
+test-dilep_2HDM_LO_test3_NoSel_B1993_A1_E:inf
+==================================================
+==================================================
+SetName : test-dilep_2HDM_LO_test4 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200515_1430
+test-dilep_2HDM_LO_test4_NoSel_B1993_A1_M:-7.26463e-05
+test-dilep_2HDM_LO_test4_NoSel_B1993_A1_E:0.001
+==================================================
+==================================================
+SetName : test-dilep_2HDM_LO_test5 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200515_1430
+test-dilep_2HDM_LO_test5_NoSel_B1993_A1_M:-7.26463e-05
+test-dilep_2HDM_LO_test5_NoSel_B1993_A1_E:0.001
+==================================================
+==================================================
+SetName : test-dilep_2HDM_LO_test6 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200515_1430
+test-dilep_2HDM_LO_test6_NoSel_B1993_A1_M:0.000399011
+test-dilep_2HDM_LO_test6_NoSel_B1993_A1_E:0.001
+==================================================
+==================================================
+SetName : test-dilep_2HDM_LO_test7 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200515_1431
+test-dilep_2HDM_LO_test7_NoSel_B1993_A1_M:-7.26464e-05
+test-dilep_2HDM_LO_test7_NoSel_B1993_A1_E:0.001
+==================================================
+==================================================
+SetName : test-dilep_2HDM_NLO_test8 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200516_0419
+test-dilep_2HDM_NLO_test8_NoSel_B1993_A1_M:-7.26464e-05
+test-dilep_2HDM_NLO_test8_NoSel_B1993_A1_E:0.001
+==================================================
+==================================================
+SetName : test-dilep_2HDM_NLO_test9 ,pass_sel : 1000000 ,total_entries : 1000000
+time : 200516_0420
+test-dilep_2HDM_NLO_test9_NoSel_B1993_A1_M:-7.26463e-05
+test-dilep_2HDM_NLO_test9_NoSel_B1993_A1_E:0.001
+==================================================

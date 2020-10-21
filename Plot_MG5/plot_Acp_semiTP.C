@@ -4,11 +4,11 @@
 #include <fstream>
 #include <iomanip>
 
-#define YBound 1.0		//if want to see artificial Acp , tune it to be 5.0
+#define YBound 3.5		//if want to see artificial Acp , tune it to be 5.0
 
 using namespace std;
 
-string obs_name[4] = { "O_{3}", "O_{6}", "O_{12}", "O_{13}" };
+string obs_name[4] = { "O_{3}", "O_{6}", "O_{12}", "O_{14}" };
 string y_title = "A'_{cp} [%]";
 
 void PlotAcp( const string& filename, const string& channel );
@@ -193,8 +193,61 @@ void exe()
 */
 	//PlotAcp("TP_semilep_genAcp_10_6-semi_CEDM5_1j","t");
 
-	PlotAcp("TP_semilep_genAcp_NoSel_test-semi_2HDM_LO_test2","t");
+	//PlotAcp("TP_semilep_genAcp_NoSel_test-semi_2HDM_LO_test2","t");
+
 	
+	PlotAcp("a05_MLP_Mlbcut_DetBiasAcp_SRbkg_200928_2208","t");
+	PlotAcp("a05_MLP_Mlbcut_DetBiasAcp_SRbkg_200928_2208","mu");
+	PlotAcp("a05_MLP_Mlbcut_DetBiasAcp_SRbkg_200928_2208","el");
+
+	PlotAcp("a05_MLP_noMlbcut_DetBiasAcp_SRbkg_200928_2207","t");
+	PlotAcp("a05_MLP_noMlbcut_DetBiasAcp_SRbkg_200928_2207","mu");
+	PlotAcp("a05_MLP_noMlbcut_DetBiasAcp_SRbkg_200928_2207","el");
+
+	PlotAcp("chi2_Mlbcut_DetBiasAcp_SRbkg_200928_2207","t");
+	PlotAcp("chi2_Mlbcut_DetBiasAcp_SRbkg_200928_2207","mu");
+	PlotAcp("chi2_Mlbcut_DetBiasAcp_SRbkg_200928_2207","el");
+
+
+/*
+	PlotAcp("a05_MLP_Mlbcut_DetBiasAcp_SRtt_200928_2222","t");
+	PlotAcp("a05_MLP_Mlbcut_DetBiasAcp_SRtt_200928_2222","mu");
+	PlotAcp("a05_MLP_Mlbcut_DetBiasAcp_SRtt_200928_2222","el");
+
+	PlotAcp("a05_MLP_noMlbcut_DetBiasAcp_SRtt_200928_2219","t");
+	PlotAcp("a05_MLP_noMlbcut_DetBiasAcp_SRtt_200928_2219","mu");
+	PlotAcp("a05_MLP_noMlbcut_DetBiasAcp_SRtt_200928_2219","el");
+
+	PlotAcp("chi2_Mlbcut_DetBiasAcp_SRtt_200928_2217","t");
+	PlotAcp("chi2_Mlbcut_DetBiasAcp_SRtt_200928_2217","mu");
+	PlotAcp("chi2_Mlbcut_DetBiasAcp_SRtt_200928_2217","el");
+*/
+
+// 2020 10 16
+/*
+	PlotAcp("TP_semilep_genAcp_10_6-semi_CEDM5_1j","t");
+	PlotAcp("TP_semilep_genAcp_10_6-semi_CEDM5_1j","mu");
+	PlotAcp("TP_semilep_genAcp_10_6-semi_CEDM5_1j","el");
+*/
+/*
+	PlotAcp("TP_semilep_genAcp_NoSel_10_7-semi_CEDM5_0j","t");
+	PlotAcp("TP_semilep_genAcp_NoSel_10_7-semi_CEDM5_0j","mu");
+	PlotAcp("TP_semilep_genAcp_NoSel_10_7-semi_CEDM5_0j","el");
+*/
+
+/*
+	PlotAcp("TP_semilep_genAcp_NoSel_10_7-semi_2HDM_NLO_m1_0j","t");
+	PlotAcp("TP_semilep_genAcp_NoSel_10_7-semi_2HDM_NLO_m1_0j","mu");
+	PlotAcp("TP_semilep_genAcp_NoSel_10_7-semi_2HDM_NLO_m1_0j","el");
+
+	PlotAcp("TP_semilep_genAcp_NoSel_10_7-semi_SM_i5_0j","t");
+	PlotAcp("TP_semilep_genAcp_NoSel_10_7-semi_SM_i5_0j","mu");
+	PlotAcp("TP_semilep_genAcp_NoSel_10_7-semi_SM_i5_0j","el");
+
+	PlotAcp("TP_semilep_genAcp_NoSel_10_7-semi_2HDM_NLO_m2_0j","t");
+	PlotAcp("TP_semilep_genAcp_NoSel_10_7-semi_2HDM_NLO_m2_0j","mu");
+	PlotAcp("TP_semilep_genAcp_NoSel_10_7-semi_2HDM_NLO_m2_0j","el");
+*/
 }
 
 void PlotAcp( const string& filename, const string& channel = "t" )
@@ -236,14 +289,23 @@ void PlotAcp( const string& filename, const string& channel = "t" )
 
 	for(int i=0;i<4;++i)
 	{
-		//double binerr = num->GetBinError(i+2);
-		double binerr = hand_acp_err[i];
+		double binerr = num->GetBinError(i+2);
+		//double binerr = hand_acp_err[i];
+
 		h_acp->SetBinContent( i+1, num->GetBinContent(i+2)*100 );
 		h_acp->SetBinError( i+1, binerr*100 );
 		h_error1->SetBinContent( i+1, num->GetBinContent(i+2)*100 );
 		h_error1->SetBinError( i+1, binerr*100 );
 		h_error2->SetBinContent( i+1, num->GetBinContent(i+2)*100 );
 		h_error2->SetBinError( i+1, binerr*200 );
+/*
+		h_acp->SetBinContent( i+1, num->GetBinContent(i+2) );
+		h_acp->SetBinError( i+1, binerr );
+		h_error1->SetBinContent( i+1, num->GetBinContent(i+2) );
+		h_error1->SetBinError( i+1, binerr );
+		h_error2->SetBinContent( i+1, num->GetBinContent(i+2) );
+		h_error2->SetBinError( i+1, binerr );
+*/
 	}
 
 
@@ -285,7 +347,22 @@ void PlotAcp( const string& filename, const string& channel = "t" )
 
 	string pdfname = "pdfFile/Acp_" + filename + "_" + channel + ".pdf";
 	c->Print( (char*)pdfname.c_str() );
-	
+
+	string txtname = "Acp_value";
+	ofstream fout;
+    fout.open(  (  txtname + string(".txt") ).c_str() ,ios::app );
+
+    fout << endl;
+    fout << "File : " << filename << endl;
+    fout << "cchannel : " << channel << endl;
+    fout << "O_3 : " << h_error1->GetBinContent(1) << ", err : " << h_error1->GetBinError(1) << endl;
+    fout << "O_6 : " << h_error1->GetBinContent(2) << ", err : " << h_error1->GetBinError(2) << endl;
+    fout << "O_12 : " << h_error1->GetBinContent(3) << ", err : " << h_error1->GetBinError(3) << endl;
+    fout << "O_14 : " << h_error1->GetBinContent(4) << ", err : " << h_error1->GetBinError(4) << endl;
+    for(int i=0;i<25;++i) fout << "=";
+    fout << endl;
+
+    fout.close();
 }
 
 double GetAcpError( TH1D* p, TH1D* n, int bin )

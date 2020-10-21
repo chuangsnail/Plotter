@@ -1,0 +1,121 @@
+==================================================
+SetName : 10_7-semi_SM_0j ,pass_sel : 1345609 ,total_entries : 10000000
+10_7-semi_SM_0j_GVSel_j1_Obs3_M:0.000949013
+10_7-semi_SM_0j_GVSel_j1_Obs3_E:0.000862066
+10_7-semi_SM_0j_GVSel_j1_Obs6_M:0.00179473
+10_7-semi_SM_0j_GVSel_j1_Obs6_E:0.000862065
+10_7-semi_SM_0j_GVSel_j1_Obs12_M:-0.000504604
+10_7-semi_SM_0j_GVSel_j1_Obs12_E:0.000862066
+10_7-semi_SM_0j_GVSel_j1_Obs13_M:-0.0012329
+10_7-semi_SM_0j_GVSel_j1_Obs13_E:0.000862065
+==================================================
+==================================================
+SetName : 10_7-semi_CEDM0pt5_0j ,pass_sel : 1347895 ,total_entries : 10000000
+10_7-semi_CEDM0pt5_0j_GVSel_j1_Obs3_M:-0.00738856
+10_7-semi_CEDM0pt5_0j_GVSel_j1_Obs3_E:0.000861311
+10_7-semi_CEDM0pt5_0j_GVSel_j1_Obs6_M:-0.00482308
+10_7-semi_CEDM0pt5_0j_GVSel_j1_Obs6_E:0.000861325
+10_7-semi_CEDM0pt5_0j_GVSel_j1_Obs12_M:0.000641741
+10_7-semi_CEDM0pt5_0j_GVSel_j1_Obs12_E:0.000861335
+10_7-semi_CEDM0pt5_0j_GVSel_j1_Obs13_M:2.29988e-05
+10_7-semi_CEDM0pt5_0j_GVSel_j1_Obs13_E:0.000861335
+==================================================
+==================================================
+SetName : 10_7-semi_CEDM1_0j ,pass_sel : 1352213 ,total_entries : 10000000
+10_7-semi_CEDM1_0j_GVSel_j1_Obs3_M:-0.0150427
+10_7-semi_CEDM1_0j_GVSel_j1_Obs3_E:0.000859861
+10_7-semi_CEDM1_0j_GVSel_j1_Obs6_M:-0.0103201
+10_7-semi_CEDM1_0j_GVSel_j1_Obs6_E:0.000859913
+10_7-semi_CEDM1_0j_GVSel_j1_Obs12_M:0.00184364
+10_7-semi_CEDM1_0j_GVSel_j1_Obs12_E:0.000859957
+10_7-semi_CEDM1_0j_GVSel_j1_Obs13_M:-0.000111669
+10_7-semi_CEDM1_0j_GVSel_j1_Obs13_E:0.000859958
+==================================================
+==================================================
+SetName : 10_7-semi_CEDM1pt5_0j ,pass_sel : 1354999 ,total_entries : 10000000
+10_7-semi_CEDM1pt5_0j_GVSel_j1_Obs3_M:-0.0208229
+10_7-semi_CEDM1pt5_0j_GVSel_j1_Obs3_E:0.000858888
+10_7-semi_CEDM1pt5_0j_GVSel_j1_Obs6_M:-0.0140185
+10_7-semi_CEDM1pt5_0j_GVSel_j1_Obs6_E:0.000858989
+10_7-semi_CEDM1pt5_0j_GVSel_j1_Obs12_M:0.00164945
+10_7-semi_CEDM1pt5_0j_GVSel_j1_Obs12_E:0.000859073
+10_7-semi_CEDM1pt5_0j_GVSel_j1_Obs13_M:-2.43543e-05
+10_7-semi_CEDM1pt5_0j_GVSel_j1_Obs13_E:0.000859074
+==================================================
+==================================================
+SetName : 10_7-semi_CEDM2_0j ,pass_sel : 1366467 ,total_entries : 10000000
+10_7-semi_CEDM2_0j_GVSel_j1_Obs3_M:-0.0260519
+10_7-semi_CEDM2_0j_GVSel_j1_Obs3_E:0.000855171
+10_7-semi_CEDM2_0j_GVSel_j1_Obs6_M:-0.0174721
+10_7-semi_CEDM2_0j_GVSel_j1_Obs6_E:0.000855331
+10_7-semi_CEDM2_0j_GVSel_j1_Obs12_M:0.00118481
+10_7-semi_CEDM2_0j_GVSel_j1_Obs12_E:0.000855461
+10_7-semi_CEDM2_0j_GVSel_j1_Obs13_M:-9.4404e-05
+10_7-semi_CEDM2_0j_GVSel_j1_Obs13_E:0.000855461
+==================================================
+==================================================
+SetName : 10_7-semi_CEDM2pt5_0j ,pass_sel : 1375350 ,total_entries : 10000000
+10_7-semi_CEDM2pt5_0j_GVSel_j1_Obs3_M:-0.0284349
+10_7-semi_CEDM2pt5_0j_GVSel_j1_Obs3_E:0.00085235
+10_7-semi_CEDM2pt5_0j_GVSel_j1_Obs6_M:-0.0177337
+10_7-semi_CEDM2pt5_0j_GVSel_j1_Obs6_E:0.00085256
+10_7-semi_CEDM2pt5_0j_GVSel_j1_Obs12_M:0.00282837
+10_7-semi_CEDM2pt5_0j_GVSel_j1_Obs12_E:0.000852691
+10_7-semi_CEDM2pt5_0j_GVSel_j1_Obs13_M:0.000350456
+10_7-semi_CEDM2pt5_0j_GVSel_j1_Obs13_E:0.000852694
+==================================================
+==================================================
+SetName : 10_7-semi_CEDM3_0j ,pass_sel : 1386790 ,total_entries : 10000000
+10_7-semi_CEDM3_0j_GVSel_j1_Obs3_M:-0.0310934
+10_7-semi_CEDM3_0j_GVSel_j1_Obs3_E:0.000848759
+10_7-semi_CEDM3_0j_GVSel_j1_Obs6_M:-0.0188507
+10_7-semi_CEDM3_0j_GVSel_j1_Obs6_E:0.000849019
+10_7-semi_CEDM3_0j_GVSel_j1_Obs12_M:0.00367035
+10_7-semi_CEDM3_0j_GVSel_j1_Obs12_E:0.000849164
+10_7-semi_CEDM3_0j_GVSel_j1_Obs13_M:0.000589851
+10_7-semi_CEDM3_0j_GVSel_j1_Obs13_E:0.00084917
+==================================================
+==================================================
+SetName : 10_7-semi_CEDM3pt5_0j ,pass_sel : 1393409 ,total_entries : 10000000
+10_7-semi_CEDM3pt5_0j_GVSel_j1_Obs3_M:-0.0330291
+10_7-semi_CEDM3pt5_0j_GVSel_j1_Obs3_E:0.000846689
+10_7-semi_CEDM3pt5_0j_GVSel_j1_Obs6_M:-0.0206953
+10_7-semi_CEDM3pt5_0j_GVSel_j1_Obs6_E:0.000846969
+10_7-semi_CEDM3pt5_0j_GVSel_j1_Obs12_M:0.00233743
+10_7-semi_CEDM3pt5_0j_GVSel_j1_Obs12_E:0.000847148
+10_7-semi_CEDM3pt5_0j_GVSel_j1_Obs13_M:0.000871962
+10_7-semi_CEDM3pt5_0j_GVSel_j1_Obs13_E:0.00084715
+==================================================
+==================================================
+SetName : 10_7-semi_CEDM4_0j ,pass_sel : 1405564 ,total_entries : 10000000
+10_7-semi_CEDM4_0j_GVSel_j1_Obs3_M:-0.0333233
+10_7-semi_CEDM4_0j_GVSel_j1_Obs3_E:0.000843011
+10_7-semi_CEDM4_0j_GVSel_j1_Obs6_M:-0.0205882
+10_7-semi_CEDM4_0j_GVSel_j1_Obs6_E:0.000843301
+10_7-semi_CEDM4_0j_GVSel_j1_Obs12_M:0.00268504
+10_7-semi_CEDM4_0j_GVSel_j1_Obs12_E:0.000843477
+10_7-semi_CEDM4_0j_GVSel_j1_Obs13_M:0.000101027
+10_7-semi_CEDM4_0j_GVSel_j1_Obs13_E:0.00084348
+==================================================
+==================================================
+SetName : 10_7-semi_CEDM4pt5_0j ,pass_sel : 1419164 ,total_entries : 10000000
+10_7-semi_CEDM4pt5_0j_GVSel_j1_Obs3_M:-0.0303066
+10_7-semi_CEDM4pt5_0j_GVSel_j1_Obs3_E:0.000839043
+10_7-semi_CEDM4pt5_0j_GVSel_j1_Obs6_M:-0.0192339
+10_7-semi_CEDM4pt5_0j_GVSel_j1_Obs6_E:0.000839273
+10_7-semi_CEDM4pt5_0j_GVSel_j1_Obs12_M:0.00324275
+10_7-semi_CEDM4pt5_0j_GVSel_j1_Obs12_E:0.000839424
+10_7-semi_CEDM4pt5_0j_GVSel_j1_Obs13_M:-0.000329772
+10_7-semi_CEDM4pt5_0j_GVSel_j1_Obs13_E:0.000839428
+==================================================
+==================================================
+SetName : 10_7-semi_CEDM5_0j ,pass_sel : 1423011 ,total_entries : 10000000
+10_7-semi_CEDM5_0j_GVSel_j1_Obs3_M:-0.0312612
+10_7-semi_CEDM5_0j_GVSel_j1_Obs3_E:0.000837883
+10_7-semi_CEDM5_0j_GVSel_j1_Obs6_M:-0.0197785
+10_7-semi_CEDM5_0j_GVSel_j1_Obs6_E:0.000838129
+10_7-semi_CEDM5_0j_GVSel_j1_Obs12_M:0.00389807
+10_7-semi_CEDM5_0j_GVSel_j1_Obs12_E:0.000838287
+10_7-semi_CEDM5_0j_GVSel_j1_Obs13_M:0.000146872
+10_7-semi_CEDM5_0j_GVSel_j1_Obs13_E:0.000838293
+==================================================

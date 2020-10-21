@@ -111,12 +111,37 @@ void exe()
 	double m[N_Obs] = {-0.000138615,-0.000192809};
 	double s[N_Obs] = {0.000570469,0.000570597};
 */
+/*
 	//V//
 	string filename = "2HDM_default_B1993_A1_NoSel";
 	string name[N_Obs] = { "SM", "2HDM-d" };
 	double m[N_Obs] = {-0.00007090,-0.000471581};
 	double s[N_Obs] = {0.000316228,0.000316228};
+*/
 
+	// after 2020 Oct.
+/*
+	string filename = "2HDM_default_B1993_A1_NoSel_new";
+	string name[N_Obs] = { "SM", "2HDM(default)" };
+	double m[N_Obs] = {-0.00007090,-0.000471581};
+	double s[N_Obs] = {0.000316228,0.000316228};
+*/
+/*
+	string filename = "2HDM_default_B1993_A2_NoSel_new";
+	string name[N_Obs] = { "SM", "2HDM(default)" };
+	double m[N_Obs] = {0.000113106,0.000136589};
+	double s[N_Obs] = {0.000316228,0.000316228};
+*/
+/*
+	string filename = "2HDM_default_B1993_O1_NoSel_new";
+	string name[N_Obs] = { "SM", "2HDM(default)" };
+	double m[N_Obs] = {0.000217213,-0.000162895};
+	double s[N_Obs] = {0.00047576,0.000475596};
+*/
+	string filename = "2HDM_default_B1993_Q1_NoSel_new";
+	string name[N_Obs] = { "SM", "2HDM(default)" };
+	double m[N_Obs] = {-0.0000332,-0.000403};
+	double s[N_Obs] = {0.000316228,0.000316228};
 
 	//string name[N_Obs] = { "SM", "CEDM0.5", "CEDM1", "CEDM1.5", "CEDM2", "CEDM2.5", "CEDM3", "CEDM3.5", "CEDM4", "CEDM4.5", "CEDM5" };
 
